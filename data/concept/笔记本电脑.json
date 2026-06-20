@@ -1,0 +1,88 @@
+{
+  "name": "笔记本电脑",
+  "alias": [],
+  "keywords": [
+    "办公本",
+    "游戏本",
+    "轻薄本"
+  ],
+  "description": "笔记本电脑（笔记本、便携式电脑）是将显示、键盘、触控板与主机集成一体的便携个人计算机，按定位可分为商务本、轻薄本、游戏本、创作本、教育本等品类。产业链上游为CPU、GPU、内存、存储、屏幕、电池与主板等核心部件，中游为整机品牌与代工制造（ODM），下游为渠道分销、电商与政企采购。笔记本电脑是全球办公、学习、内容创作与电竞娱乐的核心计算设备，年出货量超2亿台，行业呈头部集中、AI化、高端化趋势。全球市场由头部品牌主导，中国台湾代工体系（广达、仁宝、纬创等）承担全球大部分笔记本制造，AI PC与折叠屏成为新一轮产品升级方向。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "联想集团",
+      "reasons": [
+        "ThinkPad、拯救者"
+      ]
+    },
+    {
+      "name": "惠普",
+      "reasons": [
+        "暗影精灵（Omen）"
+      ]
+    },
+    {
+      "name": "戴尔科技",
+      "reasons": []
+    },
+    {
+      "name": "苹果",
+      "reasons": []
+    },
+    {
+      "name": "华硕",
+      "reasons": [
+        "ZenBook、VivoBook、玩家国度（ROG）、ProArt"
+      ]
+    },
+    {
+      "name": "宏碁",
+      "reasons": [
+        "Swift、Aspire、掠夺者（Predator）"
+      ]
+    },
+    {
+      "name": "三星电子",
+      "reasons": [
+        "Galaxy Book"
+      ]
+    },
+    {
+      "name": "小米集团",
+      "reasons": [
+        "小米、红米"
+      ]
+    },
+    {
+      "name": "微星",
+      "reasons": [
+        "泰坦（Raider）、绝影（Stealth）、神影（Crosshair）"
+      ]
+    },
+    {
+      "name": "技嘉",
+      "reasons": []
+    },
+    {
+      "name": "松下",
+      "reasons": [
+        "Let's note"
+      ]
+    },
+    {
+      "name": "夏普",
+      "reasons": [
+        "Dynabook"
+      ]
+    },
+    {
+      "name": "LG电子",
+      "reasons": [
+        "LG gram"
+      ]
+    }
+  ],
+  "related": [
+    "台式电脑"
+  ]
+}

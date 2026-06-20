@@ -1,0 +1,74 @@
+{
+  "name": "原料药",
+  "alias": [
+    "Active Pharmaceutical Ingredient",
+    "API"
+  ],
+  "description": "原料药（Active Pharmaceutical Ingredient，API）是药品的活性成分，指用于药品制造中的一种物质或混合物，是药物制剂的核心有效成分。原料药行业处于医药产业链上游，通过化学合成、生物发酵等工艺生产，主要分为大宗原料药、特色原料药、专利原料药。A股原料药上市公司包括华海药业、普洛药业、天宇股份、司太立、仙琚制药、美诺华等。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "石药创新",
+      "reasons": []
+    },
+    {
+      "name": "华海药业",
+      "reasons": []
+    },
+    {
+      "name": "普洛药业",
+      "reasons": []
+    },
+    {
+      "name": "联邦制药",
+      "reasons": []
+    },
+    {
+      "name": "美诺华",
+      "reasons": []
+    },
+    {
+      "name": "天宇股份",
+      "reasons": []
+    },
+    {
+      "name": "永安药业",
+      "reasons": []
+    },
+    {
+      "name": "键凯科技",
+      "reasons": []
+    },
+    {
+      "name": "司太立",
+      "reasons": []
+    },
+    {
+      "name": "海森药业",
+      "reasons": []
+    },
+    {
+      "name": "溢多利",
+      "reasons": []
+    },
+    {
+      "name": "共同药业",
+      "reasons": []
+    },
+    {
+      "name": "赛托生物",
+      "reasons": []
+    },
+    {
+      "name": "九洲药业",
+      "reasons": []
+    },
+    {
+      "name": "仙琚制药",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "化学制药"
+  ]
+}

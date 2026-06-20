@@ -1,0 +1,27 @@
+{
+  "name": "双马来酰亚胺三嗪树脂",
+  "alias": [
+    "Bismaleimide Triazine",
+    "BT树脂"
+  ],
+  "description": "双马来酰亚胺三嗪树脂（BT树脂）是由双马来酰亚胺（BMI）与三嗪（氰酸酯）树脂共固化形成的热固性树脂体系，是集成电路（IC）封装基板的核心基材材料，以高耐热性、低介电常数、低热膨胀系数、耐CAF等优异性能著称。BT封装基材主要应用于存储芯片（DRAM、Flash）、射频芯片、MEMS、CPU/GPU算力芯片等IC封装基板，以及Mini&Micro LED、PMIC、VCM音圈马达等领域。BT树脂及基材长期被日本三菱瓦斯、松下等日韩企业垄断，中国正加速BT材料国产替代。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "生益科技",
+      "reasons": []
+    },
+    {
+      "name": "华正新材",
+      "reasons": []
+    },
+    {
+      "name": "南亚新材",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "双马来酰亚胺树脂",
+    "集成电路封装"
+  ]
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "code": "CN",
+    "name": "中国",
+    "englishName": "China",
+    "longitude": 104.1954,
+    "latitude": 35.8617
+  },
+  {
+    "code": "JP",
+    "name": "日本",
+    "englishName": "Japan",
+    "longitude": 138.2529,
+    "latitude": 36.2048
+  },
+  {
+    "code": "KR",
+    "name": "韩国",
+    "englishName": "South Korea",
+    "longitude": 127.7669,
+    "latitude": 35.9078
+  },
+  {
+    "code": "HK",
+    "name": "香港",
+    "englishName": "Hong Kong",
+    "longitude": 114.1095,
+    "latitude": 22.3964
+  },
+  {
+    "code": "TW",
+    "name": "台湾",
+    "englishName": "Taiwan",
+    "longitude": 120.9605,
+    "latitude": 23.6978
+  },
+  {
+    "code": "IN",
+    "name": "印度",
+    "englishName": "India",
+    "longitude": 79.358105,
+    "latitude": 22.686852
+  },
+  {
+    "code": "TH",
+    "name": "泰国",
+    "englishName": "Thailand",
+    "longitude": 101.073198,
+    "latitude": 15.45974
+  },
+  {
+    "code": "VN",
+    "name": "越南",
+    "englishName": "Vietnam",
+    "longitude": 105.387292,
+    "latitude": 21.715416
+  },
+  {
+    "code": "PH",
+    "name": "菲律宾",
+    "englishName": "Philippines",
+    "longitude": 122.465,
+    "latitude": 11.198
+  },
+  {
+    "code": "SG",
+    "name": "新加坡",
+    "englishName": "Singapore",
+    "longitude": 103.8198,
+    "latitude": 1.3521
+  },
+  {
+    "code": "MY",
+    "name": "马来西亚",
+    "englishName": "Malaysia",
+    "longitude": 113.83708,
+    "latitude": 2.528667
+  },
+  {
+    "code": "ID",
+    "name": "印度尼西亚",
+    "englishName": "Indonesia",
+    "longitude": 101.892949,
+    "latitude": -0.954404
+  },
+  {
+    "code": "AU",
+    "name": "澳大利亚",
+    "englishName": "Australia",
+    "longitude": 134.04972,
+    "latitude": -24.129522
+  },
+  {
+    "code": "UK",
+    "name": "英国",
+    "englishName": "United Kingdom",
+    "longitude": -3.4359,
+    "latitude": 55.3781
+  },
+  {
+    "code": "IE",
+    "name": "爱尔兰",
+    "englishName": "Ireland",
+    "longitude": -7.798588,
+    "latitude": 53.078726
+  },
+  {
+    "code": "FR",
+    "name": "法国",
+    "englishName": "France",
+    "longitude": 2.2137,
+    "latitude": 46.2276
+  },
+  {
+    "code": "BE",
+    "name": "比利时",
+    "englishName": "Belgium",
+    "longitude": 4.800448,
+    "latitude": 50.785392
+  },
+  {
+    "code": "DE",
+    "name": "德国",
+    "englishName": "Germany",
+    "longitude": 10.4515,
+    "latitude": 51.1657
+  },
+  {
+    "code": "IT",
+    "name": "意大利",
+    "englishName": "Italy",
+    "longitude": 12.5674,
+    "latitude": 41.8719
+  },
+  {
+    "code": "ES",
+    "name": "西班牙",
+    "englishName": "Spain",
+    "longitude": -3.7492,
+    "latitude": 40.4637
+  },
+  {
+    "code": "NL",
+    "name": "荷兰",
+    "englishName": "Netherlands",
+    "longitude": 5.2913,
+    "latitude": 52.1326
+  },
+  {
+    "code": "DK",
+    "name": "丹麦",
+    "englishName": "Denmark",
+    "longitude": 9.018163,
+    "latitude": 55.966965
+  },
+  {
+    "code": "FI",
+    "name": "芬兰",
+    "englishName": "Finland",
+    "longitude": 27.276449,
+    "latitude": 63.252361
+  },
+  {
+    "code": "CH",
+    "name": "瑞士",
+    "englishName": "Switzerland",
+    "longitude": 7.463965,
+    "latitude": 46.719114
+  },
+  {
+    "code": "LU",
+    "name": "卢森堡",
+    "englishName": "Luxembourg",
+    "longitude": 6.07762,
+    "latitude": 49.733732
+  },
+  {
+    "code": "AT",
+    "name": "奥地利",
+    "englishName": "Austria",
+    "longitude": 14.130515,
+    "latitude": 47.518859
+  },
+  {
+    "code": "GR",
+    "name": "希腊",
+    "englishName": "Greece",
+    "longitude": 21.8243,
+    "latitude": 39.0742
+  },
+  {
+    "code": "TR",
+    "name": "土耳其",
+    "englishName": "Turkey",
+    "longitude": 35.2433,
+    "latitude": 38.9637
+  },
+  {
+    "code": "RU",
+    "name": "俄罗斯",
+    "englishName": "Russia",
+    "longitude": 105.3188,
+    "latitude": 61.5240
+  },
+  {
+    "code": "KZ",
+    "name": "哈萨克斯坦",
+    "englishName": "Kazakhstan",
+    "longitude": 68.685548,
+    "latitude": 49.054149
+  },
+  {
+    "code": "US",
+    "name": "美国",
+    "englishName": "United States of America",
+    "longitude": -95.7129,
+    "latitude": 37.0902
+  },
+  {
+    "code": "CA",
+    "name": "加拿大",
+    "englishName": "Canada",
+    "longitude": -106.3468,
+    "latitude": 56.1304
+  },
+  {
+    "code": "MX",
+    "name": "墨西哥",
+    "englishName": "Mexico",
+    "longitude": -102.5528,
+    "latitude": 23.6345
+  },
+  {
+    "code": "BR",
+    "name": "巴西",
+    "englishName": "Brazil",
+    "longitude": -49.55945,
+    "latitude": -12.098687
+  },
+  {
+    "code": "CL",
+    "name": "智利",
+    "englishName": "Chile",
+    "longitude": -71.5430,
+    "latitude": -35.6751
+  },
+  {
+    "code": "ZA",
+    "name": "南非",
+    "englishName": "South Africa",
+    "longitude": 22.9375,
+    "latitude": -30.5595
+  }
+]

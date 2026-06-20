@@ -1,0 +1,70 @@
+{
+  "name": "CDMO",
+  "alias": [
+    "Contract Development and Manufacture Organization",
+    "合同研发生产组织"
+  ],
+  "description": "CDMO（Contract Development and Manufacture Organization，合同研发生产组织），为制药企业提供从工艺研发到商业化生产的一站式外包服务，涵盖小分子化学药、生物药（单抗/双抗/ADC）、多肽/寡核苷酸等新分子类型。核心价值在于帮助药企降低研发生产成本、加速上市周期。",
+  "remarks": [
+    "由曾经的CMO（合同生产组织）发展而来，从最初的纯生产外包，演进到如今的“工艺研发-商业化生产”一站式外包"
+  ],
+  "stocks": [
+    {
+      "name": "默克集团",
+      "reasons": []
+    },
+    {
+      "name": "药明康德",
+      "reasons": []
+    },
+    {
+      "name": "凯莱英",
+      "reasons": []
+    },
+    {
+      "name": "康龙化成",
+      "reasons": []
+    },
+    {
+      "name": "普洛药业",
+      "reasons": []
+    },
+    {
+      "name": "皓元医药",
+      "reasons": []
+    },
+    {
+      "name": "九洲药业",
+      "reasons": []
+    },
+    {
+      "name": "博腾股份",
+      "reasons": []
+    },
+    {
+      "name": "泓博医药",
+      "reasons": []
+    },
+    {
+      "name": "百诚医药",
+      "reasons": []
+    },
+    {
+      "name": "博济医药",
+      "reasons": []
+    },
+    {
+      "name": "奥浦迈",
+      "reasons": []
+    },
+    {
+      "name": "天宇股份",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "创新药",
+    "CRO",
+    "实验动物"
+  ]
+}
