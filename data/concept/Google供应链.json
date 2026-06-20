@@ -1,0 +1,11 @@
+{
+  "name": "Google供应链",
+  "description": "谷歌（Google/Alphabet）是全球最大的互联网和AI公司之一，其AI基础设施投资持续高速增长。谷歌AI芯片TPU（张量处理单元）已迭代至v7代，配套的服务器、高速网络交换机等AI基础设施PCB需求旺盛。",
+  "stocks": [
+    {
+      "name": "沪电股份",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

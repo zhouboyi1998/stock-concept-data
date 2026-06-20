@@ -1,0 +1,38 @@
+{
+  "name": "LPO",
+  "alias": [
+    "线性驱动可插拔光模块"
+  ],
+  "description": "LPO（Linear-drive Pluggable Optics，线性驱动可插拔光模块）是一种去除传统光模块中CDR/DSP芯片、由交换机SerDes直接驱动光引擎的新型光模块技术。相比传统光模块，LPO可降低功耗约50%、减少延迟75%，是AI数据中心降低能耗和成本的重要过渡方案。",
+  "stocks": [
+    {
+      "name": "中际旭创",
+      "reasons": []
+    },
+    {
+      "name": "新易盛",
+      "reasons": []
+    },
+    {
+      "name": "光迅科技",
+      "reasons": []
+    },
+    {
+      "name": "华工科技",
+      "reasons": []
+    },
+    {
+      "name": "剑桥科技",
+      "reasons": []
+    },
+    {
+      "name": "铭普光磁",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "光模块",
+    "NPO",
+    "CPO"
+  ]
+}

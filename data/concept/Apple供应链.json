@@ -1,0 +1,15 @@
+{
+  "name": "Apple供应链",
+  "description": "苹果（Apple）是全球最大的科技公司之一，主营iPhone、iPad、Mac、Apple Watch、Vision Pro等消费电子产品。苹果对PCB和封装基板供应商的工艺精度、良率、交付能力要求极高。",
+  "stocks": [
+    {
+      "name": "深南电路",
+      "reasons": []
+    },
+    {
+      "name": "鹏鼎控股",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

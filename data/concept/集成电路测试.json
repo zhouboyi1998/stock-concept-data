@@ -1,0 +1,57 @@
+{
+  "name": "集成电路测试",
+  "description": "集成电路测试（IC Testing）是保证芯片质量的关键环节，包括晶圆测试（CP，Chip Probing）和芯片成品测试（FT，Final Test），以及系统级测试（SLT）、老化测试等。测试内容涵盖功能验证、性能参数（电压、电流、频率、漏电流等）量测和可靠性筛选。行业格局分为封测一体企业的测试部门和独立第三方测试企业两种模式。",
+  "stocks": [
+    {
+      "name": "长电科技",
+      "reasons": []
+    },
+    {
+      "name": "通富微电",
+      "reasons": []
+    },
+    {
+      "name": "华天科技",
+      "reasons": []
+    },
+    {
+      "name": "深科技",
+      "reasons": []
+    },
+    {
+      "name": "太极实业",
+      "reasons": []
+    },
+    {
+      "name": "盛合晶微",
+      "reasons": []
+    },
+    {
+      "name": "甬矽电子",
+      "reasons": []
+    },
+    {
+      "name": "晶方科技",
+      "reasons": []
+    },
+    {
+      "name": "伟测科技",
+      "reasons": []
+    },
+    {
+      "name": "利扬芯片",
+      "reasons": []
+    },
+    {
+      "name": "华岭股份",
+      "reasons": []
+    },
+    {
+      "name": "美迪凯",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "集成电路封装"
+  ]
+}
