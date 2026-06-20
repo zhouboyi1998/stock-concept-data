@@ -1,0 +1,25 @@
+{
+  "name": "锑化镓外延片",
+  "alias": [
+    "GaSb Epitaxial Wafer",
+    "GaSb Epi Wafer"
+  ],
+  "description": "锑化镓外延片（GaSb Epitaxial Wafer）是在锑化镓衬底上通过MBE等设备生长外延层制成的半导体晶圆，是II类超晶格（T2SL）红外探测器、中红外激光器（量子级联激光器等）的核心材料。GaSb外延技术壁垒极高，涉及超晶格结构设计、界面控制、缺陷抑制等核心工艺，主要采用分子束外延（MBE）工艺。全球锑化镓外延片市场为利基高壁垒领域，由Coherent、英特磊（IET-KY）、IQE等少数垂直整合企业主导，均兼具衬底与外延能力。锑化镓外延片下游应用于防务红外对抗、红外探测器、中红外气体传感、热光伏等领域。",
+  "stocks": [
+    {
+      "name": "英特磊",
+      "reasons": []
+    },
+    {
+      "name": "IQE",
+      "reasons": []
+    },
+    {
+      "name": "Coherent",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "锑化镓"
+  ]
+}

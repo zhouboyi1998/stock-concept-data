@@ -1,0 +1,41 @@
+{
+  "name": "DPU",
+  "alias": [
+    "Data Processing Unit",
+    "数据处理器"
+  ],
+  "description": "数据处理器（Data Processing Unit，DPU）是专为数据中心基础设施层任务设计的专用处理器，核心使命是将网络协议处理、存储I/O、虚拟化、安全加密等“CPU处理效率低下、GPU处理不了”的基础设施负载从主机CPU卸载到专用硬件上，从而释放CPU算力用于业务计算。亚马逊云服务将这部分被基础设施操作占用的CPU算力形象地称为“数据中心税”——尚未运行业务程序，仅接入网络数据就要消耗大量计算资源。DPU与CPU、GPU共同构成数据中心的三颗主力芯片，是异构计算架构的关键组成。",
+  "stocks": [
+    {
+      "name": "英伟达",
+      "reasons": []
+    },
+    {
+      "name": "英特尔",
+      "reasons": []
+    },
+    {
+      "name": "超威半导体",
+      "reasons": []
+    },
+    {
+      "name": "迈威尔科技",
+      "reasons": []
+    },
+    {
+      "name": "博通",
+      "reasons": []
+    },
+    {
+      "name": "亚马逊",
+      "reasons": []
+    },
+    {
+      "name": "阿里巴巴",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "CPU"
+  ]
+}

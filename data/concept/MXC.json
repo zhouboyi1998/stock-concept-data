@@ -1,0 +1,45 @@
+{
+  "name": "MXC",
+  "alias": [
+    "Memory Expander Controller",
+    "内存扩展控制器"
+  ],
+  "description": "MXC（Memory Expander Controller/内存扩展控制器）是基于CXL（Compute Express Link）协议的Type-3设备核心芯片，通过PCIe物理层为服务器CPU提供对远端DDR4/DDR5内存的字节级、缓存一致性访问——使CPU能'看见'并通过PCIe总线外挂TB级额外内存容量，突破本地DIMM槽数和内存控制器通道数限制。MXC芯片内集成了CXL.mem协议引擎（处理内存读写请求）+CXL.io协议引擎（设备发现/配置）+DDR控制器（驱动外部DRAM颗粒），附加延迟约70-150纳秒。按部署模式分为直连式内存扩展控制器（占2025年收入71%/通过AIC卡或EDSFF形态直接挂载到单台服务器）和池化/共享控制器（支持多主机跨服务器访问同一内存池/含交换和多主机RAS功能/增速最快/35.6% CAGR）。行业正处于CXL 2.0量产+CXL 3.x导入期——2025年11月CXL 4.0规范发布（128GT/s/翻倍带宽），但主流出货仍以CXL 2.0为主（占收入87%）。市场由少数几家商用控制器芯片供应商主导（前两家占控制器收入约55-65%），进入壁垒极高（需与Intel/AMD服务器平台深度联调+三星/SK海力士/美光内存模块互操作验证+云客户长时间认证周期），三大内存原厂（三星/SK海力士/美光）正在收缩自研CXL控制器策略/转向外购商用芯片。AI推理应用（大模型推理需海量低成本内存容量而非极致带宽）被视为CXL规模部署的关键催化场景。",
+  "remarks": [
+    "CXL（Compute Express Link）：一种芯片之间互相访问的高速互联协议，用于PCIe总线中，包含3个子协议",
+    "CXL.io：设备的发现与配置、寄存器访问（基础协议，必选）",
+    "CXL.cache：设备访问CPU缓存（可选）",
+    "CXL.mem：CPU访问设备上的内存（可选）",
+    "---",
+    "MXC（Memory Expander Controller/内存扩展控制器）：支持CXL.io和CXL.mem协议的高速互联控制器",
+    "---",
+    "2025",
+    "Astera：38%",
+    "澜起科技：8%",
+    "Marvell：5%",
+    "微芯科技：4%"
+  ],
+  "stocks": [
+    {
+      "name": "Astera",
+      "reasons": []
+    },
+    {
+      "name": "澜起科技",
+      "reasons": []
+    },
+    {
+      "name": "迈威尔科技",
+      "reasons": []
+    },
+    {
+      "name": "微芯科技",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "PCIe",
+    "PCIe信号重整芯片",
+    "PCIe交换芯片"
+  ]
+}

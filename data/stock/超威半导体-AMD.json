@@ -1,0 +1,50 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AMD"
+    }
+  ],
+  "name": "超威半导体",
+  "alias": [
+    "AMD"
+  ],
+  "description": "Advanced Micro Devices Inc.，全球第二大高性能计算和图形处理器设计公司，CPU+GPU+FPGA三大架构布局。核心产品涵盖数据中心GPU（Instinct MI300X/MI350X/MI400系列）、数据中心CPU（EPYC 9005系列）、客户端CPU（Ryzen AI 300系列）、游戏GPU（Radeon RX 9000系列）、FPGA（Xilinx Versal）等。Instinct MI350X GPU已量产并与多家超大规模客户合作，Helios机架平台获行业认可。嵌入式业务（含Xilinx），工业与航空航天市场需求回暖。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "GPU",
+      "reasons": [
+        "全球第二大独立GPU厂商，数据中心Instinct系列（MI300X/MI350X/MI400）和游戏Radeon RX 9000系列双线布局",
+        "2025财年数据中心业务营收166.35亿美元（+32%），GPU在AI训练和推理市场加速渗透，获OpenAI 60亿美元GPU供应协议",
+        "Instinct MI350X GPU已量产并交付多家超大规模客户，MI400系列正在开发中，ROCm软件生态持续完善缩小与CUDA差距"
+      ]
+    },
+    {
+      "name": "CPU",
+      "reasons": [
+        "服务器CPU持续侵蚀Intel市场份额，EPYC 9005系列（Turin）基于Zen 5架构，在云服务和企业级市场获得广泛部署",
+        "客户端Ryzen AI 300系列处理器集成XDNA 2 NPU（50 TOPS），驱动AI PC换机潮，2025年客户端业务营收同比增长超50%",
+        "2025财年客户端+游戏业务营收145.50亿美元（+51%），EPYC和Ryzen双轮驱动CPU业务强势增长"
+      ]
+    },
+    {
+      "name": "NPU",
+      "reasons": [
+        "Ryzen AI NPU基于XDNA架构（源自Xilinx自适应计算技术），为AMD PC处理器的专用AI加速引擎",
+        "Ryzen AI 300系列（Strix Point）NPU算力达50 TOPS，满足微软Copilot+ PC要求",
+        "Ryzen AI NPU支持INT8/FP16精度，为Windows PC端侧AI推理提供高效硬件加速",
+        "AMD统一AI平台战略将CPU、GPU、NPU三合一，NPU在低功耗AI任务中发挥作用，GPU负责高性能AI计算"
+      ]
+    },
+    {
+      "name": "DPU",
+      "reasons": [
+        "AMD通过收购Pensando进入DPU市场，其Pensando DPU系列已在超大规模数据中心得到广泛采用和验证，主要面向AI集群前端网络的数据移动加速。最新一代Salina DPU是完全可编程的P4架构DPU，经过全方位优化以降低延迟、抖动和功耗",
+        "Salina DPU的核心处理单元由232个可编程P4微流水线处理器（MPU）和16个Arm Neoverse N1通用核心组成，P4 MPU专门负责线速数据包处理，支持400G吞吐量和微秒级延迟，可有效扩展至数百万条流，性能较上一代提升约2倍",
+        "Salina DPU支持多租户SDN和虚拟网络、安全服务加速和全面可观测性、AI存储和KV-Cache优化以及AI集群前端网络等应用场景，DXC Technology估计通过在HPE Aruba CX 10000系列交换机中部署Pensando DPU，可实现约6500万美元的TCO节省",
+        "AMD还推出了Giglio DPU，基于第二代架构增强功耗和性能效率，提供双200 Gbps线速加速，以及第二代Elba DPU，面向数据中心网络、存储和安全服务。Pensando DPU已被Microsoft Azure、IBM Cloud等超大规模云厂商采用"
+      ]
+    }
+  ]
+}

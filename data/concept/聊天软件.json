@@ -1,0 +1,41 @@
+{
+  "name": "聊天软件",
+  "alias": [
+    "即时通讯软件",
+    "IM"
+  ],
+  "description": "社交软件概念指以即时通讯（IM）为核心的个人聊天软件产业，涵盖微信、QQ、WhatsApp、Facebook Messenger、iMessage、LINE、KakaoTalk等产品，核心功能为实时文字、语音、视频通信，并逐步延伸支付、小程序、生活服务等生态功能，变现方式包括广告、增值服务、企业服务、生态商业化。",
+  "stocks": [
+    {
+      "name": "腾讯控股",
+      "reasons": [
+        "微信、QQ"
+      ]
+    },
+    {
+      "name": "Meta",
+      "reasons": [
+        "WhatsApp"
+      ]
+    },
+    {
+      "name": "苹果",
+      "reasons": [
+        "iMessage"
+      ]
+    },
+    {
+      "name": "Line Yahoo",
+      "reasons": [
+        "LINE"
+      ]
+    },
+    {
+      "name": "Kakao",
+      "reasons": [
+        "KakaoTalk"
+      ]
+    }
+  ],
+  "related": []
+}

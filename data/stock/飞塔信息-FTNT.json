@@ -1,0 +1,64 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "FTNT"
+    }
+  ],
+  "name": "飞塔信息",
+  "alias": [
+    "Fortinet"
+  ],
+  "description": "飞塔信息（Fortinet）是全球网络安全领导者、推动网络安全、网络融合，纳斯达克上市，总部位于美国加利福尼亚州森尼韦尔。公司使命是保护所有地方的人员、设备、数据，提供50多种企业级安全产品的最大集成组合，客户超过50万。公司核心产品包括FortiGate下一代防火墙、FortiSASE、FortiSOAR、FortiEDR等，依托FortiOS操作系统和FortiASIC技术，覆盖防火墙、SASE、安全运营、云安全、威胁情报等领域。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "网络安全",
+      "reasons": [
+        "网络安全为飞塔信息核心业务，公司是全球网络安全领导者、推动网络安全、网络融合，提供50多种企业级安全产品",
+        "公司FortiGate下一代防火墙市场份额全球第一、台量市占率55%，依托FortiOS和FortiASIC技术提供5至10倍性能优势",
+        "公司2025财年总收入68亿美元、同比增长14%，超过50万客户信任飞塔解决方案"
+      ]
+    },
+    {
+      "name": "防火墙",
+      "reasons": [
+        "防火墙为飞塔信息核心产品，公司FortiGate是下一代防火墙、全球第一大防火墙厂商、台量市场占有率55%",
+        "公司FortiOS统一网络、安全，FortiASIC技术提供5至10倍于竞争对手的性能",
+        "公司防火墙产品在Gartner网络防火墙魔力象限保持领导者地位"
+      ]
+    },
+    {
+      "name": "SASE",
+      "reasons": [
+        "SASE为飞塔信息核心业务，公司FortiSASE提供统一SASE解决方案、Unified SASE账单收入增长40%",
+        "公司单操作系统FortiOS集成下一代防火墙、SD-WAN、SASE，支持本地和云端部署",
+        "公司Unified SASE ARR 12.8亿美元、FortiSASE ARR增长超90%，是2025 Gartner SASE平台魔力象限领导者"
+      ]
+    },
+    {
+      "name": "安全运营",
+      "reasons": [
+        "安全运营为飞塔信息核心业务，公司提供FortiSOAR、FortiEDR等20多种AI驱动的安全运营解决方案",
+        "公司安全运营（SecOps）2025财年账单收入全年增长22%、ARR 4.91亿美元、同比增长21%",
+        "公司安全运营方案帮助客户将多个安全厂商整合到飞塔平台"
+      ]
+    },
+    {
+      "name": "云安全",
+      "reasons": [
+        "云安全为飞塔信息业务，公司FortiCNAPP提供云原生应用保护",
+        "公司与NVIDIA合作、将FortiGate嵌入BlueField-3 DPU保护AI基础设施",
+        "公司云安全方案保护AI数据中心和云工作负载"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "人工智能为飞塔信息战略方向，公司FortiGuard Labs利用前沿机器学习和AI技术提供威胁防护",
+        "公司20多种AI驱动安全解决方案推动客户整合到飞塔平台",
+        "公司FortiOS 8.0将新增企业智能体AI安全能力，与NVIDIA合作保护AI基础设施"
+      ]
+    }
+  ]
+}

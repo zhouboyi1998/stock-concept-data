@@ -1,0 +1,24 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "CIEN"
+    }
+  ],
+  "name": "Ciena",
+  "alias": [
+    "希纳"
+  ],
+  "description": "全球最大的相干光传输设备及技术供应商，核心产品为基于自研WaveLogic相干DSP（数字信号处理器）的光网络系统，包括6500分组光平台（城域网络、海底网络）、WaveLogic可插拔相干光模块（400G、800G）和先进光子线路系统（可重构光分插复用器ROADM）。WaveLogic系列相干DSP从WaveLogic 3（100G）到WaveLogic 6（3nm/1.6T）历经六代迭代，从未对外单独销售DSP芯片，全部自用于自家光传输设备和插拔模块中。公司通过2010年收购北电网络光业务获得相干光技术基础，2025年收购Nubis扩展互连产品线。业务横跨长途、城域、数据中心互连、海底光缆、云、AI网络基础设施。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "相干数字信号处理器",
+      "reasons": [
+        "WaveLogic系列相干DSP为全球出货端口数最多的相干光DSP（芯片全部自用于自己的WaveLogic，不对外销售芯片），从WaveLogic 3（100G）到WaveLogic 6（3nm，1.6T）六代迭代，集成高阶QAM调制、概率星座整形、软判决FEC、奈奎斯特子载波等全部前沿相干技术，每代支持传输距离翻倍或频谱效率提升50%以上",
+        "FY2025光网络业务营收增长23%，ZR和ZR+可插拔模块收入接近1.7亿美元，直接云服务商收入增长超50%，WaveLogic 5 Nano切入商用可插拔相干光模块市场，WaveLogic 6为首款3nm 1.6T相干DSP",
+        "Ciena同时具备相干DSP自研、光系统设备自产、光子集成（SiPh和InP）及网络控制软件（Navigator MC）全栈能力，DSP芯片全部自用不对外销售"
+      ]
+    }
+  ]
+}
