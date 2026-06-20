@@ -1,0 +1,63 @@
+{
+  "name": "钛",
+  "alias": [
+    "Titanium",
+    "Ti"
+  ],
+  "description": "钛是一种战略性轻金属，在地壳中丰度0.69%排名第9位，主要赋存于钛铁矿和金红石两种矿物中，其中钛铁矿储量占比约94%、金红石约6%。全球钛矿资源主要分布于澳大利亚、中国、南非、莫桑比克、印度等国，澳大利亚金红石储量占全球70%以上，为全球最大钛原料出口国。全球前五大钛矿企业控制约57%的供应，头部企业包括力拓、Tronox、Iluka、Kenmare等。钛矿经采选加工为钛精矿，进一步加工为钛白粉（占消费约90%）和海绵钛（约占4%），广泛应用于涂料、航空航天、化工等领域。本概念收录全球范围内有钛产出的矿企。",
+  "remarks": [
+    "矿石类型：锆钛矿、钒钛矿、钛铁矿、金红石"
+  ],
+  "stocks": [
+    {
+      "name": "力拓",
+      "reasons": []
+    },
+    {
+      "name": "Tronox",
+      "reasons": []
+    },
+    {
+      "name": "Kenmare Resources",
+      "reasons": []
+    },
+    {
+      "name": "Iluka Resources",
+      "reasons": []
+    },
+    {
+      "name": "Eramet",
+      "reasons": []
+    },
+    {
+      "name": "Sierra Rutile",
+      "reasons": []
+    },
+    {
+      "name": "PYX Resources",
+      "reasons": []
+    },
+    {
+      "name": "龙佰集团",
+      "reasons": []
+    },
+    {
+      "name": "安宁股份",
+      "reasons": []
+    },
+    {
+      "name": "盛和资源",
+      "reasons": []
+    },
+    {
+      "name": "东方锆业",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "锆",
+    "铪",
+    "钒",
+    "铁"
+  ]
+}

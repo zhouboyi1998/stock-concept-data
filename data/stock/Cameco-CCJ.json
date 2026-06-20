@@ -1,0 +1,55 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "CCJ"
+    },
+    {
+      "region": "CA",
+      "code": "CCO"
+    }
+  ],
+  "name": "Cameco",
+  "alias": [
+    "卡梅科"
+  ],
+  "description": "Cameco Corporation（卡梅科）是全球最大的上市铀生产商之一，纽约证交所、多伦多证交所上市，总部位于加拿大萨斯喀彻温省萨斯卡通。公司业务覆盖核燃料循环，主营铀矿开采、铀精炼与转化、核燃料组件制造，并通过持有Westinghouse 49%股权参与轻水堆核燃料与核反应堆设计制造。公司在加拿大萨斯喀彻温运营McArthur River与Key Lake、Cigar Lake等全球最高品位铀矿，在哈萨克斯坦与Kazatomprom合资运营Inkai铀矿，是核燃料循环一体化的纯核电投资标的。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "铀",
+      "reasons": [
+        "全球最大上市铀生产商之一，2025年一级产量占全球约15%，掌控全球最大高品位铀矿储量（探明与概略储量约4.33亿磅）",
+        "一级运营McArthur River与Key Lake、Cigar Lake（萨斯喀彻温）与Inkai（哈萨克斯坦，与Kazatomprom合资），2025年Cigar Lake产量19.1百万磅（100%基础）",
+        "2025年铀产量（公司份额）2100万磅、同比下降10%，销量3300万磅，平均实现价格62.11美元/磅",
+        "长期合同交付承诺约2.3亿磅铀（未来五年年均约2800万磅），产品为铀精矿（U3O8）"
+      ]
+    },
+    {
+      "name": "铀转化",
+      "reasons": [
+        "通过Port Hope转化厂（安大略）将UO3转化为UF6或UO2，拥有全球约18%的一次转化产能",
+        "2025年生产1400万kgU、含1120万kgU的UF6，Port Hope转化厂创年度生产纪录",
+        "UF6用于轻水堆燃料，长期转化合同约8300万kgU，受益于铀转化市场高景气",
+        "精炼环节由Blind River精炼厂（安大略）将铀精矿精炼为UO3"
+      ]
+    },
+    {
+      "name": "核燃料",
+      "reasons": [
+        "通过Cameco Fuel Manufacturing（CFM，安大略）生产CANDU重水堆燃料组件、反应堆部件与监测设备",
+        "通过49%持股的Westinghouse生产轻水堆核燃料，Columbia（南卡罗来纳）、Springfields（英国）、Västerås（瑞典）三大燃料制造厂",
+        "Westinghouse 2025年调整后EBITDA（公司份额）7.8亿美元、同比增长61%，2024年交付Dukovany核电项目燃料",
+        "Cameco与Westinghouse燃料业务构成从CANDU到轻水堆的完整核燃料供应体系"
+      ]
+    },
+    {
+      "name": "核反应堆",
+      "reasons": [
+        "通过49%持股的Westinghouse参与核反应堆设计制造，Westinghouse核心业务包括AP1000压水堆设计、开发与设备采购",
+        "Westinghouse新堆业务还包括小型模块化反应堆（SMR）设计，2025年参与捷克Dukovany两台核电机组建设（韩国水电核电主导）",
+        "2025年Cameco与Brookfield、Westinghouse与美国政府达成战略合作，推动美国部署Westinghouse核反应堆、投资额至少800亿美元"
+      ]
+    }
+  ]
+}

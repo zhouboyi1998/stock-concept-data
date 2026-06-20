@@ -1,0 +1,34 @@
+{
+  "codes": [
+    {
+      "region": "IN",
+      "code": "UBL"
+    },
+    {
+      "region": "IN",
+      "code": "532478"
+    }
+  ],
+  "name": "United Breweries",
+  "alias": [
+    "联合啤酒公司"
+  ],
+  "description": "联合啤酒公司（United Breweries Limited，UBL）是印度最大的啤酒公司，印度国家证券交易所、孟买证券交易所上市，荷兰喜力集团（Heineken）持股约46%。公司以酿造、销售啤酒为主业，旗下Kingfisher（翠鸟）为印度标志性啤酒品牌，运营Kingfisher Ultra、Kingfisher Ultra Max、Heineken Silver等高端品牌、Kingfisher Smooth新品，同时经营少量非酒精饮料业务，为印度啤酒行业龙头。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "啤酒",
+      "reasons": [
+        "啤酒为联合啤酒公司核心业务，公司为印度最大啤酒生产商，FY2026净收入923.99亿卢比、同比增长4%、销量增长3%",
+        "公司旗下Kingfisher（翠鸟）为印度标志性啤酒品牌，Kingfisher Ultra、Kingfisher Ultra Max为高端品牌、FY2026分别增长27%和59%，Heineken Silver在Goa、Karnataka、Maharashtra等邦强劲增长",
+        "公司FY2026高端啤酒销量增长21%、毛利率43.9%，Kingfisher品牌市场份额提升1.7%，2026年1月推出Kingfisher Smooth新品"
+      ]
+    }
+  ],
+  "related": [
+    {
+      "name": "喜力",
+      "relation": "母公司"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "端侧AI芯片",
+  "alias": [
+    "终端AI芯片",
+    "边缘AI芯片"
+  ],
+  "description": "端侧AI芯片是在终端设备（而非云端服务器）上执行AI推理计算的芯片产品总称，涵盖AI SoC、AI处理器、AI加速芯片、NPU、存内计算芯片等品类。与云端AI芯片不同，端侧AI芯片需要在极低功耗和有限算力约束下完成实时AI推理，广泛应用于AIoT、智能音频（TWS耳机/智能音箱）、智能穿戴（AI眼镜/智能手表）、机器人、智能安防、智能家居、AI玩具等场景。随着大模型向端侧迁移加速，支持Transformer/LLM在端侧部署的高性能AI SoC成为技术趋势，存内计算、RISC-V+NPU异构架构、6nm先进制程等方向快速演进。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "瑞芯微",
+      "reasons": []
+    },
+    {
+      "name": "星宸科技",
+      "reasons": []
+    },
+    {
+      "name": "全志科技",
+      "reasons": []
+    },
+    {
+      "name": "晶晨股份",
+      "reasons": []
+    },
+    {
+      "name": "恒玄科技",
+      "reasons": []
+    },
+    {
+      "name": "乐鑫科技",
+      "reasons": []
+    },
+    {
+      "name": "中科蓝讯",
+      "reasons": []
+    },
+    {
+      "name": "炬芯科技",
+      "reasons": []
+    },
+    {
+      "name": "泰凌微",
+      "reasons": []
+    },
+    {
+      "name": "博通集成",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

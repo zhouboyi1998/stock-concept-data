@@ -1,0 +1,62 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "S"
+    }
+  ],
+  "name": "SentinelOne",
+  "alias": [],
+  "description": "SentinelOne是AI原生网络安全平台公司，纽约证券交易所上市，总部位于美国加利福尼亚州山景城。公司通过Singularity平台提供AI驱动的自主威胁预防、检测、响应、暴露管理能力，覆盖端点、云工作负载、身份凭据。公司是全球首个专为自主网络安全打造AI驱动扩展检测响应（XDR）平台的企业，Purple AI生成式AI安全代理统一平台体验，保护全球约90个国家的超14000家直接客户。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "网络安全",
+      "reasons": [
+        "网络安全为SentinelOne核心业务，公司是AI原生网络安全平台公司、通过Singularity平台提供自主威胁预防、检测、响应、暴露管理",
+        "公司Singularity平台覆盖端点、云工作负载、身份凭据，统一数据湖支撑分布式AI模型",
+        "公司2025财年收入8.215亿美元，同比增长32%，ARR 9.201亿美元，同比增长27%"
+      ]
+    },
+    {
+      "name": "终端安全",
+      "reasons": [
+        "终端安全为SentinelOne核心产品，公司下一代终端安全（EPP、EDR）提供跨Windows、Linux、macOS、云原生、容器工作负载的自主实时防护",
+        "公司分布式AI部署在设备端和云端，能够在毫秒级阻止威胁、而非分钟或小时",
+        "公司终端安全在MITRE ATT&CK评估、Gartner EPP魔力象限等第三方测试中持续被评为领导者"
+      ]
+    },
+    {
+      "name": "云安全",
+      "reasons": [
+        "云安全为SentinelOne核心业务，公司云安全方案覆盖云工作负载保护（CWS）、云原生应用保护平台（CNAPP）",
+        "公司云安全套件涵盖CSPM、CIEM、AI-SPM、云数据安全等能力",
+        "公司云安全套件提供多云和混合云环境的全面保护、自主防护"
+      ]
+    },
+    {
+      "name": "威胁情报",
+      "reasons": [
+        "威胁情报为SentinelOne业务，公司云威胁情报系统整合数据分析、研究团队、Vigilance MDR、IR服务",
+        "公司Purple AI for Threat Intelligence扩展组织的威胁情报能力",
+        "公司PinnacleOne战略咨询提供董事会简报、威胁建模、风险管理等服务"
+      ]
+    },
+    {
+      "name": "安全运营",
+      "reasons": [
+        "安全运营为SentinelOne核心业务，公司Singularity AI-SIEM是云原生SaaS方案、重新定义安全运营",
+        "公司AI-SIEM基于Singularity Data Lake，消除数据schema要求、实时处理海量数据",
+        "公司AI-SIEM提供日志管理、数据分析、告警，提升安全运营中心效率"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "人工智能为SentinelOne战略核心，公司Purple AI是生成式AI安全代理、统一平台体验、增强安全运营",
+        "公司是首个在所有平台解决方案中默认嵌入基础生成式AI能力的网络安全公司",
+        "公司Purple AI支持自然语言查询、自动调查工作流，显著缩短威胁检测和响应时间"
+      ]
+    }
+  ]
+}

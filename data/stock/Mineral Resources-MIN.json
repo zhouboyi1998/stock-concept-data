@@ -1,0 +1,40 @@
+{
+  "codes": [
+    {
+      "region": "AU",
+      "code": "MIN"
+    }
+  ],
+  "name": "Mineral Resources",
+  "alias": [
+    "矿业资源集团"
+  ],
+  "description": "Mineral Resources Limited（MinRes，矿业资源集团）是澳大利亚多元化矿业公司，澳交所上市，总部位于西澳珀斯。公司三大业务支柱为采矿服务（合同采矿、破碎加工）、铁矿（Onslow Iron、Pilbara Hub）、锂（Wodgina、Mt Marion、Bald Hill），同时布局天然气等能源业务。公司铁矿以Onslow Iron旗舰项目为核心（权益57%），锂业务与赣锋、浦项POSCO等合资合作，采矿服务覆盖西澳主要矿区、为全球矿业客户提供合同采矿与矿石破碎服务。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "铁",
+      "reasons": [
+        "铁为Mineral Resources核心业务，公司2026财年（2025年7月1日-2026年6月30日）铁矿发运2950万吨创纪录、上年为2000万吨，其中Onslow Iron发运1970万吨、Pilbara Hub发运990万吨",
+        "公司Onslow Iron为旗舰铁矿项目、权益57%，2026财年FOB成本52澳元每吨、低于指引区间，Pilbara Hub权益100%、FOB成本79澳元每吨",
+        "公司2026财年铁矿石平均实现价90美元每吨、为普氏61%指数的86%兑现率、铁品位57.7%，Onslow Iron第四季度达3800万吨年化运行率"
+      ]
+    },
+    {
+      "name": "锂",
+      "reasons": [
+        "锂为Mineral Resources核心业务，公司2026财年锂辉石精矿销量55.9万吨（SC6）、创纪录，其中Wodgina销量31.7万吨、Mt Marion销量24.2万吨",
+        "公司锂业务运营西澳Wodgina（权益50%）、Mt Marion（权益51%）、Bald Hill三座锂辉石矿，Wodgina 2026财年SC6 FOB成本738澳元每吨、Mt Marion为847澳元每吨",
+        "公司2026财年第四季度锂辉石精矿加权平均实现价2425美元每吨（SC6 CIF）、环比上涨15%，Bald Hill于2026年5月重启、年产能14万吨SC6"
+      ]
+    },
+    {
+      "name": "天然气",
+      "reasons": [
+        "天然气为Mineral Resources新兴业务，公司能源板块在珀斯盆地、卡纳文盆地勘探开发天然气，2026财年计划钻探珀斯盆地3口井、卡纳文盆地2口井",
+        "公司能源及其他商品板块2026财年上半年Underlying EBITDA亏损200万澳元、处于早期勘探阶段",
+        "公司2026财年上半年处置石油勘探许可权益、获得2200万澳元税后收益，天然气业务聚焦西澳本地能源供应"
+      ]
+    }
+  ]
+}

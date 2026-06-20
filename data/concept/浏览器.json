@@ -1,0 +1,49 @@
+{
+  "name": "浏览器",
+  "alias": [],
+  "description": "浏览器是用户访问互联网的核心入口软件，承载网页浏览、搜索查询、在线购物和AI交互等日常网络行为。全球浏览器市场由Chrome绝对主导（全平台市占率约68%），Safari（16%）和Edge（5%）分别依托Apple和Windows生态占据第二、三位，Samsung Internet（2%）、Opera（2%）和Firefox（3%）在细分市场保持差异化定位。中国手机浏览器市场由QQ浏览器（38%）、UC浏览器（26%）和百度手机浏览器（15%）占据前三，合计约八成份额。核心商业模式包括浏览器内广告变现和搜索查询分成，AI Agent浏览器是行业最大变量——从传统网页浏览工具进化为AI Agent平台。",
+  "remarks": [
+    "Google Chrome：68%",
+    "Apple Safari：16.5%",
+    "Microsoft Edge：5.5%",
+    "Mozilla Firefox：3.5%",
+    "Samsung Internet：2%",
+    "Opera：1.9%",
+    "UC：0.8%",
+    "Brave：0.4%",
+    "Yandex：0.2%"
+  ],
+  "stocks": [
+    {
+      "name": "谷歌",
+      "reasons": []
+    },
+    {
+      "name": "苹果",
+      "reasons": []
+    },
+    {
+      "name": "微软",
+      "reasons": []
+    },
+    {
+      "name": "三星电子",
+      "reasons": []
+    },
+    {
+      "name": "Opera",
+      "reasons": []
+    },
+    {
+      "name": "阿里巴巴",
+      "reasons": []
+    },
+    {
+      "name": "Yandex",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "搜索引擎"
+  ]
+}

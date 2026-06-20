@@ -1,0 +1,62 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "CRWD"
+    }
+  ],
+  "name": "CrowdStrike",
+  "alias": [],
+  "description": "CrowdStrike Holdings是全球网络安全领导者，纳斯达克上市，总部位于美国得克萨斯州奥斯汀。公司通过Falcon云原生平台保护企业风险的关键领域，包括端点、云工作负载、身份、数据。Falcon平台基于CrowdStrike Security Cloud和世界级AI，采用单轻量agent架构，提供终端检测响应、威胁情报、云安全、身份安全、新一代SIEM等能力。公司是AI原生的网络安全平台领导者，客户遍布全球。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "网络安全",
+      "reasons": [
+        "网络安全为CrowdStrike核心业务，公司是全球网络安全领导者、通过Falcon平台保护端点、云工作负载、身份、数据",
+        "公司Falcon平台基于CrowdStrike Security Cloud和世界级AI，提供实时攻击指标、威胁情报驱动的检测防护",
+        "公司2025财年总收入39.5亿美元、同比增长29%，ARR 42.4亿美元、同比增长23%"
+      ]
+    },
+    {
+      "name": "终端安全",
+      "reasons": [
+        "终端安全为CrowdStrike核心产品，公司Falcon平台是业界领先的云原生终端安全平台、采用单轻量agent架构",
+        "公司在2024 SE Labs企业高级安全（EDR）勒索软件测试中实现100%检测、100%防护、100%准确",
+        "公司终端检测响应（EDR）持续获得市场认可，Falcon Flex推动平台广泛采用"
+      ]
+    },
+    {
+      "name": "云安全",
+      "reasons": [
+        "云安全为CrowdStrike核心业务，公司Falcon Cloud Security提供云工作负载安全保护",
+        "公司云安全业务2025财年末ARR超6亿美元、同比增长超过45%",
+        "公司是首个云原生网络安全ISV实现AWS Marketplace年销售额超10亿美元，2024年被评为AWS全球安全合作伙伴年度奖"
+      ]
+    },
+    {
+      "name": "身份安全",
+      "reasons": [
+        "身份安全为CrowdStrike核心业务，公司Falcon Identity Protection保护混合身份、支持Microsoft Entra ID",
+        "公司身份安全业务2025财年末ARR超3.7亿美元",
+        "公司Falcon Shield保护本地、SaaS应用、超大规模基础设施中的身份安全"
+      ]
+    },
+    {
+      "name": "威胁情报",
+      "reasons": [
+        "威胁情报为CrowdStrike核心业务，公司Falcon平台利用实时攻击指标、威胁情报、对手战术、富遥测数据",
+        "公司2025财年Q4创下最大威胁情报季度，政府和大型企业越来越多采用CrowdStrike威胁情报",
+        "公司威胁情报支撑精英威胁狩猎和漏洞优先级可观测性"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "人工智能为CrowdStrike战略方向，公司Falcon平台是AI原生的网络安全平台、Charlotte AI提供AI助手能力",
+        "公司随着企业快速采用AI、将网络安全重心转向保护AI创新和对抗AI威胁",
+        "公司AI原生SOC（安全运营中心）推动Falcon平台整合，AI驱动的检测防护持续演进"
+      ]
+    }
+  ]
+}
