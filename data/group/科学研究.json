@@ -1,0 +1,21 @@
+{
+  "name": "科学研究",
+  "sort": 32,
+  "concept": [
+    "科学仪器"
+  ],
+  "subgroup": [
+    {
+      "name": "科学仪器",
+      "concept": [],
+      "subgroup": [
+        {
+          "name": "通信类",
+          "concept": [
+            "矢量网络分析仪"
+          ]
+        }
+      ]
+    }
+  ]
+}

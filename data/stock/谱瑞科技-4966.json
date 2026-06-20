@@ -1,0 +1,61 @@
+{
+  "codes": [
+    {
+      "region": "TW",
+      "code": "4966"
+    }
+  ],
+  "name": "谱瑞科技",
+  "alias": [
+    "Parade"
+  ],
+  "description": "谱瑞科技（Parade Technologies）是台湾高速信号传输接口芯片设计龙头，成立于2005年，总部位于台北，为台湾上柜公司（4966）。公司专注高速信号传输接口芯片研发，核心产品涵盖DisplayPort/eDP/HDMI信号调理芯片、PCIe Retimer/Redriver、USB-C开关与信号调理芯片、显示时序控制器（TCON）及触控控制器等。谱瑞为DisplayPort高速信号调理芯片全球领先供应商，在高分辨率显示接口信号传输领域具有深厚技术积累，产品广泛应用于PC、笔记本、服务器、显示器、平板及车载显示等领域。公司以自有技术和IP为核心，台积电为主要代工厂商。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "显示接口芯片",
+      "reasons": [
+        "全球DisplayPort高速信号调理芯片领先供应商，DP/eDP开关、Redriver和Retimer为核心产品，覆盖PC、笔记本和平板市场",
+        "支持HDMI 2.1和DisplayPort 2.0/2.1最新标准的高带宽信号调理芯片已量产出货",
+        "eDP（Embedded DisplayPort）信号芯片在笔记本内部显示连接市场占据主导地位，为联想、戴尔、惠普等全球主要PC OEM供应商",
+        "DisplayPort多路复用器和信号开关技术积累深厚，在高分辨率高刷新率显示接口领域具有显著技术优势"
+      ]
+    },
+    {
+      "name": "PCIe信号重整芯片",
+      "reasons": [
+        "提供PCIe Redriver/Retimer信号调理芯片，覆盖PCIe 4.0/5.0代际",
+        "PCIe 5.0 Retimer芯片已通过主要服务器客户认证并量产出货，受益AI服务器需求增长",
+        "在PC和服务器市场均有PCIe信号重整芯片产品布局，与DisplayPort/USB-C信号调理形成高速接口产品矩阵",
+        "依托高速SerDes信号调理核心IP，持续拓展PCIe信号重整芯片在数据中心和AI服务器领域的应用"
+      ]
+    },
+    {
+      "name": "USB-C芯片",
+      "reasons": [
+        "提供USB-C信号开关、SBU多路复用器和CC逻辑控制器，覆盖USB 3.2/4.0和Thunderbolt信号传输场景",
+        "USB-C Redriver芯片在笔记本、扩展坞和显示器市场广泛应用，支持高速数据传输和DisplayPort Alt Mode",
+        "USB-C信号调理芯片与DisplayPort芯片形成协同，为USB-C全功能扩展坞和笔记本提供完整高速接口方案",
+        "受益USB-C接口统一趋势和笔记本/PC外设市场持续增长"
+      ]
+    },
+    {
+      "name": "时序控制器",
+      "reasons": [
+        "提供LCD和OLED显示面板时序控制器（TCON）芯片，支持从FHD到8K全分辨率覆盖",
+        "在高刷新率电竞显示器和高端笔电面板TCON市场具有较高市占率",
+        "TCON芯片与DisplayPort/eDP接收端IP深度整合，为显示面板厂商提供从接口到时序驱动的完整方案",
+        "Mini-LED和OLED面板渗透率提升带动高端TCON芯片价值量增长"
+      ]
+    },
+    {
+      "name": "触控芯片",
+      "reasons": [
+        "提供触控控制器（Touch Controller）芯片，覆盖笔电触控板、触控屏幕和智能手机应用",
+        "触控芯片与显示接口芯片形成系统级协同，为笔记本和PC厂商提供整体人机界面方案",
+        "高精度触控板控制器支持Windows Precision Touchpad标准，在高端商务笔电市场具有客户基础",
+        "触控控制与显示驱动技术融合趋势下，触控芯片为显示相关技术的重要延伸"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "codes": [
+    {
+      "region": "DK",
+      "code": "RBREW"
+    }
+  ],
+  "name": "皇家尤尼布鲁",
+  "alias": [
+    "Royal Unibrew"
+  ],
+  "description": "皇家尤尼布鲁（Royal Unibrew A/S）是丹麦领先的综合饮料公司，纳斯达克哥本哈根证券交易所上市，总部位于丹麦Faxe。公司业务覆盖北欧、波罗的海、意大利、法国、比荷卢、加拿大，产品销往70多个市场，运营Northern Europe、Western Europe两大分部。公司产品涵盖碳酸软饮料、啤酒、能量饮料、RTD、苹果酒、水等，核心品牌包括Faxe Kondi、Royal啤酒、Ceres、Crodo软饮料等，为北欧领先的多饮料企业。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "啤酒",
+      "reasons": [
+        "啤酒为皇家尤尼布鲁重要业务，公司2025年啤酒占收入27%，运营Royal、Faxe、Ceres等自有啤酒品牌、Heineken伙伴品牌",
+        "公司在丹麦Royal、Heineken啤酒销量增长、意大利Ceres、Faxe啤酒市场份额提升，2025年高端啤酒品类增长4%",
+        "公司北欧分部2025年净收入增长2%，意大利啤酒业务驱动西欧分部净收入增长12%"
+      ]
+    },
+    {
+      "name": "饮料",
+      "reasons": [
+        "软饮料为皇家尤尼布鲁核心业务，公司2025年碳酸饮料占收入39%、非酒精饮料占56%，运营Faxe Kondi、Crodo、Pepsi、Lemonsoda、Jaffa等品牌",
+        "公司Faxe Kondi为丹麦碳酸饮料领先品牌，2025年低糖无糖碳酸饮料品类增长9%、为增长最快品类",
+        "公司能量饮料Booster、增强饮料品类2025年增长5%，软饮料业务覆盖北欧、意大利、非洲等市场"
+      ]
+    }
+  ]
+}
