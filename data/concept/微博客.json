@@ -1,0 +1,28 @@
+{
+  "name": "微博客",
+  "alias": [
+    "微博"
+  ],
+  "description": "微博客概念指以发布短文字动态为核心的社交媒体产业，用户通过简短状态、话题标签、转发评论进行实时互动，典型产品包括微博、Threads、X（原Twitter）、Truth Social等，依托热点事件传播、名人KOL生态、信息流广告实现商业化。",
+  "stocks": [
+    {
+      "name": "SpaceX",
+      "reasons": []
+    },
+    {
+      "name": "微博",
+      "reasons": []
+    },
+    {
+      "name": "Meta",
+      "reasons": []
+    },
+    {
+      "name": "特朗普媒体科技",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "论坛社区"
+  ]
+}

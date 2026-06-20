@@ -1,0 +1,69 @@
+{
+  "name": "金",
+  "alias": [
+    "Gold",
+    "Au"
+  ],
+  "description": "黄金是一种贵金属，兼具商品属性和金融属性，是全球重要的避险资产和储备资产。黄金采选业务涉及金矿勘探、开采、选矿和冶炼等环节。",
+  "stocks": [
+    {
+      "name": "紫金矿业",
+      "reasons": []
+    },
+    {
+      "name": "招金矿业",
+      "reasons": []
+    },
+    {
+      "name": "西部黄金",
+      "reasons": []
+    },
+    {
+      "name": "恒邦股份",
+      "reasons": []
+    },
+    {
+      "name": "晓程科技",
+      "reasons": []
+    },
+    {
+      "name": "江西铜业",
+      "reasons": []
+    },
+    {
+      "name": "洛阳钼业",
+      "reasons": []
+    },
+    {
+      "name": "株冶集团",
+      "reasons": []
+    },
+    {
+      "name": "宝鼎科技",
+      "reasons": []
+    }
+  ],
+  "futures": [
+    {
+      "name": "纽约金主连",
+      "region": "US",
+      "code": "GC0W"
+    },
+    {
+      "name": "沪金主连",
+      "region": "CN",
+      "code": "au9999"
+    }
+  ],
+  "spot": [
+    {
+      "name": "伦敦金现",
+      "region": "UK",
+      "code": "AUUSDO"
+    }
+  ],
+  "related": [
+    "银",
+    "铜"
+  ]
+}

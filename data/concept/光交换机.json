@@ -1,0 +1,27 @@
+{
+  "name": "光交换机",
+  "alias": [
+    "全光交换机",
+    "Optical Circuit Switch",
+    "OCS"
+  ],
+  "description": "光交换机（Optical Circuit Switch）是一种在光域直接进行波长/光纤端口间交叉连接的网络设备，不再需要像传统交换机那样经过“光-电-光”的转换，通过微机电系统（MEMS）微镜阵列、液晶（LCoS）或压电驱动等物理方式偏转光束路径，实现输入端口到输出端口的全光透明交换——整个过程无需光电-电光（O/E/O）转换/不受数据速率和协议限制/功耗仅为传统电交换机的10-20%/延迟从微秒级降至纳秒级。OCS的核心优势是带宽无关性（交换矩阵本身不限制信号速率/同一硬件可支持从100G到1.6T甚至更高速率的信号）、高可靠性（MEMS微镜工作寿命超10亿次切换/谷歌部署10年）、低功耗（无SerDes/无包处理/无缓存）。按技术分为MEMS（微镜反射/插损低约1.5dB/切换速度毫秒级/谷歌+Lumentum为主力）、Liquid Crystal/LCoS（液晶偏转/插损高约3dB/寿命更长/Coherent为主力）、压电驱动（Piezoelectric/瑞士Huber+Suhner）、硅光子（iPronics）和机械式（Telescent/机器人插拔光纤）五条路线。OCS在AI数据中心的两大核心应用场景为：Spine层替换（用OCS替代电包交换机/谷歌实测节电40%降本30%）和AI集群重配置/Scale-Up（TPU/GPU集群内部跨机架光互连/谷歌TPUv7用OCS连接9,216颗TPU形成超级Pod/NVLink 576将引入OCS）。2025年OCS市场规模仍较小（约数亿美元）但增长极快——2029年保守$25亿/2030年有望超$80亿（Cignal AI），谷歌是绝对主导客户（已部署数万台/2025年约1.2-1.5万台MEMES OCS），商用化正在加速（谷歌开始向第三方采购/Coherent+Lumentum分食/NVIDIA NVL576集成OCS）。",
+  "stocks": [
+    {
+      "name": "谷歌",
+      "reasons": []
+    },
+    {
+      "name": "Lumentum",
+      "reasons": []
+    },
+    {
+      "name": "Coherent",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "光交换芯片",
+    "以太网交换机"
+  ]
+}

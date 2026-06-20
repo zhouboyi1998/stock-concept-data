@@ -1,0 +1,81 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ABBV"
+    }
+  ],
+  "name": "艾伯维",
+  "alias": [
+    "AbbVie"
+  ],
+  "description": "艾伯维是一家全球领先的多元化研究型生物制药公司，致力于研发、制造和商业化创新药物和疗法。公司业务涵盖免疫、神经科学、肿瘤、眼科和医美等领域，核心产品包括Skyrizi（瑞莎珠单抗/IL-23抑制剂）、Rinvoq（乌帕替尼/JAK抑制剂）、Botox（保妥适）、Vraylar（卡利拉嗪）和Venclexta（维奈克拉）等。艾伯维于2013年1月从雅培（Abbott）分拆独立上市，总部位于美国伊利诺伊州北芝加哥。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "创新药",
+      "reasons": [
+        "2025年调整后研发投入约138亿美元（占营收22.6%），拥有约90个临床及器械研发项目",
+        "2026年预计多项关键里程碑：Tavapadon帕金森病获批、Etentamig（BCMAxCD3）多发性骨髓瘤注册数据读出、Temab-A多种实体瘤数据",
+        "在业务拓展上投入超50亿美元，引入in vivo CAR-T（Capstan）、siRNA平台（8Rx）、PD-1/VEGF双抗（荣昌生物）等前沿技术",
+        "在免疫组合成功完成从Humira到Skyrizi/Rinvoq的重磅产品接力后，布局神经科学、肿瘤、肥胖等下一代增长引擎"
+      ]
+    },
+    {
+      "name": "生物制药",
+      "reasons": [
+        "核心产品多为生物大分子药物：Skyrizi（IL-23单抗）、Humira（TNF单抗）、Botox Therapeutic/Cosmetic（肉毒杆菌素）、Elahere（ADC）、Epkinly（双抗）等",
+        "布局多种生物药技术平台：ADC平台（Top1i ADC、双抗ADC）、T细胞衔接器（双抗/三抗）、CAR-T细胞治疗",
+        "拥有大规模生物药GMP生产设施，持续扩建全球生产基地"
+      ]
+    },
+    {
+      "name": "免疫药物",
+      "reasons": [
+        "免疫组合2025年全球收入304.06亿美元，占总营收49.7%，是公司最大业务板块",
+        "Skyrizi（瑞莎珠单抗/IL-23抑制剂）收入175.62亿美元（+49.9%），获批银屑病、银屑病关节炎、克罗恩病、溃疡性结肠炎4项适应症",
+        "Rinvoq（乌帕替尼/JAK1抑制剂）收入83.04亿美元（+39.1%），获批类风湿关节炎、银屑病关节炎、特应性皮炎、溃疡性结肠炎、克罗恩病、强直性脊柱炎及巨细胞动脉炎等",
+        "Humira（阿达木单抗/TNF抑制剂）曾是全球药王，2025年收入45.40亿美元，受生物类似药冲击仍有持续处方量",
+        "在研免疫管线覆盖IL-23、JAK、TL1A、TREM1、α4β7等多种靶点和机制"
+      ]
+    },
+    {
+      "name": "神经药物",
+      "reasons": [
+        "神经科学组合2025年全球收入107.67亿美元（+19.6%），是公司增长最快的治疗领域",
+        "Botox Therapeutic（保妥适/肉毒杆菌素）收入37.69亿美元，用于慢性偏头痛、痉挛状态、膀胱过度活动症等",
+        "Vraylar（卡利拉嗪/D3/D2部分激动剂）收入36.21亿美元，用于精神分裂症和双相障碍",
+        "Ubrelvy（乌布吉泮/CGRP拮抗剂）和Qulipta（阿托吉泮/CGRP拮抗剂）合计收入23.07亿美元，分别用于偏头痛急性和预防性治疗",
+        "Vyalev（福斯卡比多巴/福斯左旋多巴）为24小时皮下持续输注帕金森病治疗，上市后快速放量"
+      ]
+    },
+    {
+      "name": "抗肿瘤药",
+      "reasons": [
+        "肿瘤组合2025年全球收入约67亿美元，涵盖血液肿瘤和实体瘤",
+        "Venclexta（维奈克拉/BCL-2抑制剂）用于CLL和AML，与罗氏合作开发",
+        "Elahere（mirvetuximab/FRα ADC）用于铂耐药卵巢癌，为FRα靶向ADC药物",
+        "Epkinly（epcoritamab/CD20xCD3双抗）获批DLBCL和滤泡性淋巴瘤，与Genmab合作开发",
+        "下一代ADC管线丰富：Temab-A（c-Met ADC）在结直肠癌、NSCLC中推进III期，ABBV-706（SEZ6 ADC）SCLC II期ORR达82%，ABBV-969（PSMA/STEAP1双抗ADC）mCRPC I期ORR达45%"
+      ]
+    },
+    {
+      "name": "眼科药物",
+      "reasons": [
+        "眼科产品包括Ozurdex（地塞米松玻璃体内植入剂）用于DME和RVO，Lumigan/Ganfort（比马前列素）用于开角型青光眼",
+        "Alphagan/Combigan（溴莫尼定）用于降眼压，Refresh系列人工泪液等",
+        "ABBV-RGX-314（AAV8抗VEGF Fab基因疗法）用于湿性AMD，III期临床推进中"
+      ]
+    },
+    {
+      "name": "医美药物",
+      "reasons": [
+        "医美组合2025年全球收入48.60亿美元，为全球领先的医学美容产品组合",
+        "Botox Cosmetic（保妥适/肉毒杆菌素）收入26.02亿美元，用于改善眉间纹、鱼尾纹、额头纹等",
+        "Juvederm系列（乔雅登/玻尿酸填充剂）收入9.93亿美元，用于面部容积填充和轮廓塑造",
+        "其他医美产品包括Alloderm再生组织、CoolSculpting冷冻溶脂、SkinMedica护肤品、Natrelle乳房植入体等"
+      ]
+    }
+  ],
+  "related": []
+}
