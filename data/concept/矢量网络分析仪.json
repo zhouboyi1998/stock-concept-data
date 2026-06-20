@@ -1,0 +1,82 @@
+{
+  "name": "矢量网络分析仪",
+  "alias": [
+    "Vector Network Analyzer",
+    "VNA"
+  ],
+  "description": "矢量网络分析仪（Vector Network Analyzer，VNA）是一种通过测量射频和微波器件散射参数（S参数）来表征其幅度、相位及群时延等频率响应特性的高精度智能化测试仪器，被誉为“微波/毫米波测试仪器之王”。VNA本质上是一台S参数测量仪，通过内置信号源发射扫频激励信号，由多路接收机同步采集被测件反射和传输信号的幅度与相位信息，从而获得S11、S21、S12、S22等完整的四端口S参数，并据此换算出电压驻波比、阻抗、衰减、增益、隔离度等数十种网络参数。VNA按形态分为台式、模块化PXI、USB和手持式四类；按频率覆盖分为0-10GHz（占比约70%）、10-50GHz、50GHz以上三个档次。在5G/6G通信、相控阵雷达、半导体射频芯片、卫星通信、高速光模块等领域的研发与量产中，VNA是贯穿全流程的基础检测核心装备。",
+  "remarks": [
+    "Keysight Technologies：30%（#1）",
+    "Rohde & Schwarz：20%（#2）",
+    "电科思仪：12%（#3）",
+    "安立：7.5%（#4）",
+    "爱德万测试：4%（#5）",
+    "Copper Mountain：3%（#6）",
+    "Tektronix：2%（#7）",
+    "National Instruments：2%（#8）",
+    "创远信科：1.5%（#9）",
+    "鼎阳科技：1.5%（#10）"
+  ],
+  "stocks": [
+    {
+      "name": "Keysight Technologies",
+      "reasons": []
+    },
+    {
+      "name": "电科思仪",
+      "reasons": [
+        "120GHz"
+      ]
+    },
+    {
+      "name": "安立",
+      "reasons": []
+    },
+    {
+      "name": "爱德万测试",
+      "reasons": []
+    },
+    {
+      "name": "创远信科",
+      "reasons": [
+        "110GHz"
+      ]
+    },
+    {
+      "name": "鼎阳科技",
+      "reasons": [
+        "50GHz"
+      ]
+    },
+    {
+      "name": "普源精电",
+      "reasons": [
+        "26.5GHz"
+      ]
+    },
+    {
+      "name": "东方中科",
+      "reasons": [
+        "9GHz",
+        "同时还是众多国际龙头厂商（Keysight Technologies、Rohde & Schwarz、Tektronix、National Instruments、Fluke）的中国代理商"
+      ]
+    },
+    {
+      "name": "优利德",
+      "reasons": [
+        "9GHz"
+      ]
+    },
+    {
+      "name": "坤恒顺维",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "5G通信",
+    "相控阵雷达",
+    "射频芯片",
+    "卫星通信",
+    "光模块"
+  ]
+}

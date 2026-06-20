@@ -1,0 +1,70 @@
+{
+  "name": "游戏",
+  "alias": [
+    "电子游戏"
+  ],
+  "description": "游戏行业是以游戏内容的研发、发行、运营为核心的数字文化创意产业，涵盖移动游戏、电脑端游戏、主机游戏等细分领域，产业链包括研发商、发行商、渠道平台与终端玩家，变现模式涵盖游戏内购、付费下载、订阅服务、广告与电竞等衍生业态。",
+  "stocks": [
+    {
+      "name": "索尼",
+      "reasons": []
+    },
+    {
+      "name": "腾讯控股",
+      "reasons": []
+    },
+    {
+      "name": "微软",
+      "reasons": []
+    },
+    {
+      "name": "任天堂",
+      "reasons": []
+    },
+    {
+      "name": "网易",
+      "reasons": []
+    },
+    {
+      "name": "艺电",
+      "reasons": []
+    },
+    {
+      "name": "Take-Two",
+      "reasons": []
+    },
+    {
+      "name": "哔哩哔哩",
+      "reasons": []
+    },
+    {
+      "name": "Kakao",
+      "reasons": []
+    },
+    {
+      "name": "世纪华通",
+      "reasons": []
+    },
+    {
+      "name": "巨人网络",
+      "reasons": []
+    },
+    {
+      "name": "三七互娱",
+      "reasons": []
+    },
+    {
+      "name": "恺英网络",
+      "reasons": []
+    },
+    {
+      "name": "吉比特",
+      "reasons": []
+    },
+    {
+      "name": "完美世界",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

@@ -1,0 +1,72 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "MSFT"
+    }
+  ],
+  "name": "微软",
+  "alias": [
+    "Microsoft"
+  ],
+  "description": "Microsoft Corporation，全球最大的软件公司和领先的云计算平台提供商，核心业务涵盖智能云（Azure/GitHub）、生产力与商业流程（Microsoft 365/LinkedIn/Dynamics）、个人计算（Windows/Xbox/Bing）三大板块。Microsoft 365 Copilot AI助手和Azure AI服务全面嵌入业务线。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "操作系统",
+      "reasons": [
+        "Windows为全球桌面操作系统绝对领导者，市场份额超70%，Windows OEM授权是More Personal Computing业务的核心收入来源之一",
+        "Windows 11持续迭代，AI PC时代Windows Copilot+PC引领端侧AI功能创新，推动PC换机周期",
+        "Windows Server在企业级服务器操作系统市场与Linux二分天下，Azure Hybrid Benefit策略连接云端与本地部署"
+      ]
+    },
+    {
+      "name": "云计算",
+      "reasons": [
+        "Azure为全球第二大公有云平台，FY2025 Intelligent Cloud营收1062.65亿美元（+21%），Azure营收首超750亿美元（+34%）",
+        "Azure AI服务（Azure OpenAI Service/AI Search/Copilot Runtime）为核心增长驱动力，企业AI工作负载迁移加速云消耗",
+        "GitHub、Visual Studio、企业级SaaS形成完整云开发生态，全球企业数字化转型和AI需求推动Azure持续高增长"
+      ]
+    },
+    {
+      "name": "办公软件",
+      "reasons": [
+        "Microsoft 365为全球最大生产力软件平台，FY2025营收1208.10亿美元（+13%），Commercial云收入增长15%，Consumer订阅达8900万用户",
+        "Microsoft 365 Copilot AI助手全面嵌入Word/Excel/PPT/Teams等核心办公应用，推动ARPU提升和用户付费意愿",
+        "LinkedIn（人才解决方案+广告+Premium）和Dynamics 365（ERP/CRM）构成企业级SaaS矩阵，Dynamics 365营收增长19%"
+      ]
+    },
+    {
+      "name": "浏览器",
+      "reasons": [
+        "旗下Microsoft Edge浏览器全平台市占率约5%排名全球第三，是Windows操作系统的默认浏览器，依托Windows全球超14亿活跃设备的预装覆盖构建基础流量池",
+        "Edge深度集成Copilot AI助手，侧边栏AI搜索、页面摘要、智能写作等能力与Microsoft 365生态打通，将浏览器定位为企业生产力工具而非单纯的网页浏览器，在办公和B端场景具有独特优势",
+        "Edge基于Chromium开源内核实现了与Chrome扩展生态的兼容，同时通过企业策略管理、IE模式兼容旧系统等功能在政企市场渗透率持续提升"
+      ]
+    },
+    {
+      "name": "搜索引擎",
+      "reasons": [
+        "必应全球搜索份额约5%，稳居全球第二，FY2025搜索广告收入138.78亿美元",
+        "必应、Edge已连续五年获取搜索、广告受众份额，AI功能带动搜索查询增长",
+        "必应深度集成Copilot AI助手、Edge浏览器、Windows生态，日活跃用户超1亿",
+        "必应为中国市场第二大搜索引擎，中国市场份额约22%"
+      ]
+    },
+    {
+      "name": "游戏",
+      "reasons": [
+        "FY2025游戏收入234.55亿美元，同比增长9%，创历史新高，内容与服务收入增长16%，占比达95%，以754亿美元收购动视暴雪King后，拥有使命召唤、魔兽世界、暗黑破坏神、糖果粉碎、星际争霸、守望先锋等超级IP矩阵，覆盖射击、RPG、策略、休闲、竞技全品类",
+        "使命召唤黑色行动6已有5000万玩家，游戏时长超20亿小时，我的世界受益于大电影上映，创月活和收入双记录，全平台游戏月活用户达5亿，近40款游戏正在开发中，本季度成为Xbox和PlayStation双平台发行商收入第一",
+        "旗下Bethesda拥有上古卷轴、辐射、毁灭战士等经典IP，极限竞速地平线5、上古卷轴湮没重制版成功登陆PlayStation，标志着跨平台发行战略全面落地，从独占平台商转型为全球最大第三方游戏发行商之一"
+      ]
+    },
+    {
+      "name": "游戏主机",
+      "reasons": [
+        "Xbox Series X和S为全球三大主机平台之一，Xbox Game Pass年度收入首次接近50亿美元，占游戏总收入21%，订阅用户约3500万，Xbox云游戏年度串流时长超5亿小时，覆盖主机、PC、手机、平板、智能电视多端",
+        "硬件销量连续四年下滑，FY2025同比降25%，主机业务正从硬件驱动向内容加服务加云游戏平台模式转型，下一代主机Xbox Project Helix传闻2027年发售，第三方OEM设备如ROG Xbox Ally掌机拓展硬件生态边界"
+      ]
+    }
+  ]
+}

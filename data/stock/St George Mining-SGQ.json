@@ -1,0 +1,56 @@
+{
+  "codes": [
+    {
+      "region": "AU",
+      "code": "SGQ"
+    }
+  ],
+  "name": "St George Mining",
+  "alias": [
+    "圣乔治矿业"
+  ],
+  "description": "St George Mining Limited（圣乔治矿业）是澳大利亚关键矿产勘探与开发公司，聚焦锂、镍、铜、稀土、铌等清洁能源关键金属，项目分布于巴西和西澳大利亚。公司旗舰项目为2024年收购的巴西Araxá铌稀土项目，紧邻全球最大铌生产商CBMM的矿山；西澳项目包括Mt Alexander（锂、镍铜铂族）、Destiny（铌稀土）、Woolgangie（锂、稀土、铜）等。公司处于勘探开发阶段，通过勘探与收购构建关键金属项目组合。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "铌",
+      "reasons": [
+        "旗舰Araxá铌稀土项目位于巴西米纳斯吉拉斯州，紧邻全球最大铌生产商CBMM的矿山，2024年完成收购",
+        "Araxá项目拥有500多个品位超1%铌的历史见矿，矿化从地表开始，具备开发成全球重要铌矿的潜力",
+        "公司同时在西澳Destiny项目识别碳酸岩铌靶区，处于早期勘探阶段"
+      ]
+    },
+    {
+      "name": "稀土",
+      "reasons": [
+        "Araxá项目同为铌稀土（REE）矿化，与CBMM矿区同处巴西稀土潜力区",
+        "Destiny项目识别碳酸岩稀土靶区，Woolgangie项目历史钻探见离子吸附型稀土矿化",
+        "稀土用于永磁、催化剂等，公司处于勘探阶段"
+      ]
+    },
+    {
+      "name": "锂",
+      "reasons": [
+        "Mt Alexander项目位于西澳Mt Ida锂省，LCT伟晶岩走廊长达15公里，Jailbreak、Manta等前景",
+        "岩屑采样锂氧化物品位最高3.25%，Manta钻探见连续121米厚伟晶岩",
+        "公司另持有Woolgangie及多个锂项目，处于勘探阶段"
+      ]
+    },
+    {
+      "name": "镍",
+      "reasons": [
+        "Mt Alexander Cathedrals带拥有Cathedrals、Stricklands、Investigators、Radar四个镍铜铂族发现，矿化走向超5.5公里",
+        "最早由BHP Nickel West发现高品位镍铜硫化物，钻探见3.95米矿化，镍品位5.05%，铜品位1.55%，并含钴与铂族金属",
+        "冶金试验产出18%镍、32%铜浓缩物，含钯9g/t、铑1.2g/t"
+      ]
+    },
+    {
+      "name": "铜",
+      "reasons": [
+        "Mt Alexander Cathedrals带镍铜硫化物含铜，冶金试验铜品位32%",
+        "Paterson项目（西澳东金伯利）为铜金勘探项目，位于Paterson省（Havieron、Winu等铜金矿附近）",
+        "Woolgangie项目历史钻探见近地表铜硫化物矿化"
+      ]
+    }
+  ]
+}
