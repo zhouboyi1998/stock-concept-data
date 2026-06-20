@@ -1,0 +1,115 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AAPL"
+    }
+  ],
+  "name": "苹果",
+  "alias": [
+    "Apple"
+  ],
+  "description": "Apple Inc.是美国跨国科技公司，1976年由史蒂夫·乔布斯、史蒂夫·沃兹尼亚克等创立，纳斯达克上市，业务覆盖智能手机、个人电脑、平板电脑、可穿戴设备、操作系统、软件服务、人工智能等领域，旗下拥有iPhone、Mac、iPad、Apple Watch、AirPods、Apple Vision Pro等产品，App Store、iCloud、Apple Music、Apple TV+、Apple Pay等服务。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "智能手机",
+      "reasons": [
+        "2026财年第三季度iPhone营收542.52亿美元，同比增长22%，创六月季度纪录",
+        "2025财年iPhone营收2095.86亿美元，同比增长4.2%，创历史新高",
+        "iPhone是美国、中国都市、英国、法国、澳大利亚、日本最畅销的手机型号"
+      ]
+    },
+    {
+      "name": "个人电脑",
+      "reasons": [
+        "2026财年第三季度Mac营收103.52亿美元，同比增长29%",
+        "2025财年Mac营收337.08亿美元，同比增长12.4%",
+        "MacBook Pro、MacBook Air、Mac Studio等产品线搭载M系列芯片"
+      ]
+    },
+    {
+      "name": "平板电脑",
+      "reasons": [
+        "2026财年第三季度iPad营收61.91亿美元，同比下降5.9%",
+        "2025财年iPad营收280.23亿美元，同比增长5%",
+        "iPad Pro、iPad Air搭载M5芯片，iPad mini采用A17 Pro芯片"
+      ]
+    },
+    {
+      "name": "智能穿戴设备",
+      "reasons": [
+        "2026财年第三季度可穿戴设备类营收78.83亿美元，同比增长6.5%",
+        "Apple Watch Series 11、AirPods Pro 3、AirTag 2构成穿戴产品矩阵",
+        "Apple Watch覆盖健康监测、运动追踪场景，AirPods拓展听力健康功能"
+      ]
+    },
+    {
+      "name": "操作系统",
+      "reasons": [
+        "iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27于2026年秋季推送",
+        "操作系统支撑超25亿台活跃设备，构建软硬件一体化生态",
+        "visionOS驱动Apple Vision Pro空间计算体验"
+      ]
+    },
+    {
+      "name": "软件开发",
+      "reasons": [
+        "2026财年第三季度服务业务营收307.39亿美元，同比增长12%",
+        "2025财年服务营收1091.58亿美元，同比增长13.5%，占总营收约26%",
+        "付费订阅超15亿，服务业务毛利率高、用户粘性强"
+      ]
+    },
+    {
+      "name": "应用商店",
+      "reasons": [
+        "App Store在2026财年第三季度创六月季度营收纪录",
+        "App Store连接全球开发者，抽成模式支撑服务业务高毛利",
+        "开发者可通过App Intents将应用接入Apple Intelligence功能"
+      ]
+    },
+    {
+      "name": "云计算",
+      "reasons": [
+        "iCloud提供设备备份、照片、文件同步存储，构成苹果云服务基础",
+        "Apple Intelligence私有云计算在Apple芯片服务器运行大模型，处理复杂请求"
+      ]
+    },
+    {
+      "name": "数字支付",
+      "reasons": [
+        "Apple Pay在2026财年第三季度创纪录用户数，覆盖发达、新兴市场",
+        "Apple Pay支持线下NFC、线上购物、交通卡等场景，渗透全球支付市场"
+      ]
+    },
+    {
+      "name": "视频流媒体",
+      "reasons": [
+        "Apple TV+季度观看量创历史新高，是服务业务重要组成",
+        "苹果布局原创影视，电影《F1》2025年院线发行，拓展内容业务"
+      ]
+    },
+    {
+      "name": "音乐流媒体",
+      "reasons": [
+        "Apple Music提供超1亿首曲目，集成空间音频、无损音质",
+        "Apple Music付费订阅服务全球可用，支撑服务业务增长"
+      ]
+    },
+    {
+      "name": "增强现实",
+      "reasons": [
+        "Apple Vision Pro运行visionOS，支持空间计算、沉浸式体验",
+        "Apple Vision Pro在WWDC26获Siri AI集成，拓展空间场景AI能力"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "WWDC26发布新一代Apple Intelligence，深度集成Siri AI至各终端设备",
+        "Siri AI支持跨应用操作、屏幕内容理解、联网问答，端侧处理保护隐私",
+        "Apple Intelligence依托私有云计算运行大模型，支持iPhone 16系列、iPhone 15 Pro等设备"
+      ]
+    }
+  ]
+}

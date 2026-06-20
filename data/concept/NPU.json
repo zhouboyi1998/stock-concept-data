@@ -1,0 +1,68 @@
+{
+  "name": "NPU",
+  "alias": [
+    "Neural Processing Unit",
+    "神经网络处理器",
+    "神经网络加速器",
+    "AI加速芯片"
+  ],
+  "description": "NPU（Neural Processing Unit，神经网络处理器）是专门为神经网络计算设计的专用处理器架构，针对卷积、矩阵乘法和激活函数等深度学习核心运算进行硬件级优化。与GPU不同，NPU采用数据驱动并行计算架构，在相同功耗下可实现数倍于GPU的AI推理效率。NPU广泛应用于智能手机SoC（Apple Neural Engine、高通Hexagon）、PC处理器（AMD Ryzen AI、Intel NPU）、边缘AI SoC（瑞芯微、晶晨）、ADAS芯片（地平线BPU）和数据中心AI加速器（谷歌TPU、寒武纪MLU）等场景。端侧AI大模型部署趋势推动NPU算力快速升级，手机旗舰NPU算力已达40-70 TOPS，PC NPU普遍超过40 TOPS（符合微软Copilot+要求），NPU正从可选功能变为处理器标配。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "苹果",
+      "reasons": []
+    },
+    {
+      "name": "高通",
+      "reasons": []
+    },
+    {
+      "name": "联发科",
+      "reasons": []
+    },
+    {
+      "name": "谷歌",
+      "reasons": []
+    },
+    {
+      "name": "英特尔",
+      "reasons": []
+    },
+    {
+      "name": "超威半导体",
+      "reasons": []
+    },
+    {
+      "name": "三星电子",
+      "reasons": []
+    },
+    {
+      "name": "寒武纪",
+      "reasons": []
+    },
+    {
+      "name": "地平线机器人",
+      "reasons": []
+    },
+    {
+      "name": "瑞芯微",
+      "reasons": []
+    },
+    {
+      "name": "芯原股份",
+      "reasons": []
+    },
+    {
+      "name": "晶晨股份",
+      "reasons": []
+    },
+    {
+      "name": "黑芝麻智能",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "AI芯片"
+  ]
+}

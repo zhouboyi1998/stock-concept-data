@@ -1,0 +1,27 @@
+{
+  "name": "PAM4数字信号处理器",
+  "alias": [
+    "Pulse Amplitude Modulation 4-Level Digital Signal Processor",
+    "PAM4 DSP"
+  ],
+  "description": "PAM4数字信号处理器（Pulse Amplitude Modulation 4-Level Digital Signal Processor）是用于数据中心内部短距高速光互连（光模块、有源光缆）的核心电子芯片，通过高速模数转换器（ADC）采样光纤接收端光电信号后在数字域进行信道均衡、时钟恢复、前向纠错（FEC）和PAM4解码，最终输出恢复后的NRZ或PAM4数据信号。PAM4 DSP芯片是数据中心光模块中仅次于激光器的第二大成本项——每颗800G/1.6T光模块都需要1-2颗PAM4 DSP芯片，2025年800G PAM4芯片组出货量同比近翻三倍、销售额翻倍以上，1.6T PAM4芯片组2026年销售额预计超20亿美元。与相干DSP相比，PAM4 DSP处理的是相对简单的信道损伤（插入损耗/反射/串扰/无需处理色散和偏振效应），芯片门数/功耗/面积均远小于相干DSP，因此制程迭代更快（7nm→5nm→3nm持续演进），标准化程度更高（多家供应商可互换/客户为光模块厂商），ASP远低于相干DSP但出货量为相干DSP的数十倍。LPO（线性驱动可插拔）和CPO技术的兴起对PAM4 DSP构成中长期替代威胁——LPO去除DSP芯片直接由交换机ASIC驱动光模块/CPO将光引擎与交换芯片共封装消除DSP需求。2025年全球PAM4 DSP芯片市场约25.4亿美元（CAGR 20.4%至2034年约136亿美元）。",
+  "remarks": [
+    "迈威尔科技：70%",
+    "博通：18%"
+  ],
+  "stocks": [
+    {
+      "name": "迈威尔科技",
+      "reasons": []
+    },
+    {
+      "name": "博通",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "光模块",
+    "通用数字信号处理器",
+    "相干数字信号处理器"
+  ]
+}

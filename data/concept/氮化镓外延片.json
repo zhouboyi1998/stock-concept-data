@@ -1,0 +1,29 @@
+{
+  "name": "氮化镓外延片",
+  "alias": [
+    "GaN Epitaxial Wafer",
+    "GaN Epi Wafer"
+  ],
+  "description": "氮化镓外延片（GaN Epitaxial Wafer）是在硅（GaN-on-Si）、碳化硅（GaN-on-SiC）、蓝宝石等异质衬底或GaN同质衬底上，通过MOCVD等设备生长氮化镓外延层制成的半导体晶圆，是GaN射频器件和功率器件的核心材料。主流技术路线为硅基氮化镓（GaN-on-Si）和碳化硅基氮化镓（GaN-on-SiC），分别面向功率电子和射频应用。外延生长技术壁垒极高，涉及缓冲层设计、缺陷控制、良率爬坡等核心工艺。全球GaN外延片市场以IDM自供为主，独立对外供应的商业外延片厂商较少。",
+  "stocks": [
+    {
+      "name": "IQE",
+      "reasons": []
+    },
+    {
+      "name": "住友化学",
+      "reasons": []
+    },
+    {
+      "name": "嘉晶电子",
+      "reasons": []
+    },
+    {
+      "name": "全新光电",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "氮化镓"
+  ]
+}

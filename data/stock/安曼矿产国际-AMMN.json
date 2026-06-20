@@ -1,0 +1,32 @@
+{
+  "codes": [
+    {
+      "region": "ID",
+      "code": "AMMN"
+    }
+  ],
+  "name": "安曼矿产国际",
+  "alias": [
+    "PT Amman Mineral Internasional"
+  ],
+  "description": "安曼矿产国际（PT Amman Mineral Internasional Tbk）是印度尼西亚最大的上市矿业公司、印尼第二大铜金生产商，雅加达交易所上市。公司通过子公司Amman Mineral Nusa Tenggara运营印尼第二大铜金矿Batu Hijau，通过Amman Mineral Industri运营冶炼厂和贵金属精炼厂，为完全一体化的铜金生产商。Batu Hijau铜金矿与Elang斑岩铜金矿床合计为全球五大铜当量储量之一。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "铜",
+      "reasons": [
+        "铜为安曼矿产国际核心业务，公司通过Batu Hijau铜金矿生产铜，2025年铜产量2.09亿磅、同比下降47%（Batu Hijau进入第8阶段开采、矿石品位下降）",
+        "公司2025年铜精矿产量44.66万吨、超指引4%，3月底开始生产铜阴极、全年产量79849吨（含1.76亿磅），铜阴极销售8.06亿美元",
+        "公司Batu Hijau铜金矿为印尼第二大铜金矿，与Elang矿床合计为全球五大铜当量储量之一，2026年目标精矿产量90万吨"
+      ]
+    },
+    {
+      "name": "金",
+      "reasons": [
+        "金为安曼矿产国际业务，公司Batu Hijau铜金矿伴生金，2025年金产量10.28万盎司、同比下降87%",
+        "公司2025年7月开始生产精炼金、全年产量124723盎司，精炼金销售4.54亿美元",
+        "公司贵金属精炼厂（PMR）生产纯金，2025年国内纯金销售、出口精炼金合计贡献显著收入"
+      ]
+    }
+  ]
+}

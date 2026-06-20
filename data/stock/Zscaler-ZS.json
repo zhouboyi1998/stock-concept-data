@@ -1,0 +1,62 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ZS"
+    }
+  ],
+  "name": "Zscaler",
+  "alias": [],
+  "description": "Zscaler是云安全领导者，纳斯达克上市，总部位于美国加利福尼亚州圣何塞。公司通过Zscaler Zero Trust Exchange平台保护用户、设备、应用、AI智能体，Zero Trust Exchange是基于SASE的云安全平台，分布式部署在160多个数据中心、是全球最大的内联云安全平台。公司核心服务包括ZIA（Zscaler Internet Access）、ZPA（Zscaler Private Access）、ZDX（Zscaler Digital Experience），覆盖零信任访问、安全Web网关、数据保护、AI安全等领域。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "网络安全",
+      "reasons": [
+        "网络安全为Zscaler核心业务，公司是云安全领导者、通过Zero Trust Exchange平台保护用户、设备、应用、AI智能体",
+        "公司Zero Trust Exchange是全球最大内联云安全平台，分布式部署在160多个数据中心",
+        "公司2025财年收入26.73亿美元、同比增长23%，ARR 30.15亿美元、同比增长22%"
+      ]
+    },
+    {
+      "name": "零信任",
+      "reasons": [
+        "零信任为Zscaler核心理念，公司Zero Trust Exchange平台遵循零信任原则、安全连接用户、设备、应用、工作负载",
+        "公司ZIA提供安全Web网关和云防火墙能力，ZPA提供零信任网络访问、替代传统VPN",
+        "公司Zscaler Cellular是行业首个仅用SIM卡保护IoT、OT连接的零信任方案，零信任无处不在覆盖350多家企业"
+      ]
+    },
+    {
+      "name": "SASE",
+      "reasons": [
+        "SASE为Zscaler核心业务，公司Zero Trust Exchange是基于SASE的云安全平台",
+        "公司SASE平台整合安全Web网关、零信任网络访问、数据保护等能力",
+        "公司SASE方案支持分支、多云、远程环境的数据安全防护"
+      ]
+    },
+    {
+      "name": "数据安全",
+      "reasons": [
+        "数据安全为Zscaler核心业务，公司Data Security Everywhere提供企业级数据防泄漏（DLP）",
+        "公司DLP技术覆盖在线数据、SaaS环境静态数据、公共云基础设施数据和端点数据",
+        "公司数据安全业务ARR约4.25亿美元、同比增长超100%，提供Email DLP、Endpoint DLP、数据分类加密等"
+      ]
+    },
+    {
+      "name": "安全运营",
+      "reasons": [
+        "安全运营为Zscaler业务，公司构建agentic AI驱动的威胁情报和自动化安全运营能力",
+        "公司AI驱动的安全运营中心（SOC）结合统一数据织物和MDR专长，赋能企业快速缓解网络威胁",
+        "公司安全运营方案包括Risk360、业务洞察、身份威胁检测等"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "人工智能为Zscaler战略方向，公司推出Zscaler AI Guard、AI Guardrails等AI安全创新",
+        "公司AI安全方案保护公共和私有AI应用，AI-SPM提供AI服务、智能体、模型的安全态势管理",
+        "公司AI安全业务ARR超2.5亿美元，预计2026财年增长至超4亿美元"
+      ]
+    }
+  ]
+}

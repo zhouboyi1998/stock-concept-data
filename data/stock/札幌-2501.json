@@ -1,0 +1,32 @@
+{
+  "codes": [
+    {
+      "region": "JP",
+      "code": "2501"
+    }
+  ],
+  "name": "札幌",
+  "alias": [
+    "Sapporo"
+  ],
+  "description": "札幌控股（Sapporo Holdings）是日本综合酒类饮料企业，东京证券交易所上市，旗下拥有札幌啤酒（Sapporo Breweries）、POKKA SAPPORO食品饮料、Sapporo Lion餐饮等子公司。公司两大事业为酒类（啤酒、RTD、葡萄酒、餐饮）、食品饮料，核心品牌包括Sapporo生啤黑标、惠比寿啤酒（Yebisu）、POKKA柠檬饮料等，并在北美运营Stone Brewing精酿啤酒、Sleeman Breweries加拿大啤酒。公司2025年12月将房地产事业（惠比寿花园广场等）引入外部资本、分类为非持续事业。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "啤酒",
+      "reasons": [
+        "啤酒为札幌控股核心业务，公司旗下Sapporo生啤黑标为日本代表性啤酒品牌，2025年罐装销量同比增长7%，惠比寿啤酒（Yebisu）罐装销量同比增长2%",
+        "公司2025年酒类事业收入4002亿日元、同比增长1.5%，国内啤酒类销量超过行业总需求，SAPPORO品牌北美销量同比增长5%",
+        "公司在北美运营Stone Brewing精酿啤酒、Sleeman Breweries加拿大啤酒，2025年推进SAPPORO PREMIUM BEER海外品牌强化"
+      ]
+    },
+    {
+      "name": "饮料",
+      "reasons": [
+        "软饮料为札幌控股食品饮料业务，公司通过POKKA SAPPORO运营饮料水、柠檬饮料、茶饮等，2025年食品饮料事业收入1066亿日元",
+        "公司POKKA为新加坡、马来西亚饮料市场主要品牌，运营POKKA柠檬水、低糖无糖茶等，2025年食品饮料事业利益42亿日元、同比增长23.3%",
+        "公司软饮料聚焦柠檬品类成长、低糖无糖茶拓展，神州一味噌等食品业务与饮料协同"
+      ]
+    }
+  ]
+}

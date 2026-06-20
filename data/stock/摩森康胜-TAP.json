@@ -1,0 +1,50 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "TAP.A"
+    },
+    {
+      "region": "US",
+      "code": "TAP"
+    },
+    {
+      "region": "CA",
+      "code": "TPX.A"
+    },
+    {
+      "region": "CA",
+      "code": "TPX.B"
+    }
+  ],
+  "name": "摩森康胜",
+  "alias": [
+    "Molson Coors"
+  ],
+  "description": "摩森康胜（Molson Coors Beverage Company）是全球领先的啤酒酿造公司，拥有超过两百年的酿造历史，纽约证券交易所、多伦多证券交易所上市。公司业务覆盖Americas（美国、加拿大、拉美）、EMEA&APAC（欧洲、中东、非洲、亚太）两大分部，核心品牌包括Coors Light、Miller Lite、Coors Banquet、Molson Canadian、Carling，超高端品牌包括Blue Moon比利时白啤、Staropramen、Madrí Excepcional，同时布局硬苏打、烈酒、无酒精饮料等啤酒外产品。公司年产量约7300万千升、产品销往超过80个国家。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "啤酒",
+      "reasons": [
+        "啤酒为摩森康胜核心业务，公司为全球第五大啤酒生产商，2025年全球品牌量7455万千升、同比下降5.4%，净销售额111.41亿美元",
+        "公司核心品牌包括Coors Light、Miller Lite、Coors Banquet、Molson Canadian、Carling，超高端品牌包括Blue Moon比利时白啤、Staropramen、Madrí Excepcional",
+        "公司Americas分部2025年净销售额下降5.5%、品牌量下降4.9%，EMEA&APAC分部净销售额下降2.3%、品牌量下降6.7%"
+      ]
+    },
+    {
+      "name": "无醇啤酒",
+      "reasons": [
+        "无酒精啤酒为摩森康胜增长业务，公司Blue Moon非酒精品牌2025年销量增长25%、为美国非酒精精酿啤酒品牌第二",
+        "公司无酒精饮料组合涵盖无酒精啤酒、能量饮料（ZOA）、高端调酒伴侣（Fever-Tree）等，向全品类饮料公司转型"
+      ]
+    },
+    {
+      "name": "硬苏打",
+      "reasons": [
+        "硬苏打为摩森康胜啤酒外业务，公司Vizzy Hard Seltzer为美国硬苏打代表品牌",
+        "公司硬苏打、烈酒（Five Trail威士忌）、无酒精饮料共同构成啤酒外产品组合，拓展消费场景"
+      ]
+    }
+  ]
+}

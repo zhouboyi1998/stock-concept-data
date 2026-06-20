@@ -1,0 +1,65 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ON"
+    }
+  ],
+  "name": "安森美半导体",
+  "alias": [
+    "ON Semiconductor",
+    "onsemi"
+  ],
+  "description": "安森美（ON Semiconductor，品牌名onsemi）是全球领先的智能电源和感知技术解决方案供应商，总部位于美国亚利桑那州斯科茨代尔。1999年从摩托罗拉半导体分拆独立，通过一系列战略并购成长为功率半导体和传感器领域的重要力量。三大业务部门：Power Solutions Group（PSG，SiC/MOSFET/IGBT/GaN/功率模块）、Analog and Mixed-Signal Group（AMG，模拟混合信号/Treo平台/电源管理/连接/隔离）、Intelligent Sensing Group（ISG，CMOS图像传感器/SPAD/SWIR）。核心产品包括：EliteSiC碳化硅MOSFET/JFET/模块（垂直整合衬底→外延→器件→封装→模块）、Hyperlux CMOS图像传感器（ADAS/机器视觉）、Treo模拟混合信号平台、垂直氮化镓vGaN（700V/1200V）、IGBT/MOSFET功率模块、SPAD/SiPM单光子探测器、SWIR短波红外传感器。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "功率半导体",
+      "reasons": [
+        "PSG部门为第一大业务（FY2025营收28.05亿美元，占比47%），产品覆盖SiC MOSFET/JFET/模块、MOSFET、IGBT、功率模块、垂直GaN全品类",
+        "EliteSiC碳化硅产品线覆盖650V-1700V电压等级，M3S SiC MOSFET开关损耗较竞品低20%",
+        "深耕汽车电气化（EV牵引逆变器/OBC/电池管理）、AI数据中心电源、储能系统、工业驱动等主流功率场景"
+      ]
+    },
+    {
+      "name": "碳化硅",
+      "reasons": [
+        "2021年收购GT Advanced Technologies（GTAT）获得SiC晶体生长核心技术，全球少数实现SiC全产业链垂直整合（衬底→外延→器件→封装→模块）的供应商，EliteSiC为核心品牌",
+        "布川韩国工厂为全球最大的SiC晶圆制造设施之一，150mm/200mm兼容产线，计划满产年产能超100万片200mm SiC晶圆",
+        "GTAT的SiC晶体生长技术与Penn State大学合建SiC Crystal Center（SiC3/10年800万美元合作研究）持续推动大尺寸，低缺陷SiC衬底技术进步"
+      ]
+    },
+    {
+      "name": "碳化硅功率半导体",
+      "reasons": [
+        "全球SiC功率器件第二大供应商（2023年跃居第二，仅次于STM），EliteSiC系列覆盖650V-1700V SiC MOSFET、JFET、Cascode JFET、Combo FET、SiC二极管及功率模块全产品组合，EV SiC方案在中国新款车型中市占约55%，BMW、现代起亚、Vestas等全球头部客户长期供应协议",
+        "SiC JFET面向下一代AI数据中心800V直流供电架构，配合英伟达等GPU厂商开发高功率密度AI机架电源方案，储能系统SiC混合模块效率达99.5%，EliteSiC M3S SiC MOSFET开关损耗较行业竞品低20%",
+        "全球唯一同时实现SiC衬底自产（自给>50%）+外延+器件+封装的完全内制闭环的SiC功率半导体供应商，全链条控制带来成本、良率、供应保障的独特竞争优势，布川、Shelby、捷克三基地全球产能布局"
+      ]
+    },
+    {
+      "name": "氮化镓功率半导体",
+      "reasons": [
+        "自研垂直氮化镓（vGaN）技术700V/1200V器件已向首批客户送样，预计2026年末量产、2027年起贡献营收",
+        "与GlobalFoundries达成合作开发650V横向GaN器件，与英诺赛科探索200mm GaN-on-Silicon代工产能",
+        "整体GaN解决方案设计项目规模突破15亿美元，2026年下半年将新增20款GaN器件送样"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "AMG部门为第二大业务（FY2025营收22.62亿美元，占比38%），产品覆盖电源管理/信号链/连接/隔离/非易失存储等",
+        "Treo平台为行业领先的可扩展模拟混合信号技术平台，支持宽电压/高温/SoC架构，设计漏斗超10亿美元，毛利率60-70%",
+        "产品线包括多相控制器/栅极驱动器/DC-DC/AC-DC转换器/LDO/超声波AFE/单对以太网/隔离/逻辑等全品类"
+      ]
+    },
+    {
+      "name": "CMOS图像传感器",
+      "reasons": [
+        "ISG部门为第三大业务（FY2025营收9.28亿美元，占比15%），专注高性能CMOS图像传感器和光子检测技术",
+        "Hyperlux系列提供业界领先的高动态范围/低噪声成像，覆盖汽车ADAS/工业机器视觉/机器人/安防全场景",
+        "拥有SPAD单光子雪崩二极管/SiPM硅光电倍增管/SWIR短波红外等差异化光子检测技术，深度传感和3D成像领域布局领先"
+      ]
+    }
+  ]
+}

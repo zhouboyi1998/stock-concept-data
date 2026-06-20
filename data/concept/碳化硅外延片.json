@@ -1,0 +1,37 @@
+{
+  "name": "碳化硅外延片",
+  "alias": [
+    "SiC Epitaxial Wafer",
+    "SiC Epi Wafer"
+  ],
+  "description": "碳化硅外延片（SiC Epitaxial Wafer）是在碳化硅衬底上通过CVD工艺生长外延层制成的半导体晶圆，是碳化硅MOSFET、肖特基二极管等功率器件的核心材料。碳化硅外延生长技术壁垒较高，涉及厚度一致性、掺杂控制、缺陷密度（BPD、TED）等核心指标，直接决定功率器件性能和良率。全球碳化硅外延片市场以垂直整合IDM自供为主，独立商业外延片厂商较少，Coherent、罗姆（SiCrystal）、安森美（GTAT）、三安光电、合盛硅业等企业兼具衬底与外延能力。碳化硅外延片下游应用于新能源汽车主驱逆变器、光伏逆变器、充电桩、AI数据中心电源等领域。",
+  "stocks": [
+    {
+      "name": "Coherent",
+      "reasons": []
+    },
+    {
+      "name": "安森美半导体",
+      "reasons": []
+    },
+    {
+      "name": "罗姆半导体",
+      "reasons": []
+    },
+    {
+      "name": "三安光电",
+      "reasons": []
+    },
+    {
+      "name": "嘉晶电子",
+      "reasons": []
+    },
+    {
+      "name": "合盛硅业",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "碳化硅"
+  ]
+}
