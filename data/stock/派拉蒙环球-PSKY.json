@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "PSKY"
+    }
+  ],
+  "name": "派拉蒙环球",
+  "alias": [
+    "Paramount Skydance"
+  ],
+  "description": "派拉蒙环球公司（Paramount Skydance）是全球领先的综合媒体娱乐集团，2022年由ViacomCBS更名而来，2025年Skydance入主后更名为Paramount Skydance Corporation，纳斯达克上市，业务覆盖影视内容制作发行、流媒体服务、广播电视、有线频道、体育赛事转播等领域，旗下拥有派拉蒙影业、CBS、Paramount+、Pluto TV、Showtime、MTV、Nickelodeon等知名品牌。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "视频流媒体",
+      "reasons": [
+        "2025年流媒体分部全年营收76亿美元，较上年增长13%，其中第四季度Paramount+营收同比增长17%",
+        "截至2025年末Paramount+付费订阅用户7900万，同比增长4%，为全球头部流媒体平台之一",
+        "旗下Pluto TV为全球领先的免费广告支持型流媒体电视平台，覆盖电影、剧集、新闻、体育等多类频道"
+      ]
+    },
+    {
+      "name": "影视",
+      "reasons": [
+        "2025年第四季度制片厂营收同比增长16%，全年发行8部影片，2026年计划发行超15部",
+        "《碟中谍：最终清算》全球票房5.98亿美元，《蓝精灵》《白头神探》等低成本影片实现盈利",
+        "2026年第二季度制片厂营收13亿美元，同比增长16%，由《惊声尖笑》续集票房表现带动"
+      ]
+    },
+    {
+      "name": "电视网络",
+      "reasons": [
+        "旗下CBS为美国收视率最高的广播电视网，2025年第四季度电视媒体分部营收47亿美元",
+        "电视媒体分部覆盖CBS、MTV、Nickelodeon、BET、Comedy Central、Showtime等多个品牌频道",
+        "2025年第四季度电视广告收入同比下滑10%，主要受政治广告缺失影响"
+      ]
+    },
+    {
+      "name": "体育赛事直播",
+      "reasons": [
+        "旗下CBS Sports拥有NFL、大学橄榄球、大师赛、欧冠、意甲、NWSL等多项顶级赛事转播版权",
+        "Paramount+平台同步直播NFL等多类体育赛事，体育直播覆盖付费订阅、广告支持双套餐",
+        "体育赛事通过CBS电视网、Paramount+、Pluto TV多平台分发，形成赛事版权全渠道运营"
+      ]
+    }
+  ]
+}

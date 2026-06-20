@@ -1,0 +1,80 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AVGO"
+    }
+  ],
+  "name": "博通",
+  "alias": [
+    "Broadcom"
+  ],
+  "description": "Broadcom Inc.，全球领先的半导体和基础设施软件解决方案提供商，AI芯片+网络芯片+企业软件三大业务架构。核心产品涵盖定制AI加速器（XPU，为Google等超大规模客户定制Tomahawk/Ironwood TPU）、AI以太网交换机芯片（Tomahawk 5/Trident/Jericho系列）、企业软件（VMware Cloud Foundation虚拟化平台）等。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "NPU",
+      "reasons": [
+        "定制AI加速器（XPU）为Google TPU等超大规模客户提供AI训练、推理芯片设计+制造，FY2025 AI半导体营收200亿美元（+65%）",
+        "Q4 AI半导体营收65亿美元（+74%），AI订单积压达730亿美元，近期获Anthropic 110亿美元XPU追加订单及第五家XPU客户10亿美元订单",
+        "拥有完整AI数据中心芯片组合：XPU AI加速器+以太网AI交换机+NIC网卡+光学PHY，AI收入占半导体业务54%"
+      ]
+    },
+    {
+      "name": "网络芯片",
+      "reasons": [
+        "全球数据中心以太网交换机芯片领导者，Tomahawk 5（51.2T）和Trident、Jericho系列服务AI集群Spine-Leaf架构组网",
+        "以太网AI交换机在超大规模数据中心部署持续加速，AI数据中心的GPU集群间互联对高速交换机需求呈指数级增长",
+        "拥有从交换机芯片（Ethernet Switch）、NIC网卡、PHY物理层芯片到光模块DSP的全系列网络连接半导体产品线"
+      ]
+    },
+    {
+      "name": "以太网交换芯片",
+      "reasons": [
+        "全球以太网交换芯片绝对龙头，Tomahawk、Trident、Jericho三大系列，覆盖数据中心、企业网、运营商全场景，市占率约65-70%",
+        "Tomahawk 5（51.2T）为业界最高带宽交换芯片，大规模部署于AWS、Azure、GCP等全球主要云服务商AI数据中心",
+        "拥有从交换芯片到PHY（SerDes）、NIC网卡、光模块DSP、Optic VCSEL驱动器的完整数据中心互联芯片生态",
+        "交换芯片+PHY/NIC的软硬件生态壁垒极高，客户迁移成本巨大，构成Broadcom在数据通信芯片领域的长期护城河"
+      ]
+    },
+    {
+      "name": "光芯片",
+      "reasons": [
+        "拥有前贝尔实验室InP晶圆厂（位于宾夕法尼亚，全球最先进的磷化铟激光器产线之一），同时自产EML激光器、CW-DFB激光器、VCSEL激光器、光电探测器（PIN/APD）四大类光芯片，是全球唯一同时自产激光器芯片、DSP芯片、以太网交换芯片、PCIe交换芯片的企业",
+        "光芯片业务隐藏在Networking事业部内不单独披露，但管理层FY2025Q4财报电话会上明确表示'激光器和光器件的需求超级强劲（demand going nuts）'，光芯片是博通网络事业部中毛利率最高的硬件品类之一",
+        "光芯片+DSP+交换芯片+光引擎的全栈AI光互连方案内部协同，自产激光器搭配自家DSP和交换芯片，光模块客户用博通全套方案可大幅降低验证周期和供应链复杂度"
+      ]
+    },
+    {
+      "name": "电吸收调制激光器芯片",
+      "reasons": [
+        "全球第二大EML芯片供应商（2024年全球EML市占14.5%），拥有前贝尔实验室InP晶圆厂，业界首发高良率量产的200G PAM4 EML为NVIDIA 1.6T光模块核心激光源，与Lumentum并列双寡头供应NVIDIA的1.6T光模块EML需求",
+        "同时量产100G和200G两代PAM4 EML芯片，100G EML为800G光模块主力激光源，200G EML面向1.6T光模块，自产EML芯片搭配自家DSP芯片实现激光器→DSP→交换的全栈性能优化"
+      ]
+    },
+    {
+      "name": "连续波激光器芯片",
+      "reasons": [
+        "全球最大CW-DFB激光器芯片产能供应商之一（与住友电工并列CW-DFB产能第一集群），CW-DFB硅光子外部光源出货量为全球最大规模，博通InP晶圆厂的CW-DFB月产能位居行业首位",
+        "CW-DFB激光器芯片与自家DSP芯片、光引擎、交换芯片协同，为硅光子光模块提供外部光源（ELS），为数据中心客户提供从激光器到交换芯片的一站式光互连解决方案"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "全球PCIe交换芯片龙头，市场份额约70%，PEX89000系列覆盖PCIe 5.0/6.0全代际交换芯片",
+        "PEX89000系列支持48-256通道灵活配置，为AI服务器和数据中心PCIe交换芯片行业标准",
+        "PCIe交换芯片与旗下AI XPU、以太网交换机、NIC网卡、光互连芯片形成完整数据中心平台生态",
+        "在PCIe交换芯片领域深耕十余年，拥有最完善的软件生态和客户兼容性认证体系"
+      ]
+    },
+    {
+      "name": "虚拟化软件",
+      "reasons": [
+        "VMware Cloud Foundation（VCF）提供计算虚拟化、网络、存储、管理和安全的全栈云基础设施平台，含vSphere/vSAN/NSX等核心产品",
+        "FY2025基础设施软件营收270.29亿美元（+26%），VMware从永久许可向订阅模式转型成功，客户持续向VCF迁移",
+        "VCF集成Kubernetes支持容器化和AI/ML工作负载，VMware Private AI为企业在本地运行生成式AI提供解决方案"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "锆",
+  "alias": [
+    "Zirconium",
+    "Zr"
+  ],
+  "description": "锆是一种战略性稀有金属，主要赋存于锆英砂（硅酸锆）中。全球锆矿资源高度集中于澳大利亚、南非等地区，全球90%以上锆矿来源于滨海砂矿，澳大利亚与南非两国合计产量占全球60%以上，前三大生产商Iluka、Tronox、Rio Tinto占全球产量约55%。锆英砂经加工制成硅酸锆、氧氯化锆、电熔锆、二氧化锆等中间产品，广泛应用于陶瓷、铸造、耐火材料、核电、新能源等领域。中国是全球最大锆资源消费国，但锆矿储量仅占全球不足5%，对外依存度高达90%以上。",
+  "remarks": [
+    "锆英砂（硅酸锆/ZrSiO₄）"
+  ],
+  "stocks": [
+    {
+      "name": "Iluka Resources",
+      "reasons": []
+    },
+    {
+      "name": "Tronox",
+      "reasons": []
+    },
+    {
+      "name": "力拓",
+      "reasons": []
+    },
+    {
+      "name": "Kenmare Resources",
+      "reasons": []
+    },
+    {
+      "name": "PYX Resources",
+      "reasons": []
+    },
+    {
+      "name": "Eramet",
+      "reasons": []
+    },
+    {
+      "name": "Sierra Rutile",
+      "reasons": []
+    },
+    {
+      "name": "盛和资源",
+      "reasons": []
+    },
+    {
+      "name": "东方锆业",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "钛",
+    "铪",
+    "二氧化锆",
+    "锆合金"
+  ]
+}

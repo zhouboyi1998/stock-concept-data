@@ -1,0 +1,49 @@
+{
+  "name": "NAND Flash",
+  "alias": [
+    "NAND闪存"
+  ],
+  "description": "NAND Flash是非易失性存储芯片的核心品类，广泛应用于SSD固态硬盘、手机存储、U盘等领域。2026年全球NAND市场进入超级周期：Q1市场规模达460亿美元（环比翻倍），全年供给持续短缺，AI驱动企业级SSD需求爆发。全球NAND原厂格局由五大韩美日厂商主导，国产3D NAND龙头快速崛起，市占率已攀升至全球前列并启动IPO进程。A股暂无3D NAND原厂上市公司，国产NAND芯片设计企业在SLC NAND等利基市场持续布局。",
+  "remarks": [
+    "三星电子：30%",
+    "SK海力士：18%",
+    "铠侠：14%",
+    "美光科技：13%",
+    "闪迪：13%"
+  ],
+  "stocks": [
+    {
+      "name": "三星电子",
+      "reasons": []
+    },
+    {
+      "name": "SK海力士",
+      "reasons": []
+    },
+    {
+      "name": "铠侠",
+      "reasons": []
+    },
+    {
+      "name": "美光科技",
+      "reasons": []
+    },
+    {
+      "name": "闪迪",
+      "reasons": []
+    },
+    {
+      "name": "兆易创新",
+      "reasons": []
+    },
+    {
+      "name": "东芯股份",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "存储芯片",
+    "NOR Flash",
+    "EEPROM"
+  ]
+}

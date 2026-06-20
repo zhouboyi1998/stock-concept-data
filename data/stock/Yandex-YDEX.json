@@ -1,0 +1,98 @@
+{
+  "codes": [
+    {
+      "region": "RU",
+      "code": "YDEX"
+    }
+  ],
+  "name": "Yandex",
+  "alias": [],
+  "description": "Yandex是俄罗斯最大的互联网科技公司，常被称为俄罗斯的Google。核心业务涵盖搜索引擎（Yandex Search俄罗斯市占率约72%）、浏览器（Yandex Browser）、出行平台（Yandex Taxi/Go俄罗斯最大网约车）、地图导航（Yandex Maps/Navigator）、云计算（Yandex Cloud）、外卖配送（Yandex.Eda/Yandex.Lavka）、流媒体（Kinopoisk/Yandex Music）、电商平台（Yandex Market）及AI大模型（YandexGPT）。2024年7月完成重组，荷兰母公司Nebius Group出售俄罗斯资产后，Yandex LLC由俄罗斯投资者财团控股并在莫斯科交易所独立上市。",
+  "remarks": [
+    "Yandex原在纳斯达克上市（股票代码：YNDX），因地缘政治影响被迫退市，进行业务重组，最终拆分成了Yandex（负责俄罗斯业务，继承公司名字）和Nebius（负责国际业务，继承公司主体）两家公司，拆分后两家公司无任何股权关系，完全独立",
+    "Yandex回莫斯科证券交易所上市（股票代码：YDEX）",
+    "Nebius在纳斯达克重新上市（股票代码：NBIS）"
+  ],
+  "concepts": [
+    {
+      "name": "搜索引擎",
+      "reasons": [
+        "Yandex Search是俄罗斯最大搜索引擎，俄罗斯市场份额约72%远超Google，全球搜索引擎市场份额约2.8%，是Yandex生态的核心流量入口和广告变现引擎",
+        "搜索广告是Yandex最主要的收入来源，覆盖俄罗斯及独联体国家，在俄语搜索市场的语言理解和本地化内容索引方面具有Google无法比拟的母语优势",
+        "Yandex Search基于自研AI算法（原MatrixNet机器学习引擎，现升级为YandexGPT驱动），在俄语自然语言查询理解、图像搜索、视频搜索等领域持续领先"
+      ]
+    },
+    {
+      "name": "浏览器",
+      "reasons": [
+        "Yandex Browser全球全平台市占率约0.15%排名全球前十，是俄罗斯及独联体国家市场占有率最高的国产浏览器，基于Chromium开源内核深度定制",
+        "Yandex Browser深度集成Yandex搜索、Yandex地图、Yandex翻译等自有服务，在俄罗斯市场作为Chrome的主要替代品覆盖桌面和移动端",
+        "内置AI助手整合YandexGPT能力，支持智能网页摘要、语音搜索、Turbo模式压缩数据节省流量，在俄语用户中具有显著的本地化体验优势"
+      ]
+    },
+    {
+      "name": "地图导航",
+      "reasons": [
+        "Yandex Maps是俄罗斯最流行的在线地图和导航平台，覆盖俄罗斯及独联体国家的道路网络、公共交通和POI数据",
+        "Yandex Navigator提供实时路况导航、避开拥堵路线和停车推荐，在俄罗斯汽车导航市场占有率高",
+        "Yandex Maps与Yandex Taxi、Yandex.Eda等业务深度打通，为出行和配送提供底层地理信息服务"
+      ]
+    },
+    {
+      "name": "出行平台",
+      "reasons": [
+        "Yandex Taxi（Yandex Go）是俄罗斯及独联体国家最大的网约车平台，覆盖俄罗斯、白俄罗斯、哈萨克斯坦等十几个国家数百个城市，在俄罗斯网约车市场占主导地位",
+        "Yandex Taxi不仅提供网约车服务，还整合了外卖配送、快递跑腿、货运等一站式城市出行与即时配送服务",
+        "Yandex Go超级App将出行、外卖、杂货配送整合于同一平台，形成了与东南亚Grab类似的多服务聚合模式"
+      ]
+    },
+    {
+      "name": "外卖平台",
+      "reasons": [
+        "Yandex.Eda是俄罗斯最大的外卖配送平台之一，覆盖俄罗斯主要城市及独联体多国，与俄罗斯外卖平台Delivery Club合并后进一步巩固市场地位",
+        "Yandex.Lavka提供15分钟内即时杂货配送服务，依托暗仓前置仓模式覆盖高频生鲜和日用品需求",
+        "外卖及即时配送业务与Yandex Taxi运力网络共享骑手资源，形成出行加配送的运力协同效应"
+      ]
+    },
+    {
+      "name": "电商平台",
+      "reasons": [
+        "Yandex Market是俄罗斯重要的综合电商平台，以B2C和C2C混合模式运营，提供搜索比价、商品购买和物流配送一站式服务",
+        "Yandex Market与Yandex搜索深度整合，商品搜索结果是Yandex搜索广告变现的重要组成部分",
+        "依托Yandex支付（Yandex Pay）和Yandex物流体系，Market在俄罗斯电商市场中与Wildberries和Ozon形成三足鼎立格局"
+      ]
+    },
+    {
+      "name": "流媒体",
+      "reasons": [
+        "Kinopoisk是俄罗斯最大的在线电影数据库和流媒体平台，提供电影、剧集、动画等原创和授权内容，被称为俄罗斯的IMDb加Netflix",
+        "Yandex Music是俄罗斯领先的音乐流媒体平台，拥有千万级曲库和AI个性化推荐播放列表",
+        "流媒体业务以订阅加广告双模式变现，Kinopoisk原创内容投入持续加大，与Yandex生态的搜索和推荐数据协同提升用户留存"
+      ]
+    },
+    {
+      "name": "云计算",
+      "reasons": [
+        "Yandex Cloud是俄罗斯最大的自主云服务平台之一，提供计算、存储、数据库、AI/ML、大数据等全栈云服务",
+        "在俄罗斯数据本地化合规要求驱动下，Yandex Cloud是俄政府和企业的首选云供应商之一",
+        "Yandex Cloud支持YandexGPT模型的云端部署和API调用，为俄罗斯企业提供AI基础设施和MaaS服务"
+      ]
+    },
+    {
+      "name": "人工智能",
+      "reasons": [
+        "Yandex自研YandexGPT大模型系列（含YandexGPT 5 Pro等版本），在俄语理解和生成能力方面对标GPT-4级别性能，是俄罗斯AI领域的国家队",
+        "YandexGPT已全面嵌入Yandex搜索、浏览器AI助手、Yandex Cloud API、企业服务等核心产品线，AI驱动全业务线的智能化升级",
+        "Yandex在语音识别（Alice语音助手）和计算机视觉技术方面长期投入，拥有俄罗斯规模最大的AI研发团队之一"
+      ]
+    },
+    {
+      "name": "大模型",
+      "reasons": [
+        "YandexGPT是Yandex自主研发的大语言模型系列，YandexGPT 5 Pro在俄语基准测试中达到俄罗斯市场领先水平，支持文本生成、代码编写、翻译等任务",
+        "YandexGPT通过Yandex Cloud对外提供MaaS模型调用服务，为俄罗斯企业和开发者提供AI能力，是俄罗斯AI基础设施的关键组件",
+        "YandexGPT与Yandex搜索和Alice语音助手深度集成，将AI从搜索框扩展到对话式交互和企业级应用，日均调用量持续快速增长"
+      ]
+    }
+  ]
+}

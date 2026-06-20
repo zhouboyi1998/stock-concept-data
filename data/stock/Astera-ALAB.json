@@ -1,0 +1,39 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ALAB"
+    }
+  ],
+  "name": "Astera",
+  "alias": [
+    "Astera Labs"
+  ],
+  "description": "全球领先的机架级AI基础设施半导体连接解决方案提供商，专注于为超大规模数据中心和AI平台提供高速互连芯片。公司拥有四大产品家族：Aries PCIe/CXL Smart DSP Retimer（智能重定时器/含Smart Cable Module有源线缆模块）、Taurus Ethernet Smart Cable Module（以太网智能线缆模块）、Leo CXL Memory Connectivity Controller（CXL内存连接控制器/行业龙头）+ Scorpio Smart Fabric Switch（智能结构交换机/P系列PCIe Gen6头节点连接/X系列GPU集群后端带宽）。所有产品均基于自研COSMOS软件套件（链路管理/舰队管理/RAS），以软件定义硬件差异化竞争。产品出货量数百万颗/覆盖全球主要超大规模云厂商和AI加速器供应商，是AI基础设施互连芯片领域的纯标的。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "MXC",
+      "reasons": [
+        "全球CXL内存控制器芯片市场绝对领导者（2025年市场份额估计约35-40%），Leo系列CXL Smart Memory Controller为行业首款同时支持内存扩展+内存池化+内存共享的商用CXL控制器，2025年11月实现全球首个超大规模云CXL生产部署，Microsoft Azure M系列虚拟机采用Leo控制器实现CXL内存扩展（CXL从实验室到商业化的标志性里程碑）",
+        "Leo控制器使云服务商能将单台服务器内存容量扩展超过1.5倍/突破AI和内存数据库的内存容量瓶颈/同时降低总体拥有成本（TCO），支持CXL 2.0标准（CXL 3.1路线图已公布），COSMOS软件套件内置内存管理和深度诊断、远程可观测性为数据中心运维提供全栈管控能力",
+        "FY2025营收8.53亿美元（+115% YoY），毛利率75.7%，净利润2.19亿美元（实现全年盈利），Leo、Aries、Taurus、Scorpio四大产品线协同，控制器出货量全球最高，先发优势和客户认证周期壁垒极深"
+      ]
+    },
+    {
+      "name": "PCIe信号重整芯片",
+      "reasons": [
+        "Aries PCIe/CXL Smart DSP Retimer为全球量产规模最大的PCIe Retimer芯片产品线，采用DSP（数字信号处理）架构（非模拟Redriver/信号恢复质量远超Redriver），Aries Smart Cable Module为业界首款PCIe有源线缆（AEC）模块化方案（将Retimer IC+外围器件集成在多种形态模块上/支持直连线缆和分支线缆），已向全球主要超大规模云厂商出货数百万颗",
+        "Aries Retimer覆盖PCIe 4.0/5.0/CXL多代协议，为AI服务器GPU-NIC-SSD互连的关键信号完整性器件（典型8卡AI服务器需8-16颗PCIe Retimer），是公司最先规模商业化的产品线/FY2025贡献最大营收来源，为Leo和Scorpio产品的客户导入提供了渠道和信任基础"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "Scorpio Smart Fabric Switch为Astera Labs最新产品线，P系列（PCIe Gen 6.0/混合流量头节点连接/跨PCIe主机+端点生态）+X系列（GPU集群后端GPU-GPU带宽/平台特定定制协议/含Hypercast技术/网内计算/光连接），2025年开始为首个lead platform量产爬坡，2026年初宣布扩大Scorpio X路线图以支持多家客户的下代scale-up网络应用",
+        "Scorpio定位于“机架级AI结构交换机”，区别于传统PCIe交换芯片仅做设备扩展，Scorpio原生支持AI scale-up网络的专用需求（GPU集群/低延迟/高带宽/平台定制），目标市场（GPU scale-up交换机）预计2030年达到200亿美元/年，是公司从'单机互连'升级到'机架AI基础设施'的关键战略拼图",
+        "Astera Labs是唯一同时拥有PCIe Retimer+ CXL控制器+ PCIe交换芯片+以太网线缆模块的互连芯片平台型公司，从信号调理→内存扩展→网络交换→集群连接形成完整AI互连解决方案闭环，互补产品和交叉设计的know-how积累为单一品类竞争的独立芯片商不具备的生态护城河"
+      ]
+    }
+  ]
+}
