@@ -1,0 +1,49 @@
+{
+  "name": "图像模型",
+  "alias": [
+    "Image Model"
+  ],
+  "description": "图像模型是人工智能领域专门用于处理、理解、生成和编辑图像内容的深度学习模型技术体系。核心能力涵盖文生图（text-to-image）、图生图（image-to-image）、图像分类与识别、目标检测与分割、图像超分辨率与修复、OCR文字识别、人脸识别与表情分析、3D视觉重建等。图像模型的技术演进经历了从CNN（卷积神经网络）到GAN（生成对抗网络）再到扩散模型（Diffusion Model）的范式跃迁，现代图像大模型融合了Transformer、扩散模型和多模态对齐技术，在广告创意、电商展示、影视制作、医疗影像、自动驾驶、工业质检和社交媒体等领域实现大规模商业化落地。",
+  "stocks": [
+    {
+      "name": "谷歌",
+      "reasons": [
+        "Imagen"
+      ]
+    },
+    {
+      "name": "Meta",
+      "reasons": [
+        "SAM"
+      ]
+    },
+    {
+      "name": "商汤",
+      "reasons": [
+        "SenseNova"
+      ]
+    },
+    {
+      "name": "阿里巴巴",
+      "reasons": [
+        "Qwen-VL"
+      ]
+    },
+    {
+      "name": "智谱",
+      "reasons": [
+        "CogView"
+      ]
+    },
+    {
+      "name": "MiniMax",
+      "reasons": [
+        "M"
+      ]
+    }
+  ],
+  "related": [
+    "人工智能",
+    "大模型"
+  ]
+}

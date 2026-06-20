@@ -1,0 +1,33 @@
+{
+  "name": "砷化镓外延片",
+  "alias": [
+    "GaAs Epitaxial Wafer",
+    "GaAs Epi Wafer"
+  ],
+  "description": "砷化镓外延片（GaAs Epitaxial Wafer）是在砷化镓衬底上通过MOCVD或MBE设备生长外延层制成的半导体晶圆，是射频功率放大器、低噪声放大器、开关、VCSEL激光器等器件的核心材料。外延生长通过精确控制掺杂浓度和层厚，决定器件的高频特性和光电性能。全球砷化镓外延片市场由独立商业外延厂商主导，IQE占据约53%市场份额，射频外延市场IQE与VPEC合计约80%。砷化镓外延片下游应用于5G/6G射频前端、Wi-Fi、卫星通信、光电子器件等领域。",
+  "stocks": [
+    {
+      "name": "IQE",
+      "reasons": []
+    },
+    {
+      "name": "全新光电",
+      "reasons": []
+    },
+    {
+      "name": "住友化学",
+      "reasons": []
+    },
+    {
+      "name": "英特磊",
+      "reasons": []
+    },
+    {
+      "name": "联亚光电",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "砷化镓"
+  ]
+}

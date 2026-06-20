@@ -1,0 +1,24 @@
+{
+  "codes": [
+    {
+      "region": "AU",
+      "code": "TWE"
+    }
+  ],
+  "name": "富邑葡萄酒集团",
+  "alias": [
+    "Treasury Wine Estates"
+  ],
+  "description": "富邑葡萄酒集团（Treasury Wine Estates Limited，TWE）是全球最大的上市葡萄酒公司之一，澳交所上市，2011年从Foster's分拆。公司专注优质静止酒、起泡酒生产，拥有70多个品牌、10000公顷葡萄园，在澳大利亚巴罗萨谷、美国纳帕谷、新西兰马尔堡、法国波尔多、意大利托斯卡纳等产区运营。公司旗下Penfolds（奔富）、DAOU、Frank Family Vineyards、Matua、19 Crimes等品牌，为全球领先的优质葡萄酒生产商。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "葡萄酒",
+      "reasons": [
+        "葡萄酒为富邑核心业务，公司为全球最大上市葡萄酒公司之一，FY2026净销售额25.6亿澳元、EBITS 4.923亿澳元",
+        "公司旗下Penfolds（奔富）为全球知名奢侈葡萄酒品牌、FY2026 EBITS增长15.2%，DAOU为美国第一奢侈葡萄酒品牌，Matua为新西兰长相思领先品牌",
+        "公司在澳大利亚巴罗萨谷、美国纳帕谷、新西兰马尔堡、法国波尔多、意大利托斯卡纳等产区运营10000公顷葡萄园，2026年6月将品牌削减至30个、聚焦Penfolds、DAOU、Matua等10大核心品牌"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AVGO"
+    }
+  ],
+  "name": "博通",
+  "alias": [
+    "Broadcom"
+  ],
+  "description": "Broadcom Inc.，全球领先的半导体和基础设施软件解决方案提供商，AI芯片+网络芯片+企业软件三大业务架构。核心产品涵盖定制AI加速器（XPU，为Google等超大规模客户定制Tomahawk/Ironwood TPU）、AI以太网交换机芯片（Tomahawk 5/Trident/Jericho系列）、企业软件（VMware Cloud Foundation虚拟化平台）等。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "TPU",
+      "reasons": [
+        "博通是Google TPU的核心设计方和供应商，自2016年起与Google合作设计TPU，双方合作关系已持续约十年",
+        "2026年4月，博通与Google签署长期合作协议，将为Google开发并交付未来数代TPU，协议有效期至2031年，博通负责设计训练优化的TPU v8t训练芯片（代号Sunfish）",
+        "博通不仅设计TPU芯片，还直接向Anthropic出售基于TPU v7 Ironwood的机架级系统，Anthropic已承诺部署超过一百万颗TPU芯片，代表超过1吉瓦的计算容量",
+        "博通同时为Meta、OpenAI等头部AI企业设计类似的定制AI加速器，在AI数据中心定制芯片市场占据主导地位"
+      ]
+    },
+    {
+      "name": "NPU",
+      "reasons": [
+        "博通在NPU领域有实际产品，其NPU为集成于宽带接入和Wi-Fi SoC中的边缘AI推理单元，属于边缘AI NPU供应商",
+        "公司2026年推出业界首款集成NPU的50G ITU-PON家庭网关SoC BCM68850，NPU在网关本地执行AI推理，降低云端延迟并提升隐私保护与带宽效率",
+        "博通宽带边缘AI产品组合以BCM68850为旗舰，整合50G PON、Wi-Fi 8及内嵌NPU，可将家庭网关升级为智能边缘运算平台",
+        "公司NPU算力规模较小，主要服务于智能家居和企业边缘场景的本地AI推理需求，与高通Hexagon、联发科APU等面向手机/PC端侧大模型的NPU定位不同"
+      ]
+    },
+    {
+      "name": "DPU",
+      "reasons": [
+        "Broadcom的Stingray系列是其DPU/SmartNIC产品线，Stingray PS250是基于Stingray数据中心SoC的智能网卡，集成100G NetXtreme E-Series网络控制器、ARM CPU子系统、PCIe 3.0 x8接口、计算卸载加速器以及包括L3缓存和DDR4接口在内的高速内存子系统，所有组件通过相干片上网络（NoC）互连",
+        "Stingray SoC配备8个64位ARMv8 Cortex-A72核心（3.0 GHz），采用多集群配置，集成TruFlow可配置流加速器，可将常见流处理工作负载从CPU卸载到硬件，支持NVMe-oF（基于RoCE v1/v2和TCP）和软件定义存储（SDS）应用",
+        "Stingray PS250提供双端口50GbE连接，支持100 Gb/s加密引擎（单遍哈希和加解密）、100 Gb/s RAID5/RAID6和纠删引擎、去重（De-Dup）包括Rabin指纹、SHA和MD5，以及安全启动、安全密钥存储、ARM TrustZone和公钥加速（PKA）引擎",
+        "Stingray系列主要面向裸金属和虚拟化服务器的SmartNIC、存储服务器SmartNIC以及网络功能虚拟化（NFV）等应用场景。根据行业报道，Broadcom的Stingray项目后续实质上被放弃，该产品线目前已基本停更"
+      ]
+    },
+    {
+      "name": "网络芯片",
+      "reasons": [
+        "全球数据中心以太网交换机芯片领导者，Tomahawk 5（51.2T）和Trident、Jericho系列服务AI集群Spine-Leaf架构组网",
+        "以太网AI交换机在超大规模数据中心部署持续加速，AI数据中心的GPU集群间互联对高速交换机需求呈指数级增长",
+        "拥有从交换机芯片（Ethernet Switch）、NIC网卡、PHY物理层芯片到光模块DSP的全系列网络连接半导体产品线"
+      ]
+    },
+    {
+      "name": "以太网交换芯片",
+      "reasons": [
+        "全球以太网交换芯片绝对龙头，Tomahawk、Trident、Jericho三大系列，覆盖数据中心、企业网、运营商全场景，市占率约65-70%",
+        "Tomahawk 5（51.2T）为业界最高带宽交换芯片，大规模部署于AWS、Azure、GCP等全球主要云服务商AI数据中心",
+        "拥有从交换芯片到PHY（SerDes）、NIC网卡、光模块DSP、Optic VCSEL驱动器的完整数据中心互联芯片生态",
+        "交换芯片+PHY/NIC的软硬件生态壁垒极高，客户迁移成本巨大，构成Broadcom在数据通信芯片领域的长期护城河"
+      ]
+    },
+    {
+      "name": "光芯片",
+      "reasons": [
+        "拥有前贝尔实验室InP晶圆厂（位于宾夕法尼亚，全球最先进的磷化铟激光器产线之一），同时自产EML激光器、CW-DFB激光器、VCSEL激光器、光电探测器（PIN/APD）四大类光芯片，是全球唯一同时自产激光器芯片、DSP芯片、以太网交换芯片、PCIe交换芯片的企业",
+        "光芯片业务隐藏在Networking事业部内不单独披露，但管理层FY2025Q4财报电话会上明确表示'激光器和光器件的需求超级强劲（demand going nuts）'，光芯片是博通网络事业部中毛利率最高的硬件品类之一",
+        "光芯片+DSP+交换芯片+光引擎的全栈AI光互连方案内部协同，自产激光器搭配自家DSP和交换芯片，光模块客户用博通全套方案可大幅降低验证周期和供应链复杂度"
+      ]
+    },
+    {
+      "name": "电吸收调制激光器芯片",
+      "reasons": [
+        "全球第二大EML芯片供应商（2024年全球EML市占14.5%），拥有前贝尔实验室InP晶圆厂，业界首发高良率量产的200G PAM4 EML为NVIDIA 1.6T光模块核心激光源，与Lumentum并列双寡头供应NVIDIA的1.6T光模块EML需求",
+        "同时量产100G和200G两代PAM4 EML芯片，100G EML为800G光模块主力激光源，200G EML面向1.6T光模块，自产EML芯片搭配自家DSP芯片实现激光器→DSP→交换的全栈性能优化"
+      ]
+    },
+    {
+      "name": "连续波激光器芯片",
+      "reasons": [
+        "全球最大CW-DFB激光器芯片产能供应商之一（与住友电工并列CW-DFB产能第一集群），CW-DFB硅光子外部光源出货量为全球最大规模，博通InP晶圆厂的CW-DFB月产能位居行业首位",
+        "CW-DFB激光器芯片与自家DSP芯片、光引擎、交换芯片协同，为硅光子光模块提供外部光源（ELS），为数据中心客户提供从激光器到交换芯片的一站式光互连解决方案"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "全球PCIe交换芯片龙头，市场份额约70%，PEX89000系列覆盖PCIe 5.0/6.0全代际交换芯片",
+        "PEX89000系列支持48-256通道灵活配置，为AI服务器和数据中心PCIe交换芯片行业标准",
+        "PCIe交换芯片与旗下AI XPU、以太网交换机、NIC网卡、光互连芯片形成完整数据中心平台生态",
+        "在PCIe交换芯片领域深耕十余年，拥有最完善的软件生态和客户兼容性认证体系"
+      ]
+    },
+    {
+      "name": "虚拟化软件",
+      "reasons": [
+        "VMware Cloud Foundation（VCF）提供计算虚拟化、网络、存储、管理和安全的全栈云基础设施平台，含vSphere/vSAN/NSX等核心产品",
+        "FY2025基础设施软件营收270.29亿美元（+26%），VMware从永久许可向订阅模式转型成功，客户持续向VCF迁移",
+        "VCF集成Kubernetes支持容器化和AI/ML工作负载，VMware Private AI为企业在本地运行生成式AI提供解决方案"
+      ]
+    }
+  ]
+}

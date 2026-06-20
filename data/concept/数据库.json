@@ -1,0 +1,64 @@
+{
+  "name": "数据库",
+  "alias": [],
+  "description": "数据库是按照特定数据结构组织、存储和管理数据的电子化仓库，是信息系统的核心数据基础设施。其本质是通过数据库管理系统（DBMS）在用户与操作系统之间提供数据定义、存储、检索、更新、事务管理、并发控制与安全保障的统一能力，使数据在规模化、多用户、高并发条件下仍保持准确性、一致性与可访问性。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "甲骨文",
+      "reasons": [
+        "Oracle",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "微软",
+      "reasons": [
+        "SQL Server"
+      ]
+    },
+    {
+      "name": "IBM",
+      "reasons": [
+        "DB2"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "reasons": [
+        "Snowflake"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "reasons": [
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Elastic",
+      "reasons": [
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "达梦数据",
+      "reasons": [
+        "达梦数据库（DM）"
+      ]
+    },
+    {
+      "name": "太极股份",
+      "reasons": [
+        "人大金仓（KingbaseES）"
+      ]
+    },
+    {
+      "name": "海量数据",
+      "reasons": [
+        "Vastbase"
+      ]
+    }
+  ],
+  "related": []
+}

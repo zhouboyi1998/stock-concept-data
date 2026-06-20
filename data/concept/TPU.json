@@ -1,0 +1,23 @@
+{
+  "name": "TPU",
+  "alias": [
+    "Tensor Processing Unit",
+    "张量处理器"
+  ],
+  "description": "张量处理器（Tensor Processing Unit，TPU）是Google为机器学习定制的专用集成电路（ASIC），专为深度学习中的张量、矩阵乘法与卷积运算进行硬件级优化。与CPU和GPU的通用计算架构不同，TPU以领域专用架构（DSA）为设计理念，通过脉动阵列、低精度计算和专用指令集，在矩阵运算场景下实现数量级能效提升。TPU于2016年Google I/O大会首次对外公布，此前已在Google街景、RankBrain及AlphaGo等内部项目中部署使用。TPU按应用场景分为云端训练芯片、云端推理芯片及边缘推理芯片，已迭代至第八代。在AI大模型和智能体应用推动下，TPU算力需求快速增长，Google在云端AI加速器市场的出货量份额持续攀升，TPU正成为AI基础设施的核心算力选项之一。",
+  "remarks": [],
+  "stocks": [
+    {
+      "name": "谷歌",
+      "reasons": []
+    },
+    {
+      "name": "博通",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "GPU",
+    "NPU"
+  ]
+}

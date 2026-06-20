@@ -1,0 +1,47 @@
+{
+  "name": "脑机接口",
+  "alias": [
+    "Brain-Machine Interface",
+    "BMI",
+    "Brain-Computer Interface",
+    "BCI"
+  ],
+  "description": "脑机接口（Brain-Machine Interface/Brain-Computer Interface）是一种在大脑与外部设备之间建立直接通信与控制通道的变革性技术，通过采集、解码大脑神经信号并将其转化为控制指令，实现人体功能的辅助、增强和修复，无需依赖外周神经或肌肉组织。核心应用场景以医疗为主（占56%）：运动功能重建（四肢瘫/脑卒中/ALS患者意念控制光标/机械臂/轮椅/智能假肢）、语言功能重建（失语症患者思维解码为文字/语音合成，BrainGate已实现62词/分钟解码）、感觉功能重建（Neuralink Blindsight视觉皮层假体面向失明患者）、神经精神疾病调控（难治性癫痫/帕金森/抑郁症的闭环深部脑刺激DBS）。",
+  "remarks": [
+    "侵入式（Invasive）：电极穿透脑皮层植入脑组织内部，可记录单个神经元放电（spike）信号，信号分辨率最高、带宽最大，但需开颅手术，长期生物相容性（胶质细胞包裹导致信号衰减）和电极微动漂移为核心挑战（核心厂商：Neuralink、Paradromics、Blackrock）",
+    "半侵入式（Semi-Invasive/ECoG）：电极置于硬膜外或硬膜下但不穿透脑实质，信号质量介于侵入与非侵入之间，无需损伤脑组织、安全性更高、手术复杂度显著降低（核心厂商：Precision、CorTec）",
+    "非侵入式（Non-Invasive）：电极置于头皮外，通过脑电图（EEG）、功能性近红外光谱（fNIRS）、功能磁共振（fMRI）等方式采集神经信号，无需手术、风险最低、成本可控，但因为颅骨衰减、容积传导效应等原因，信号分辨率最差",
+    "血管内介入式（Endovascular）：经颈静脉将支架状电极（Stentrode）送入大脑运动皮层上方脑静脉窦采集神经信号，完全避免开颅和穿透脑组织"
+  ],
+  "stocks": [
+    {
+      "name": "翔宇医疗",
+      "reasons": [
+        "非侵入式"
+      ]
+    },
+    {
+      "name": "创新医疗",
+      "reasons": []
+    },
+    {
+      "name": "乐普医疗",
+      "reasons": []
+    },
+    {
+      "name": "伟思医疗",
+      "reasons": [
+        "非侵入式"
+      ]
+    },
+    {
+      "name": "爱朋医疗",
+      "reasons": []
+    },
+    {
+      "name": "麦澜德",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

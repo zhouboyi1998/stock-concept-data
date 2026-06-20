@@ -1,0 +1,29 @@
+{
+  "name": "Chiplet",
+  "alias": [
+    "芯粒",
+    "小芯片"
+  ],
+  "description": "Chiplet（芯粒/小芯片）是一种将大型单片SoC拆分为多个较小芯粒，通过先进封装技术重新集成的设计范式和封装技术。核心技术路径包括硅中介层（Silicon Interposer）、硅桥（Silicon Bridge）和有机中介层等互连方案。Chiplet技术可提升芯片良率、降低设计成本、实现异构集成（不同制程工艺芯片的混合集成），是AI算力芯片、CPU/GPU和HPC的主流技术路线。",
+  "stocks": [
+    {
+      "name": "长电科技",
+      "reasons": []
+    },
+    {
+      "name": "通富微电",
+      "reasons": []
+    },
+    {
+      "name": "华天科技",
+      "reasons": []
+    },
+    {
+      "name": "盛合晶微",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "集成电路封装"
+  ]
+}
