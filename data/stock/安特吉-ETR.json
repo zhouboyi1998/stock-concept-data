@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ETR"
+    }
+  ],
+  "name": "安特吉",
+  "alias": [
+    "Entergy"
+  ],
+  "description": "安特吉（Entergy Corporation）是美国综合电力公用事业公司，总部位于路易斯安那州新奥尔良，纽约证交所上市，服务阿肯色、路易斯安那、密西西比、德州约310万客户。公司主营发电、输电、配电与售电，通过Entergy Arkansas、Entergy Louisiana、Entergy Mississippi、Entergy New Orleans、Entergy Texas等运营公司服务南部地区。公司运营Arkansas Nuclear One、Grand Gulf、River Bend、Waterford 3等核电站，并投资天然气、燃煤与可再生能源发电，2025年完成出售天然气分销业务后聚焦电力公用事业。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "核能发电",
+      "reasons": [
+        "运营4座受监管核电站：Arkansas Nuclear One（阿肯色，1、2号机组）、Grand Gulf（密西西比，System Energy 90%权益）、River Bend与Waterford 3（路易斯安那）",
+        "公司2022年完成退出merchant核电业务，保留服务客户的受监管核电机组",
+        "2025年核电换料大修费用降低推动Utility盈利，核电站为美国南部主要无碳电源"
+      ]
+    },
+    {
+      "name": "火力发电",
+      "reasons": [
+        "公司运营天然气与燃煤发电机组，White Bluff燃煤电站（阿肯色，Entergy Arkansas持57%权益）等",
+        "在建Orange County先进电站（德州）与Delta Blues先进电站（密西西比），并申请新建燃气轮机与联合循环机组",
+        "天然气发电支撑数据中心与工业负荷增长，为Utility电力供应的重要调峰电源"
+      ]
+    },
+    {
+      "name": "光伏发电",
+      "reasons": [
+        "公司推进太阳能等可再生能源项目，阿肯色、路易斯安那开展新可再生能源采购（RFP）",
+        "为Meta路易斯安那数据中心配套1500兆瓦、为亚马逊密西西比数据中心配套650兆瓦可再生能源项目",
+        "可再生能源支撑数据中心清洁电力需求，与核电共同构成公司无碳电源组合"
+      ]
+    },
+    {
+      "name": "输配电网",
+      "reasons": [
+        "公司通过Entergy Arkansas、Louisiana、Mississippi、New Orleans、Texas等运营公司发电、输电、配电与售电，服务约310万客户",
+        "2025年零售售电量1289.6亿千瓦时（+4%），工业售电608.8亿千瓦时（+7%），工业占比最高",
+        "计划2026至2029年投资430亿美元，其中160亿美元用于输配电可靠性与韧性建设"
+      ]
+    }
+  ]
+}

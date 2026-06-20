@@ -1,0 +1,49 @@
+{
+  "name": "AI编程工具",
+  "alias": [
+    "AI IDE"
+  ],
+  "description": "AI编程工具是基于大语言模型（LLM）辅助开发者进行代码生成、补全、调试、重构和自动化测试的智能化软件开发环境，是AI应用落地最早、商业化最成熟的赛道之一。按产品形态分为AI原生IDE（如Cursor、Windsurf、Trae，以AI能力为核心重构代码编辑器体验）、IDE插件（如GitHub Copilot、通义灵码、Claude Code，嵌入已有IDE提供智能补全和对话）、终端Agent工具（命令行驱动，可脚本化集成CI/CD流水线）。按商业模式分为个人开发者订阅（通常$10-20/月）和企业版（含SSO/RBAC/用量分析/合规管控，通常$39/用户/月）。核心技术壁垒在于代码上下文的深度理解能力（全库索引/跨文件感知）、模型推理质量（代码生成的精准度和采纳率）以及用户交互数据闭环（每一次接受/修改/弃用都是模型优化的训练信号）。2023年中国AI代码生成市场规模65亿元，预计2028年增至330亿元（CAGR 38%）。全球龙头GitHub Copilot年经常性收入（ARR）突破3亿美元并持续高增；Cursor（Anysphere）ARR四年从零飙升至20亿美元，2026年6月SpaceX宣布以600亿美元收购；OpenAI以约30亿美元收购Windsurf。中国A股直接生产AI编程工具的整机级企业以卓易信息为代表，另有微软/GitHub（Copilot）和谷歌（Gemini Code Assist）为全球龙头。",
+  "stocks": [
+    {
+      "name": "Anthropic",
+      "reasons": [
+        "Claude Code"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "reasons": [
+        "Codex"
+      ]
+    },
+    {
+      "name": "SpaceX",
+      "reasons": [
+        "Cursor"
+      ]
+    },
+    {
+      "name": "谷歌",
+      "reasons": [
+        "Gemini Code Assist"
+      ]
+    },
+    {
+      "name": "阿里巴巴",
+      "reasons": [
+        "Qoder"
+      ]
+    },
+    {
+      "name": "微软",
+      "reasons": [
+        "GitHub Copilot"
+      ]
+    }
+  ],
+  "related": [
+    "代码模型",
+    "AI应用"
+  ]
+}

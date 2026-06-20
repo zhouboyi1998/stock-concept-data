@@ -1,0 +1,36 @@
+{
+  "codes": [
+    {
+      "region": "CA",
+      "code": "TI"
+    },
+    {
+      "region": "US",
+      "code": "TII"
+    }
+  ],
+  "name": "Titan Mining",
+  "alias": [
+    "泰坦矿业"
+  ],
+  "description": "Titan Mining Corporation（泰坦矿业）是加拿大矿业公司，纽约证交所、多伦多证交所上市，总部位于温哥华，为Augusta Group旗下企业。公司100%持有纽约州Empire State Mine（帝国州矿），运营Balmat-Edwards矿区的#2、#4等地下高品位锌矿，生产锌精矿，精矿100%销售给嘉能可。公司同时推进共址的Kilbourne石墨项目，为美国70余年来首个端到端天然鳞片石墨生产商。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "锌",
+      "reasons": [
+        "运营纽约州Empire State Mine，为100%持股的Balmat-Edwards矿区高品位锌矿，2025年入选品位8.6%，回收率96.3%",
+        "FY2025可付锌产量6426万磅（同比+8%），创纪录产量，锌精矿产量63221吨，精矿品位59.8%",
+        "锌精矿100%售予嘉能可（Glencore），依据长期承购协议，C1现金成本0.92美元/磅，AISC0.98美元/磅"
+      ]
+    },
+    {
+      "name": "石墨",
+      "reasons": [
+        "Kilbourne石墨项目与Empire State Mine共址，2024年公布首次矿产资源2200万吨，平均品位2.91%石墨碳，含65.3万吨石墨",
+        "2026年1月石墨示范工厂投产，为美国70余年来首个端到端天然鳞片石墨生产商，正推进客户与政府认证",
+        "Kilbourne项目PEA显示税后NPV（7%）5.13亿美元，IRR37%，回收期2.7年，为美国回报最高的石墨项目"
+      ]
+    }
+  ]
+}

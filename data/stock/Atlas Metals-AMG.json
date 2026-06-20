@@ -1,0 +1,41 @@
+{
+  "codes": [
+    {
+      "region": "UK",
+      "code": "AMG"
+    }
+  ],
+  "name": "Atlas Metals",
+  "alias": [
+    "阿特拉斯金属",
+    "MetalNRG"
+  ],
+  "description": "Atlas Metals Group PLC（阿特拉斯金属），总部位于英国伦敦，伦敦证券交易所主板上市，为自然资源和能源投资公司，前身为MetalNRG plc，于2024年12月更名为Atlas Metals Group。公司专注于识别具有成长和增值潜力的商品项目及收购机会，投资覆盖金、铜、铀等金属矿产。公司持有美国亚利桑那州Gold Ridge金矿、坦桑尼亚Lake Victoria金矿、吉尔吉斯斯坦铀矿项目等权益，并计划收购摩洛哥Oumjerane矿。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "金",
+      "reasons": [
+        "公司全资子公司投资Gold Ridge Holdings，运营美国亚利桑那州Gold Ridge金矿项目，涵盖Gold Ridge、Gold Prince、Dives三座金矿，位于Dos Cabezas山脉1.8公里走向内约5公里远景矿脉群",
+        "公司持有坦桑尼亚Lake Victoria金矿少数股权，该金矿区位于Geita金矿和Bulyanhulu金矿所在区域，公司因现金预付款转为股份获得权益",
+        "公司计划收购摩洛哥Compagnie Minière de Oumejrane（CMO），该矿位于东部Anti-Atlas山脉南翼，与Orion签署2500万美元可转换贷款用于完成收购"
+      ]
+    },
+    {
+      "name": "铜",
+      "reasons": [
+        "公司美国Gold Ridge项目（亚利桑那州）Dos Cabezas矿区土壤地球化学采样显示强烈金、铜、铅、锌矿化，与Mascot Stock远景相关，证实公司矿产组合含铜矿化潜力",
+        "公司Gold Ridge项目Apache Pass剪切带（APSZ）发现强烈金、银、砷、铅、锌矿化，并识别出与剪切带平行的新金、铜、铅、锌异常趋势，为铜矿勘探提供靶区",
+        "Dos Cabezas矿区地质历史上开采金石英脉和接触变质铜矿床，矿区存在接触变质矽卡岩型黄铜矿、黄铁矿、磁铁矿矿床，Gold Ridge矿脉含黄铜矿，公司年报明确贵金属和贱金属（尤其金和铜）为勘探开发重点"
+      ]
+    },
+    {
+      "name": "铀",
+      "reasons": [
+        "公司持有吉尔吉斯斯坦International Mining Company Invest（IMC）约10%股权，该铀矿项目距比什凯克48公里、距卡拉巴尔塔铀加工厂95公里",
+        "2024年6月吉尔吉斯斯坦议会批准解除铀钍勘探、开发、开采禁令，公司正评估卡穆山铀矿床投资价值",
+        "公司铀矿项目因过往开采禁令及仲裁程序曾全额减值，现正评估期权以最大化投资价值"
+      ]
+    }
+  ]
+}

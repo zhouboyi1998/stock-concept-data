@@ -1,0 +1,30 @@
+{
+  "codes": [
+    {
+      "region": "VN",
+      "code": "SAB"
+    }
+  ],
+  "name": "西贡饮料",
+  "alias": [
+    "Saigon Beer"
+  ],
+  "description": "西贡饮料（Saigon Beer-Alcohol-Beverage Corporation，SABECO）是越南最大的啤酒生产商，胡志明市证券交易所上市，ThaiBev（泰国酿酒）间接持股53.59%。公司主营啤酒酿造、烈酒、非酒精饮料，旗下拥有西贡啤酒（Bia Saigon）、333、Saigon Chill、Saigon Gold等品牌，年产能约31亿升，为越南啤酒市场占有率最高的企业，并经营少量碳酸水、纯净水、包装材料业务。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "啤酒",
+      "reasons": [
+        "啤酒为西贡饮料核心业务，公司为越南最大啤酒生产商、市场占有率35%，2025年啤酒板块收入24.02万亿越南盾、占总收入93%、毛利率提升至40%",
+        "公司旗下西贡啤酒（Bia Saigon）、333为越南代表性啤酒品牌，并运营Saigon Chill、Saigon Gold高端品牌，年产能约31亿升",
+        "公司2025年啤酒销量12.51亿升、同比下降15%，受白酒消费税新规影响传统渠道去库存，2025年推出250ml Bia Saigon Chill新品、2026年推出333 Pilsner罐装新品"
+      ]
+    }
+  ],
+  "related": [
+    {
+      "name": "泰国酿酒",
+      "relation": "母公司"
+    }
+  ]
+}

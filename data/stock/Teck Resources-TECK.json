@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "CA",
+      "code": "TECK.A"
+    },
+    {
+      "region": "CA",
+      "code": "TECK.B"
+    },
+    {
+      "region": "US",
+      "code": "TECK"
+    }
+  ],
+  "name": "Teck Resources",
+  "alias": [
+    "泰克资源"
+  ],
+  "description": "Teck Resources Limited（泰克资源）是加拿大综合矿业公司，总部位于温哥华，多伦多证交所、纽约证交所上市，主营铜与锌的勘探、开采、冶炼与精炼，并产铅、银、金、钼、锗等副产品。公司运营智利Quebrada Blanca铜矿、加拿大Highland Valley铜矿、秘鲁Antamina铜锌矿（持股22.5%）、阿拉斯加Red Dog锌矿与加拿大Trail锌铅冶炼厂，为全球主要铜锌生产商。公司2024年出售炼钢煤业务后，转型为聚焦铜锌的关键矿物企业。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "铜",
+      "reasons": [
+        "FY2025铜产量45.35万吨，运营智利Quebrada Blanca、加拿大Highland Valley、智利Carmen de Andacollo铜矿及秘鲁Antamina（持股22.5%）",
+        "铜板块FY2025营收66.19亿加元（占62%），毛利17.73亿加元（占67%），为公司核心业务",
+        "Quebrada Blanca铜矿2025年产19万吨，2026年指引20至23.5万吨，Highland Valley伴生钼副产品，推进矿寿延长与秘鲁Zafranal新项目"
+      ]
+    },
+    {
+      "name": "锌",
+      "reasons": [
+        "FY2025锌精矿含锌56.5万吨，精炼锌22.99万吨，运营阿拉斯加Red Dog锌矿与加拿大Trail锌铅冶炼厂",
+        "锌板块FY2025营收41.37亿加元（占38%），毛利8.84亿加元（占33%）",
+        "Red Dog为世界最大锌矿之一（2025年产46.27万吨），Trail为世界最大综合锌铅冶炼之一，产精炼锌及铅、银等副产品"
+      ]
+    },
+    {
+      "name": "锗",
+      "reasons": [
+        "Red Dog锌矿（阿拉斯加）伴生锗，锗为锌铅精矿伴生副产品，USGS确认Trail大部分锗产自Red Dog精矿",
+        "Trail冶炼厂提取锗，生产二氧化锗与光纤级四氯化锗，Teck为北美最大锗生产商、全球最大综合锗生产商之一",
+        "加拿大政府投资扩大Trail锗、锑、镓产能，锗用于光纤、红外夜视、太阳能与量子计算领域"
+      ]
+    }
+  ]
+}
