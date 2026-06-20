@@ -1,0 +1,49 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "INTC"
+    }
+  ],
+  "name": "英特尔",
+  "alias": [
+    "Intel"
+  ],
+  "description": "Intel Corporation，全球半导体行业巨头，CPU+AI芯片+先进代工三大业务布局。核心产品涵盖客户端CPU（Core Ultra系列，基于Intel 18A制程）、数据中心CPU（Xeon 6系列）、AI加速器（Gaudi 3）、FPGA（Altera）及先进制程代工（Intel Foundry）等。2025财年（截至2025/12/27）营收529亿美元（持平），GAAP毛利率34.8%，Non-GAAP毛利率36.7%，Non-GAAP净利19亿美元，Non-GAAP EPS 0.42美元。CCG客户端业务营收322亿美元（-3%），DCAI数据中心+AI业务营收169亿美元（+5%），Intel Foundry代工业务营收178亿美元（+3%）。发布第三代Core Ultra处理器为首款Intel 18A制程AI PC平台，Xeon 6系列全线升级，与思科合作开发分布式AI边缘平台。Intel 18A已在亚利桑那和俄勒冈实现大规模量产。2025年9月完成Altera 51%股权出售。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "CPU",
+      "reasons": [
+        "全球x86 CPU龙头，客户端Core Ultra系列（Intel 18A制程）和服务器Xeon 6系列双线布局，覆盖AI PC至数据中心全场景",
+        "2025财年CCG客户端业务营收322亿美元，第三代Core Ultra为首款Intel 18A制程AI PC平台，获全球OEM 200+款机型采用",
+        "DCAI数据中心业务营收169亿美元（+5%），Xeon 6系列P-core处理器在AI推理、边缘计算等领域持续扩大部署"
+      ]
+    },
+    {
+      "name": "NPU",
+      "reasons": [
+        "英特尔NPU从Meteor Lake（Core Ultra一代）开始集成在PC处理器中，为AI PC的重要推动者",
+        "Lunar Lake（Core Ultra 200V系列）NPU算力达48 TOPS，满足微软Copilot+ PC要求",
+        "第三代Core Ultra（Intel 18A制程）NPU进一步升级，支持端侧AI大模型推理和并发AI体验",
+        "OpenVINO工具链深度优化NPU推理，为AI PC生态提供从硬件到软件的完整AI解决方案"
+      ]
+    },
+    {
+      "name": "AI芯片",
+      "reasons": [
+        "Gaudi 3 AI加速器面向AI训练和推理市场，与Xeon 6 CPU协同构建端到端AI基础设施解决方案",
+        "整合CPU+GPU+AI加速器平台战略，与思科合作开发面向分布式AI工作负载的集成边缘平台",
+        "将数据中心与AI业务统一管理，确保CPU、GPU及AI平台战略的紧密协同，AI PC生态覆盖从高端到主流消费市场"
+      ]
+    },
+    {
+      "name": "晶圆代工",
+      "reasons": [
+        "Intel Foundry提供先进制程晶圆代工服务，2025财年营收178亿美元（+3%），Intel 18A制程在亚利桑那和俄勒冈实现大规模量产",
+        "Intel 18A为英特尔迄今为止最先进的半导体制程工艺，成功流片并交付客户产品（第三代Core Ultra）",
+        "作为全球少数具备先进制程（7nm以下）研发和量产能力的IDM厂商，正从内部制造向外部代工平台转型"
+      ]
+    }
+  ]
+}

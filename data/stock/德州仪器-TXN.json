@@ -1,0 +1,50 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "TXN"
+    }
+  ],
+  "name": "德州仪器",
+  "alias": [
+    "Texas Instruments",
+    "TI"
+  ],
+  "description": "德州仪器（Texas Instruments Incorporated）是全球最大的模拟半导体和嵌入式处理解决方案制造商，总部位于美国德克萨斯州达拉斯，纳斯达克上市（TXN）。全球模拟芯片市占率第一（约19%），拥有超过80,000种产品。FY2025营收176.82亿美元（+13%），Analog业务140.06亿美元（占比79%），Embedded Processing业务26.97亿美元（15%）。2026Q1营收48.3亿美元（+19%），EPS 1.68美元（+31%），Q2指引50-54亿美元。两大核心业务：Analog（Power电源管理+Signal Chain信号链）和Embedded Processing（MCU/处理器/无线连接/mmWave雷达）。终端市场：工业（33%）、汽车（33%）、个人电子（21%）、数据中心（9%）、通信设备（3%）。核心产品包括：MSP430超低功耗MCU、MSPM0 32位ARM MCU、C2000实时MCU、TMS320 DSP数字信号处理器、Sitara/AM62x应用处理器、CC系列无线连接SoC、AWR/IWR 76-81GHz毫米波雷达传感器、DLP数字光处理芯片、GaN氮化镓功率FET。内部制造占比超80%，300mm晶圆成本较200mm低约40%，正推进到2030年超95%内部制造、超80%为300mm的目标。2026年2月宣布约75亿美元收购Silicon Labs，预计2027上半年完成。员工约34,000人。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "全球最大模拟芯片供应商市占率第一（约19%），Analog业务FY2025营收140亿美元（占比79%）为绝对核心",
+        "Power电源管理产品线覆盖电池管理/DC-DC切换稳压器/AC-DC及隔离DC-DC/LDO稳压器/电压参考/多相控制器及功率级/GaN FET/照明驱动等全品类",
+        "Signal Chain信号链产品线覆盖放大器/数据转换器ADC-DAC/接口产品/电机驱动/时钟/逻辑/传感器等全品类"
+      ]
+    },
+    {
+      "name": "功率半导体",
+      "reasons": [
+        "电源管理为Analog业务最大收入来源，提供从低压LDO到高压GaN FET的完整功率转换产品组合",
+        "CoolGaN™氮化镓FET集成栅极驱动，面向AI服务器电源/电信基础设施/电机驱动/电动汽车OBC等高效场景",
+        "多相控制器和功率级面向AI数据中心GPU集群高电流供电需求，数据中心电源管理营收同比增长超90%"
+      ]
+    },
+    {
+      "name": "MCU",
+      "reasons": [
+        "拥有MSP430（业界超低功耗标杆16位）、MSPM0（32位ARM Cortex-M0+/M4）、C2000（32位实时控制）、TM4C（32位ARM Cortex-M4F）四大MCU系列",
+        "MSP430自1992年推出始终为业界超低功耗基准，广泛应用于电池供电和IoT设备；C2000在数字电源/电机控制领域市占领先",
+        "MCU集成TinyEngine NPU支持端侧AI推理，CCStudio统一开发环境+免费工具链降低开发者门槛"
+      ]
+    },
+    {
+      "name": "PCIe信号重整芯片",
+      "reasons": [
+        "全球模拟芯片龙头，提供全系列PCIe Redriver/Retimer信号调理芯片，覆盖PCIe 3.0/4.0/5.0全代际",
+        "DS320PR/DS160PR系列PCIe Redriver广泛应用于服务器、存储和数据中心场景",
+        "拥有从Redriver到Retimer的完整信号调理产品线，为服务器OEM和云数据中心客户批量供货",
+        "凭借全球最大的模拟芯片客户渠道和内部制造产能优势，在PCIe Redriver市场占据重要份额"
+      ]
+    }
+  ]
+}

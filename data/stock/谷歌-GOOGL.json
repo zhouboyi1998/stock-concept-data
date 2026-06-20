@@ -1,0 +1,120 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "GOOGL"
+    },
+    {
+      "region": "US",
+      "code": "GOOG"
+    }
+  ],
+  "name": "谷歌",
+  "alias": [
+    "Google"
+  ],
+  "description": "Alphabet Inc.（Google），全球最大的互联网搜索引擎和AI公司，核心业务涵盖Google Services（搜索/YouTube/Android/设备）、Google Cloud（GCP/Workspace）和Other Bets（Waymo自动驾驶等）。FY2025（截至2025/12/31）营收4028.36亿美元（+15%），GAAP净利1321.70亿美元（+30%），GAAP EPS 10.81美元（+31%），运营利润率31.6%。Google Services营收3427.21亿美元（+12%），其中Google Search营收2245亿美元（+17%），YouTube全生态营收超600亿美元，订阅服务超3.25亿付费用户。Google Cloud营收587.05亿美元（+36%），Q4年化运行率超700亿美元，企业AI基础设施和AI解决方案需求强劲。发布Gemini 3大模型，Gemini App月活超7.5亿。Waymo获21亿美元员工补偿支出体现自动驾驶商业化加速。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "搜索引擎",
+      "reasons": [
+        "全球搜索市场份额超90%的绝对领导者，Google Search & other FY2025营收2245亿美元（+17%），贡献公司总营收56%",
+        "AI Overviews等生成式AI功能持续增强搜索体验，搜索使用量创历史新高，AI推动搜索生态扩张而非替代",
+        "以搜索广告为核心的商业模式现金流强劲，配合Android/Chrome/Google Maps构建全球最大数字广告生态"
+      ]
+    },
+    {
+      "name": "浏览器",
+      "reasons": [
+        "Chrome为全球市场份额超65%的浏览器绝对领导者，是Google搜索和广告生态的核心流量入口",
+        "Chrome持续迭代性能与安全功能，ChromeOS在教育和企业市场占据一席之地",
+        "通过Chromium开源项目主导Web标准演进，确保Web平台与Google服务生态的深度协同"
+      ]
+    },
+    {
+      "name": "视频平台",
+      "reasons": [
+        "YouTube为全球最大的视频内容平台，FY2025全生态营收超600亿美元（广告+订阅），覆盖短视频Shorts到长视频TV全场景",
+        "YouTube TV/Music/Premium和NFL Sunday Ticket等订阅服务推动收入多元化，付费订阅超3.25亿",
+        "YouTube在AI内容创作工具、Shorts短视频和CTV联网电视广告三大领域持续增长，是数字广告增长的重要引擎"
+      ]
+    },
+    {
+      "name": "云计算",
+      "reasons": [
+        "Google Cloud Platform（GCP）为全球第三大公有云，FY2025营收587.05亿美元（+36%），Q4年化运行率超700亿美元",
+        "企业AI基础设施（TPU/GPU）和AI解决方案（Vertex AI/Gemini API）为核心增长驱动力，AI需求推动云业务加速",
+        "Workspace协作工具和Google Workspace Business/Enterprise订阅构成稳定收入底盘，AI Agent在云业务中全面嵌入"
+      ]
+    },
+    {
+      "name": "大模型",
+      "reasons": [
+        "Gemini系列为Google核心大模型产品，Gemini 3已发布，API处理token超100亿/分钟，Gemini App月活超7.5亿",
+        "Gemini模型深度嵌入Google全线产品（搜索AI Overviews/Workspace/GCP/AI Studio），是Google AI First战略的技术基石",
+        "多模态Gemini能力持续迭代，Gemini Flash/Daily/Nano等不同规格覆盖云端到端侧全场景AI需求"
+      ]
+    },
+    {
+      "name": "代码模型",
+      "reasons": [
+        "Gemini系列模型具备业界领先的代码生成与理解能力，在多项代码基准测试中表现优异",
+        "Gemini Code Assist等AI代码开发工具深度集成到Google Cloud，服务企业级软件开发全流程",
+        "DeepMind持续推进代码智能研究，将代码生成与数学推理、Agent能力深度融合",
+        "GitHub Copilot中提供Gemini 3 Flash/3.1 Pro/3.5 Flash作为可选代码模型，覆盖广泛开发者生态"
+      ]
+    },
+    {
+      "name": "医学影像模型",
+      "reasons": [
+        "Med-PaLM 2为首个通过USMLE及格线的AI系统（准确率86.5%），Med-PaLM M支持放射/皮肤/眼底/病理等多模态医学影像理解，在MultiMedBench 14项任务上达到或超越SOTA",
+        "发布MedGemma开源医学多模态模型系列，基于Gemma 3架构，支持CT/MRI/病理/皮肤/眼底等影像模态，推动医学AI模型开放生态",
+        "DeepMind在医学影像AI领域持续前沿研究，Med-PaLM系列被Nature等顶刊收录，为全球医学AI模型研究的标杆之一"
+      ]
+    },
+    {
+      "name": "空间模型",
+      "reasons": [
+        "DeepMind发布Genie 3通用世界模型，从文本提示生成720p/24fps实时可交互3D虚拟世界，并已向美国AI Ultra订阅用户开放",
+        "Genie系列（Genie 1→2→3）从图像生成到文本生成可交互环境的演进路线，代表了空间智能从像素生成到物理世界模拟的突破",
+        "Project Genie研究原型支持用户通过文本和图像创建、探索和重组交互式3D世界，融合空间理解与生成能力",
+        "Genie与Gemini协同工作，语言理解+空间模拟双模型架构，为具身智能训练和虚拟世界构建提供基础能力"
+      ]
+    },
+    {
+      "name": "MaaS",
+      "reasons": [
+        "Vertex AI平台提供Gemini系列模型的MaaS（Model as a Service）服务，支持企业通过API按需调用大模型能力",
+        "Gemini API处理token超100亿/分钟，AI Studio提供免费和付费分层API服务，形成标准化模型算力售卖模式",
+        "企业AI基础设施（TPU/GPU）与AI解决方案（Vertex AI/Gemini API）为Google Cloud贡献核心增长动力，FY2025营收587亿美元(+36%)",
+        "MaaS平台与Workspace、搜索等产品深度协同，提供从模型调用到AI Agent构建的全链路云服务"
+      ]
+    },
+    {
+      "name": "NPU",
+      "reasons": [
+        "TPU（Tensor Processing Unit）为Google自研云端AI加速器，专门为神经网络训练和推理设计，是全球最早量产的数据中心NPU之一",
+        "TPU v6 Trillium/Ironwood部署规模达数百万颗，为Gemini大模型训练和推理提供核心算力支撑",
+        "Pixel Neural Core集成于Tensor SoC系列，为手机端NPU，支撑Pixel系列端侧AI功能和计算摄影",
+        "TPU通过Google Cloud以MaaS模式对外提供AI算力服务，为AI即基础设施商业模式的典型代表"
+      ]
+    },
+    {
+      "name": "AI芯片",
+      "reasons": [
+        "自研TPU（Tensor Processing Unit）为Google Cloud AI基础设施核心硬件，已迭代至TPU v6（Ironwood），支持AI训练和推理",
+        "TPU为Google搜索、YouTube、Gemini、Waymo等内部AI业务提供算力基础，同时通过GCP对外提供TPU云服务",
+        "定制芯片策略降低AI算力成本并优化能效，与NVIDIA GPU形成差异化互补，构建AI基础设施护城河"
+      ]
+    },
+    {
+      "name": "操作系统",
+      "reasons": [
+        "Android为全球市场份额超70%的移动操作系统领导者，覆盖数十亿台智能手机、平板和IoT设备",
+        "Android与Google Play、Google Mobile Services（GMS）构成完整移动生态闭环，是Google搜索和广告触达移动用户的核心渠道",
+        "Android不断扩展生态边界，Android Auto车载系统、Wear OS可穿戴设备、Android TV/Google TV等多终端布局"
+      ]
+    }
+  ]
+}

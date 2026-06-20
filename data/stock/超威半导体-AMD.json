@@ -1,0 +1,49 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AMD"
+    }
+  ],
+  "name": "超威半导体",
+  "alias": [
+    "AMD"
+  ],
+  "description": "Advanced Micro Devices Inc.，全球第二大高性能计算和图形处理器设计公司，CPU+GPU+FPGA三大架构布局。核心产品涵盖数据中心GPU（Instinct MI300X/MI350X/MI400系列）、数据中心CPU（EPYC 9005系列）、客户端CPU（Ryzen AI 300系列）、游戏GPU（Radeon RX 9000系列）、FPGA（Xilinx Versal）等。2025财年（截至2025/12/27）营收346.39亿美元（+34%），GAAP毛利率50%，GAAP净利43.35亿美元（+164%），Non-GAAP EPS 4.17美元创纪录。数据中心业务营收166.35亿美元（+32%），客户端+游戏业务145.50亿美元（+51%）。Instinct MI350X GPU已量产并与多家超大规模客户合作，Helios机架平台获行业认可，与OpenAI签署60亿美元GPU供应协议。嵌入式业务（含Xilinx）营收34.54亿美元（-3%），工业与航空航天市场需求回暖。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "GPU",
+      "reasons": [
+        "全球第二大独立GPU厂商，数据中心Instinct系列（MI300X/MI350X/MI400）和游戏Radeon RX 9000系列双线布局",
+        "2025财年数据中心业务营收166.35亿美元（+32%），GPU在AI训练和推理市场加速渗透，获OpenAI 60亿美元GPU供应协议",
+        "Instinct MI350X GPU已量产并交付多家超大规模客户，MI400系列正在开发中，ROCm软件生态持续完善缩小与CUDA差距"
+      ]
+    },
+    {
+      "name": "NPU",
+      "reasons": [
+        "Ryzen AI NPU基于XDNA架构（源自Xilinx自适应计算技术），为AMD PC处理器的专用AI加速引擎",
+        "Ryzen AI 300系列（Strix Point）NPU算力达50 TOPS，满足微软Copilot+ PC要求",
+        "Ryzen AI NPU支持INT8/FP16精度，为Windows PC端侧AI推理提供高效硬件加速",
+        "AMD统一AI平台战略将CPU/GPU/NPU三合一，NPU在低功耗AI任务中发挥作用，GPU负责高性能AI计算"
+      ]
+    },
+    {
+      "name": "AI芯片",
+      "reasons": [
+        "Instinct MI300X已大规模部署于微软、Meta等超大规模数据中心，MI350X实现量产，MI400系列规划2026年推出",
+        "Helios机架级AI平台整合GPU+DPU+网络，瞄准企业级和云原生AI推理/训练市场，已获行业客户设计中标",
+        "AMD在AI芯片领域形成差异化策略：高HBM容量+开放网络标准+ROCm开源生态，整体AI业务年化营收运行率超70亿美元"
+      ]
+    },
+    {
+      "name": "CPU",
+      "reasons": [
+        "服务器CPU持续侵蚀Intel市场份额，EPYC 9005系列（Turin）基于Zen 5架构，在云服务和企业级市场获得广泛部署",
+        "客户端Ryzen AI 300系列处理器集成XDNA 2 NPU（50 TOPS），驱动AI PC换机潮，2025年客户端业务营收同比增长超50%",
+        "2025财年客户端+游戏业务营收145.50亿美元（+51%），EPYC和Ryzen双轮驱动CPU业务强势增长"
+      ]
+    }
+  ]
+}

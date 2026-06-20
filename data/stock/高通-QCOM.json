@@ -1,0 +1,87 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "QCOM"
+    }
+  ],
+  "name": "高通",
+  "alias": [
+    "Qualcomm"
+  ],
+  "description": "高通（Qualcomm Incorporated）是全球移动通信和无线连接技术领导者，核心业务涵盖QCT半导体芯片和QTL技术授权两大板块。产品线覆盖手机SoC（Snapdragon 8 Elite/8 Gen系列）、5G基带芯片（X105/X85/X80 5G Modem-RF）、射频前端芯片（功率放大器/滤波器/天线模组）、WiFi/蓝牙连接芯片（FastConnect系列）、PC SoC（Snapdragon X Elite/X2 Elite）、汽车SoC（Snapdragon Digital Chassis）和物联网芯片（Dragonwing平台）等全品类。2025财年（截至2025/9/28）GAAP营收442.84亿美元（+14%），Non-GAAP EPS 12.03美元（+18%）。QCT芯片业务营收383.67亿美元（+16%）创历史新高，其中手机芯片277.93亿美元（+12%），汽车芯片39.57亿美元（+36%），物联网芯片66.17亿美元（+22%）。QTL技术授权业务营收55.82亿美元，EBT利润率72%。Apple、Samsung、Xiaomi各占营收10%以上。2026财年Q1指引营收118-126亿美元创纪录。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "NPU",
+      "reasons": [
+        "Hexagon NPU为高通Snapdragon SoC的AI处理核心，采用标量/向量/张量三引擎架构，年出货数亿颗",
+        "第五代骁龙8至尊版Hexagon NPU性能较前代提升37%，算力超70 TOPS，为Android旗舰手机AI算力标杆",
+        "Snapdragon X2 Elite PC平台NPU算力达80 TOPS，满足微软Copilot+ PC要求，在AI PC市场与Intel/AMD竞争",
+        "Hexagon NPU在Android生态AI应用中占据绝对主导地位，从AI拍照、语音助手到端侧AIGC均深度依赖高通NPU加速"
+      ]
+    },
+    {
+      "name": "基带芯片",
+      "reasons": [
+        "高通为全球5G基带芯片绝对龙头，X系列调制解调器-RF系统（X105/X85/X80/X75/X70）为行业标准，被苹果、三星等全球主要手机品牌采用",
+        "X105为全球首款3GPP Release 19就绪的5G Advanced基带芯片，峰值下载14.8Gbps，集成第五代AI处理器",
+        "X85基带搭载专用AI张量加速器，AI推理速度提升30%，支持12.5Gbps下行和3.7Gbps上行",
+        "高通基带芯片从手机扩展到汽车、FWA、工业物联网、卫星通信等全场景5G连接，年出货数亿颗"
+      ]
+    },
+    {
+      "name": "射频前端芯片",
+      "reasons": [
+        "高通为全球移动射频前端（RFFE）领导者，产品涵盖功率放大器（PA）、滤波器、包络追踪器、天线模组（QTM系列）和L-PAMiD集成模组",
+        "高通提供从基带到天线端完整的一站式射频前端方案，在5G手机RFFE市场占据领先份额",
+        "QET8200包络追踪器和QXM110x/210x Wi-Fi RFFE模组为最新产品，6nm射频收发器功耗降低30%",
+        "射频前端与基带芯片形成深度绑定，5G时代射频复杂度提升进一步强化高通的RFFE领导地位"
+      ]
+    },
+    {
+      "name": "WiFi芯片",
+      "reasons": [
+        "FastConnect系列为高通移动WiFi/蓝牙/UWB/Thread四合一连接芯片，FastConnect 8800为全球首款4x4 WiFi 8移动连接系统",
+        "FastConnect 8800峰值速率11.6Gbps（WiFi 8）、集成蓝牙7.0（HDT 7.5Mbps）、UWB和Thread，采用6nm制程",
+        "Dragonwing网络平台系列覆盖企业AP、家庭路由器和FWA设备，集成Hexagon NPU支持边缘AI推理",
+        "高通WiFi芯片累计出货超100亿颗，WiFi 7客户端设计超1000个、网络平台设计超450个，为全球最大WiFi芯片供应商之一"
+      ]
+    },
+    {
+      "name": "物联网芯片",
+      "reasons": [
+        "Dragonwing平台覆盖工业物联网、AI智能眼镜、5G FWA、WiFi 7企业接入点等多元化IoT市场",
+        "2025财年物联网芯片营收66.17亿美元（+22%），其中工业类IoT和网络基础设施产品增长最为强劲",
+        "在AI智能眼镜赛道占据先发优势，XR/AR专用芯片获多家厂商采用，边缘AI推理能力持续强化"
+      ]
+    },
+    {
+      "name": "手机SoC",
+      "reasons": [
+        "Snapdragon（骁龙）系列手机SoC为高通最核心产品，将自研Oryon CPU、Adreno GPU、Hexagon NPU、Spectra ISP、DSP和5G基带等集成于单一芯片",
+        "第五代骁龙8至尊版为全球最快移动SoC，采用3nm制程，Oryon CPU性能提升20%，Adreno GPU图形性能提升23%",
+        "骁龙8 Elite系列为Android旗舰手机标配，覆盖从8 Elite高端到7系/6系/4系中低端的全档次手机SoC产品线",
+        "2025财年QCT手机相关营收277.93亿美元（+12%），占QCT营收72%，为高通最核心的收入来源"
+      ]
+    },
+    {
+      "name": "个人电脑SoC",
+      "reasons": [
+        "Snapdragon X系列为高通基于Arm架构的Windows PC SoC，集成Oryon CPU、Adreno GPU和Hexagon NPU于单一芯片",
+        "X2 Elite Extreme为全球首款主频达5GHz的Arm PC SoC，Hexagon NPU算力达80 TOPS，满足Copilot+ PC要求",
+        "X2 Elite在相同功耗下CPU性能领先Intel竞品75%，推动Windows on Arm生态快速成熟",
+        "从手机SoC向PC SoC拓展为高通核心增长战略，利用自研Oryon CPU架构和领先NPU算力切入AI PC市场"
+      ]
+    },
+    {
+      "name": "汽车SoC",
+      "reasons": [
+        "骁龙数字底盘（Snapdragon Digital Chassis）核心为汽车SoC，覆盖智能座舱SoC和ADAS SoC两大品类",
+        "Snapdragon Ride Flex SoC将数字座舱和ADAS融合于单一芯片，集成Oryon CPU、Adreno GPU和Hexagon NPU",
+        "2025财年汽车业务营收39.57亿美元（+36%），Q4单季营收首破10亿美元，为增速最快的业务板块",
+        "汽车SoC已获全球主要车企量产定点，从座舱域控向智驾域控拓展，单车价值量持续提升"
+      ]
+    }
+  ]
+}

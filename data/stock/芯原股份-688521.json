@@ -1,0 +1,68 @@
+{
+  "codes": [
+    {
+      "region": "CN",
+      "code": "688521"
+    }
+  ],
+  "name": "芯原股份",
+  "alias": [],
+  "description": "芯原股份（VeriSilicon）是中国大陆领先的半导体IP授权和芯片设计服务提供商，2001年成立于上海，2020年在上交所科创板上市（688521）。公司采用独特的SiPaaS（Silicon Platform as a Service）商业模式，为客户提供从芯片规格定义到量产的全流程一站式芯片定制服务，同时拥有覆盖处理器（CPU/GPU/NPU/DSP）、数模混合（ADC/DAC/PLL/SerDes）、射频、多媒体（VPU/ISP）和显示接口（HDMI/DP/MIPI）等领域的丰富半导体IP组合。芯原是中国大陆最大的半导体IP供应商，全球排名前七（IPnest排名），累计为客户完成数百款芯片定制项目。公司深度布局RISC-V生态，CEO戴伟民博士担任RISC-V国际基金会董事，VIP系列NPU IP在端侧AI推理市场具有重要影响力。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "NPU",
+      "reasons": [
+        "VIP（Vivante Intelligent Processor）系列NPU IP为芯原自研的AI神经网络加速器，面向端侧AI推理场景",
+        "VIP系列支持TensorFlow、PyTorch、ONNX等主流AI框架，在智能视觉、语音识别和AIGC端侧推理中广泛部署",
+        "在AIoT和智能家居等低功耗端侧AI市场具有重要影响力，与多家芯片公司和品牌客户达成NPU IP授权合作",
+        "芯原的AI NPU IP与GPU/VPU/ISP等多媒体IP形成完整的AI视觉解决方案，降低AI芯片设计复杂度"
+      ]
+    },
+    {
+      "name": "物联网芯片",
+      "reasons": [
+        "AIoT（人工智能物联网）为芯原最重要的终端应用领域之一，芯片设计服务和IP授权在该领域收入占比最高",
+        "提供面向智能家居、智能穿戴、智能零售和工业物联网的完整芯片设计解决方案和IP组合",
+        "低功耗IP和设计能力突出，在电池供电的物联网设备芯片设计中具有丰富经验",
+        "VIP NPU IP在AIoT端侧AI推理市场广泛部署，满足物联网设备本地化AI处理需求"
+      ]
+    },
+    {
+      "name": "多媒体芯片",
+      "reasons": [
+        "VPU（Video Processing Unit）视频编解码IP为芯原核心多媒体IP，支持H.264/H.265/VP9/AV1等全格式视频编解码",
+        "ISP（Image Signal Processor）图像处理IP面向智能视觉应用，支持多摄像头和多帧HDR处理",
+        "GPU IP（Vivante系列）提供2D/3D图形处理能力，覆盖从IoT到车载的广泛应用场景",
+        "多媒体IP与AI NPU IP形成完整的智能视觉SoC解决方案，降低AI视觉芯片的设计门槛"
+      ]
+    },
+    {
+      "name": "显示接口芯片",
+      "reasons": [
+        "芯原提供丰富的显示和连接接口IP，包括HDMI TX/RX、DisplayPort TX/RX、MIPI DSI/CSI和eDP等",
+        "显示接口IP覆盖从HDMI 1.4到HDMI 2.1、从DP 1.4到DP 2.0等多代际标准",
+        "MIPI DSI（显示接口）和CSI（摄像头接口）IP在手机SoC、平板电脑和车载显示中广泛授权部署",
+        "显示接口IP与GPU/VPU/ISP等多媒体IP形成完整的显示链路解决方案，为客户提供一站式的显示芯片IP组合"
+      ]
+    },
+    {
+      "name": "芯片定制设计服务",
+      "reasons": [
+        "芯片定制设计服务（一站式芯片定制）为芯原核心业务之一，为客户提供从芯片规格定义、RTL设计、验证、后端物理设计到晶圆量产的全流程服务",
+        "累计完成数百款芯片定制项目，覆盖AIoT、消费电子、汽车电子、工业控制和数据中心等多个应用领域",
+        "与全球领先的晶圆代工厂（台积电、中芯国际、华虹等）和封测厂建立长期合作关系，具备从28nm到5nm先进制程的设计服务能力",
+        "设计服务业务采用SiPaaS模式，将自研IP与设计服务深度耦合，降低客户芯片开发门槛和周期"
+      ]
+    },
+    {
+      "name": "RISC-V",
+      "reasons": [
+        "芯原深度布局RISC-V生态，提供基于RISC-V架构的CPU IP核及完整的软件SDK和工具链支持",
+        "创始人兼CEO戴伟民博士担任RISC-V国际基金会（RISC-V International）董事，公司在RISC-V标准制定中具有行业话语权",
+        "芯原的RISC-V CPU IP与自研GPU/NPU/NPU等IP形成完整SoC解决方案，可覆盖AIoT、边缘计算和汽车等应用",
+        "RISC-V生态在中国市场快速发展，芯原作为中国大陆最大IP供应商在RISC-V推广和商业化中占据有利位置"
+      ]
+    }
+  ]
+}

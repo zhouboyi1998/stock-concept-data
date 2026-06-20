@@ -1,0 +1,56 @@
+{
+  "codes": [
+    {
+      "region": "CN",
+      "code": "688766"
+    }
+  ],
+  "name": "普冉股份",
+  "alias": [
+    "Puya Semiconductor"
+  ],
+  "description": "普冉股份（Puya Semiconductor）是中国领先的非易失性存储器芯片及MCU设计公司，总部位于上海张江，Fabless模式，上交所科创板上市（688766）。FY2025营收23.20亿元（+28.62%），归母净利润2.08亿元（-29.03%，因毛利率承压及研发费用增长），Q4单季净利润1.49亿元环比+700%强劲反弹。2026Q1营收14.47亿元（+256.08%），归母净利润2.51亿元（+1259.87%），受益于存储周期回暖及SHM并表。两大业务板块：存储系列芯片（17.87亿元，占比77%，NOR Flash/EEPROM/SLC NAND及eMMC/MCP）、存储+系列芯片（5.32亿元，23%，MCU/模拟VCM Driver）。核心产品包括：NOR Flash（SONOS+ETOX双工艺，512Kb-1Gb，40nm SONOS行业领先）、EEPROM（2Kb-4Mb，1000万次擦写自带ECC，AEC-Q100 Grade1车规认证）、SLC NAND Flash及eMMC/MCP（2025年通过收购SkyHigh Memory Limited获得）、32位通用MCU（ARM Cortex-M0+/M4，5大系列百余款，累计出货超24亿颗）、音圈马达驱动芯片（开环/闭环/OIS）。终端客户包括三星、OPPO、vivo、小米、联想、惠普、亚马逊、美的等。员工约574人，研发投入2.97亿元（占比12.82%）。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "存储芯片",
+      "reasons": [
+        "最大业务板块（FY2025营收17.87亿元，占比77%），产品覆盖NOR Flash/EEPROM/SLC NAND Flash及衍生产品eMMC/MCP",
+        "国内NOR Flash和EEPROM主要供应商之一，SONOS+ETOX双工艺NOR Flash覆盖512Kb-1Gb全容量",
+        "2025年收购SkyHigh Memory Limited间接控股，补齐SLC NAND/eMMC/MCP产品线，全球化存储战略布局进一步完善"
+      ]
+    },
+    {
+      "name": "NOR Flash",
+      "reasons": [
+        "采用业界首创SONOS+ETOX双工艺驱动平台，40nm SONOS工艺4Mb-128Mb全系列量产领先行业主流55nm",
+        "SONOS工艺第三代40E平台小容量系列批量出货，ETOX工艺覆盖中大容量256Mb-1Gb导入PC及服务器市场",
+        "全系列产品通过AEC-Q100车规认证，覆盖512Kb-1Gb/1.1V-3.6V宽电压，在蓝牙/IoT/AMOLED/工控市场深度渗透"
+      ]
+    },
+    {
+      "name": "EEPROM",
+      "reasons": [
+        "公司核心存储产品之一，覆盖2Kb-4Mb容量/1.2V-5.5V宽电压，130nm及95nm以下先进工艺量产",
+        "具备业界领先的超强擦写能力（1000万次以上）及ECC纠错功能，数据保存可达200年，适用于高频计量/反复校准场景",
+        "全系列通过AEC-Q100 Grade1车规认证，在手机摄像头模组/工业控制/汽车电子/可穿戴等领域深度渗透"
+      ]
+    },
+    {
+      "name": "MCU",
+      "reasons": [
+        "存储+战略核心产品线，基于自研e-Flash IP的32位ARM Cortex-M0+/M4通用MCU，5大系列百余款产品",
+        "累计出货超24亿颗，国内增长最快的32位MCU供应商之一，覆盖消费电子/工业控制/家电/电机驱动全场景",
+        "独创SONOS工艺移植MCU，具备完全自主嵌入式Flash IP，擦写寿命10万次/数据保存20年，成本优势显著"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "模拟产品线以音圈马达驱动芯片（VCM Driver）为主，提供开环/闭环/OIS光学防抖全系列驱动芯片",
+        "VCM Driver与EEPROM形成协同效应导入头部手机厂商，OIS产品在国内手机终端客户实现量产",
+        "新一代OIS产品更新升级自有专利的防抖控制算法，持续向更高端摄像头模组应用拓展"
+      ]
+    }
+  ]
+}

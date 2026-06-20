@@ -1,0 +1,80 @@
+{
+  "codes": [
+    {
+      "region": "JP",
+      "code": "6723"
+    }
+  ],
+  "name": "瑞萨电子",
+  "alias": [
+    "Renesas Electronics"
+  ],
+  "description": "瑞萨电子（Renesas Electronics Corporation）是全球领先的嵌入式半导体解决方案供应商，总部位于日本东京，东京证券交易所上市（6723），美国OTC市场挂牌（RNECY）。全球MCU市占率第三（约17%），汽车MCU市占率第二（约21%），全球SRAM市占率第一（约18%）。FY2025 Non-GAAP营收13,185亿日元（-2.2%），营业利润3,869亿日元（利润率29.3%）。2026Q1 Non-GAAP营收3,723亿日元（+20.6%），营业利润1,254亿日元（+49.6%）。两大业务板块：车用（MCU/SoC/模拟/功率，占比48.5%）和产业/基础设施/IoT（MCU/SoC/模拟/功率，占比51%）。核心产品包括：RH850车用MCU、RA系列32位ARM MCU、RL78低功耗MCU、RX高性能MCU、R-Car车用SoC、RZ工业MPU，以及PMIC/功率MOSFET/GaN功率器件、DDR5内存接口芯片、时序芯片（出售给SiTime，交易额约30亿美元）。完成对Altium收购，推出Renesas 365全生命周期开发平台。全球员工约21,000人。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "半导体",
+      "reasons": [
+        "全球领先的嵌入式半导体方案供应商，产品覆盖MCU/MPU/SoC/模拟/功率/连接/内存接口全品类",
+        "FY2025 Non-GAAP营收13,185亿日元，2026Q1营收3,723亿日元（+20.6%）业绩强劲反弹",
+        "全球超21,000名员工，Renesas 365（Powered by Altium）为业界首创的电子系统全生命周期管理平台"
+      ]
+    },
+    {
+      "name": "MCU",
+      "reasons": [
+        "全球MCU市占第三（约17%），汽车MCU市占第二（约21%），年出货超35亿颗为全球顶级MCU供应商",
+        "拥有业界最广泛的MCU产品组合：RA系列（ARM Cortex-M）、RL78（超低功耗8/16位）、RX（32位高性能）、RH850（车规）、RISC-V架构MCU",
+        "Renesas 365平台+Altium生态强化MCU工具链，从单芯片MCU升级为系统级方案提供商"
+      ]
+    },
+    {
+      "name": "功率半导体",
+      "reasons": [
+        "功率业务占产业/IoT板块约20%营收，产品覆盖PMIC/功率MOSFET/GaN FET/电池管理IC全系列",
+        "GaN产品覆盖650V高压d-mode和40-200V低压e-mode，AI基础设施电源方案快速放量",
+        "汽车PMIC与MCU/SoC协同配套（attach策略），500+项目与8+OEM及100+Tier1合作"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "模拟与连接业务占产业/IoT板块约20%营收，产品覆盖时钟时序/接口/数据转换器/传感器/无线连接等",
+        "连接产品组合包括BLE/WiFi/NFC/UWB/Sub-GHz/PLC等，在边缘IoT领域具有低功耗差异化优势"
+      ]
+    },
+    {
+      "name": "内存接口芯片",
+      "reasons": [
+        "DDR5内存接口芯片（DB/MRCD/MUX）在数据中心领域市占领先，受益于AI服务器DDR5渗透率快速提升",
+        "MRCD/MDB芯片与澜起科技为全球唯二供应商，在高带宽内存模组（MRDIMM）领域占据关键地位",
+        "AI服务器DDR5需求爆发驱动内存接口芯片出货量持续增长，为数据中心业务核心增长引擎",
+        "通过收购IDT/Intersil获得完整内存接口产品线，与瑞萨MCU/SoC形成数据中心平台化协同优势"
+      ]
+    },
+    {
+      "name": "SRAM",
+      "reasons": [
+        "通过收购IDT获得完整SRAM产品线，全球SRAM市占约18.2%排名第一",
+        "在汽车级SRAM领域是行业标杆，全球汽车SRAM市场份额第一（约19.4%）",
+        "推出40nm 128Mb独立SRAM器件，面向工业自动化控制器等确定性低延迟应用"
+      ]
+    },
+    {
+      "name": "物联网",
+      "reasons": [
+        "产业/基础设施/IoT业务FY2025营收6,718亿日元（占比51%），2026Q1营收1,990亿日元（+32%）",
+        "RA系列32位ARM MCU和RL78超低功耗MCU面向IoT终端，SOTB工艺实现能量采集免电池IoT设备",
+        "Renesas Synergy™平台和Winning Combos方案加速IoT设计导入，无线连接产品覆盖BLE/WiFi/NFC"
+      ]
+    },
+    {
+      "name": "AI算力",
+      "reasons": [
+        "AI基础设施为最强劲增长引擎，2026Q1产业/基础设施/IoT业务利润同比+99.4%几乎翻番",
+        "DDR5内存接口芯片在AI服务器领域市占领先，AI数据中心电源方案（数字控制器/SPS/GaN）获主要CSP客户",
+        "NPU集成至MCU/MPU产品线，RA系列支持端侧AI推理，部分客户已签订长期供应协议锁定AI芯片产能"
+      ]
+    }
+  ]
+}

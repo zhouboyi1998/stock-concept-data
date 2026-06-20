@@ -1,0 +1,41 @@
+{
+  "name": "PCIe信号重整芯片",
+  "alias": [
+    "PCIe Retimer",
+    "PCIe重定时器芯片",
+    "PCIe Redriver",
+    "PCIe重驱动器芯片"
+  ],
+  "description": "PCIe信号重整芯片是高速数据传输中的信号调理器件总称，包含Retimer（重定时器）和Redriver（重驱动器）两类技术路线。当PCIe高速信号在PCB走线或线缆中长距离传输时，会因损耗和干扰导致信号衰减、时序偏移。Redriver通过CTLE均衡和线性放大补偿信号幅度损耗，但无法消除噪声累积，功耗和成本较低；Retimer则通过时钟数据恢复（CDR）和PLL时钟再生，将衰减信号完整“重整再生”，消除噪声和时序偏移，信号质量与发射端相当，但功耗和成本更高。PCIe 5.0（32GT/s NRZ）时代信号衰减已较严重，Retimer和高端Redriver均有应用；到PCIe 6.0（64GT/s PAM4）时代信号裕度大幅收窄，Redriver基本失效，Retimer从可选变为刚需。AI服务器是核心驱动力——一台8卡GPU服务器需8-24颗PCIe Retimer芯片。全球PCIe Retimer主要供应商包括Astera Labs（全球第一）、澜起科技（全球第二，市占10.9%）及迈威尔科技。",
+  "stocks": [
+    {
+      "name": "Astera",
+      "reasons": []
+    },
+    {
+      "name": "澜起科技",
+      "reasons": []
+    },
+    {
+      "name": "迈威尔科技",
+      "reasons": []
+    },
+    {
+      "name": "德州仪器",
+      "reasons": []
+    },
+    {
+      "name": "Diodes",
+      "reasons": []
+    },
+    {
+      "name": "谱瑞科技",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "PCIe",
+    "PCIe交换芯片",
+    "闪存主控芯片"
+  ]
+}

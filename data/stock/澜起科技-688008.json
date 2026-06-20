@@ -1,0 +1,54 @@
+{
+  "codes": [
+    {
+      "region": "CN",
+      "code": "688008"
+    },
+    {
+      "region": "HK",
+      "code": "06809"
+    }
+  ],
+  "name": "澜起科技",
+  "alias": [],
+  "description": "澜起科技是全球领先的无晶圆厂集成电路设计公司，致力于为云计算及AI基础设施提供创新、可靠及高能效的互连解决方案。公司拥有两大产品线：互连类芯片（内存接口芯片RCD/DB、MRCD/MDB、CKD，PCIe Retimer芯片，CXL MXC芯片，时钟芯片等）和津逮产品（津逮CPU及数据保护和可信计算加速芯片）。公司在DDR5内存接口芯片领域全球市场份额36.8%排名第一，PCIe Retimer芯片全球排名第二，并在JEDEC牵头制定DDR5相关芯片国际标准。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "芯片设计",
+      "reasons": [
+        "公司为全球领先的无晶圆厂（Fabless）集成电路设计公司，深耕高速互连芯片领域二十余年",
+        "产品线涵盖内存接口芯片、PCIe Retimer芯片、CXL MXC芯片、时钟芯片及津逮CPU等",
+        "自主研发的高速SerDes技术已成功应用于PCIe 5.0/6.x Retimer芯片，正在研发128GT/s用于PCIe 7.0",
+        "DDR5内存接口芯片全球份额36.8%排名第一，PCIe Retimer芯片全球份额10.9%排名第二"
+      ]
+    },
+    {
+      "name": "内存接口芯片",
+      "reasons": [
+        "内存接口芯片为公司核心主业，2025年贡献互连类芯片主要收入，驱动营收增长53.43%",
+        "DDR5内存接口芯片全球市场份额36.8%排名第一，为全球可提供DDR2-DDR5全缓冲/半缓冲完整解决方案的主要供应商",
+        "DDR5 RCD芯片持续迭代：第三子代规模出货、第四子代量产、第五子代完成量产版本研发",
+        "MRCD/MDB芯片全球唯二供应商之一，第二子代支持12800MT/s，2025Q4出货量显著提升"
+      ]
+    },
+    {
+      "name": "PCIe信号重整芯片",
+      "reasons": [
+        "PCIe Retimer芯片全球份额10.9%排名第二（仅次于Astera Labs），PCIe 5.0 Retimer为全球主要量产的两家厂商之一",
+        "AI服务器8卡GPU需8-16颗PCIe Retimer（部分国产方案需24颗），AI需求直接拉动出货量高速增长",
+        "PCIe 4.0/5.0 Retimer已量产（5.0为当前主力出货产品），PCIe 6.x Retimer已向客户送样，PCIe 7.0 Retimer处于研发阶段",
+        "自研64GT/s PAM4 SerDes技术已应用于PCIe 6.x Retimer，128GT/s SerDes IP在研，同时拓展以太网PHY Retimer芯片"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "PCIe Switch芯片处于研发阶段（与已量产的PCIe Retimer为不同产品线），为PCIe互连芯片领域的重要拓展方向",
+        "自研64GT/s PAM4 SerDes技术已应用于PCIe 6.x Retimer，128GT/s SerDes IP在研为PCIe Switch提供技术基础",
+        "公司深耕高速互连芯片二十余年，在PCIe Retimer领域全球排名第二，具备PCIe全栈互连芯片研发能力",
+        "DDR5内存接口芯片全球第一的客户渠道和生态资源，为PCIe Switch导入服务器市场提供协同优势"
+      ]
+    }
+  ]
+}

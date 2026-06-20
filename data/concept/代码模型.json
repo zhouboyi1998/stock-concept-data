@@ -1,0 +1,52 @@
+{
+  "name": "代码模型",
+  "alias": [
+    "Code Model",
+    "AI编程"
+  ],
+  "description": "代码模型是指专门用于代码生成、理解、调试和优化的人工智能模型，是AI大模型技术在软件工程领域的垂直应用。代码模型涵盖从代码补全（autocomplete）到自主编程智能体（coding agent）的多层次能力，能够理解代码仓库架构、规划变更、编写代码、运行测试、迭代修复并提交PR。代表产品包括GitHub Copilot、Claude Code、OpenAI Codex、GLM Coding Plan等。代码模型被视为AI商业化落地最快的细分赛道之一，2025-2026年全球头部AI公司纷纷推出自主编程智能体产品，推动软件工程从辅助编程向自主编程范式转变。",
+  "stocks": [
+    {
+      "name": "Anthropic",
+      "reasons": [
+        "Opus",
+        "Claude Code"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "reasons": [
+        "GPT",
+        "Codex"
+      ]
+    },
+    {
+      "name": "谷歌",
+      "reasons": [
+        "Gemini"
+      ]
+    },
+    {
+      "name": "阿里巴巴",
+      "reasons": [
+        "通义灵码"
+      ]
+    },
+    {
+      "name": "智谱",
+      "reasons": [
+        "GLM"
+      ]
+    },
+    {
+      "name": "MiniMax",
+      "reasons": [
+        "M"
+      ]
+    }
+  ],
+  "related": [
+    "人工智能",
+    "大模型"
+  ]
+}

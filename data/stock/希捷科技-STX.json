@@ -1,0 +1,40 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "STX"
+    }
+  ],
+  "name": "希捷科技",
+  "alias": [
+    "Seagate"
+  ],
+  "description": "Seagate Technology Holdings plc，全球最大的大容量数据存储解决方案供应商之一，核心产品涵盖机械硬盘（Mozaic HAMR热辅助磁记录HDD/企业级Nearline HDD）、企业固态硬盘（NVMe/SAS SSD）、存储系统（存储子系统/Lyve数据管理平台）等。FY2025（截至2025/6/27）营收90.97亿美元（+39%），GAAP毛利率35.2%（连续9个季度改善），GAAP净利14.69亿美元（+339%），GAAP EPS 6.77美元，Non-GAAP EPS 8.10美元。数据中心市场占总营收75%，Nearline HDD出货136.6EB（+52%）。Mozaic HAMR平台累计出货超100万块，已获5家全球最大云客户认证，第四代HAMR（44TB）正在采样。运营现金流11亿美元，自由现金流8.18亿美元。Q1 FY2026指引营收25亿美元（±1.5亿），Nearline订单基本排满至2026年底。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "机械硬盘",
+      "reasons": [
+        "全球最大HDD制造商之一，FY2025营收90.97亿美元（+39%），HDD营收占比超95%，数据中心市场占75%",
+        "企业级Nearline大容量HDD为核心增长引擎，FY2025 Q4 Nearline营收20亿美元（+40% YoY），出货136.6EB（+52%），占HDD营收88%",
+        "提供Exos企业级/IronWolf NAS/SkyHawk安防/WD Red NAS等全系列HDD产品线，容量覆盖1TB-35TB"
+      ]
+    },
+    {
+      "name": "HAMR",
+      "reasons": [
+        "Mozaic平台采用热辅助磁记录（HAMR）技术，是业界首个量产的HAMR HDD平台，实现3TB/盘片（Mozaic 3+）的领先面密度",
+        "累计出货超100万块Mozaic HAMR硬盘，获5家全球最大云客户认证，第四代Mozaic 4+（4TB/盘片，44TB容量）正在采样，预计FY2026下半年量产",
+        "HAMR是HDD行业突破传统垂直磁记录（PMR）面密度极限的关键技术，AI时代大容量冷存储和数据湖需求驱动HAMR加速渗透"
+      ]
+    },
+    {
+      "name": "企业存储系统",
+      "reasons": [
+        "提供基于HDD和SSD的存储子系统（全闪/全盘/混合阵列），服务企业、云服务商和OEM客户的大容量存储需求",
+        "Lyve数据管理平台提供从边缘到云的数据传输（Lyve Shuttle）和存储即服务（STaaS）解决方案，支持AI数据管道的海量数据移动",
+        "AI推理生成和消费海量数据，数据湖/冷存储对大容量HDD存储系统的需求持续增长，驱动存储系统业务长期增长"
+      ]
+    }
+  ]
+}

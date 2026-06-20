@@ -1,0 +1,65 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "CSCO"
+    }
+  ],
+  "name": "思科",
+  "alias": [
+    "Cisco"
+  ],
+  "description": "思科系统公司（Cisco Systems）是全球最大的网络设备制造商，核心业务涵盖网络设备（交换/路由/无线/服务器）、网络安全、远程软件和可观测性四大产品板块，并提供技术支持和高级服务。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "网络设备",
+      "reasons": [
+        "网络设备为公司核心主业，FY2025营收283.04亿美元（占49.9%），产品覆盖交换机、路由器、无线接入点等全品类",
+        "Catalyst 9000系列/Meraki云管交换机主导企业园区交换市场，Nexus 9000系列为数据中心交换核心；推出AI就绪Smart Switches（9350/9610，基于Silicon One芯片）及N9300系列内嵌DPU的AI数据中心交换机",
+        "路由器产品以Cisco 8000系列（基于Silicon One）为核心，覆盖服务提供商骨干网和企业边缘路由，同时提供AI基础设施解决方案服务于全球webscale客户",
+        "无线网络产品涵盖内外接入点和控制器，与交换产品形成有线无线融合接入方案"
+      ]
+    },
+    {
+      "name": "交换机",
+      "reasons": [
+        "园区交换以Catalyst 9000系列为核心（含DNA软件订阅），配合Meraki云管交换覆盖中小企业；数据中心交换以Nexus 9000系列主导，支持传统DC和私有/公有云环境",
+        "FY2025推出AI就绪Smart Switches（Cisco 9350/9610），基于自研Silicon One芯片，内向量子安全加密和AI遥测能力，支持Catalyst Center或Meraki Dashboard双管理模式",
+        "N9300系列内嵌DPU数据处理单元，可将复杂数据任务卸载至交换机，同时承载Cisco Hypershield分布式安全方案，实现网络与安全融合"
+      ]
+    },
+    {
+      "name": "路由器",
+      "reasons": [
+        "服务提供商路由器以Cisco 8000系列（基于Silicon One芯片）为核心，提供高密度大容量设计，降低运营商网络功耗和运营成本",
+        "企业路由器覆盖园区、分支和边缘场景，提供加密安全连接和SD-WAN能力，支持从中小型企业到大型企业的全规模部署",
+        "路由光网络系统和可插拔光模块解决方案服务于webscale客户AI基础设施互联需求，FY2025 AI基础设施订单超20亿美元"
+      ]
+    },
+    {
+      "name": "无线接入点",
+      "reasons": [
+        "无线接入点（Access Point）产品涵盖室内外型号和无线控制器，支持无缝漫游和语音/视频/数据融合接入",
+        "提供本地部署和云管（Meraki）双模式方案，与Catalyst/Meraki交换产品深度集成，形成有线无线融合的统一接入方案"
+      ]
+    },
+    {
+      "name": "网络安全",
+      "reasons": [
+        "网络安全FY2025营收80.94亿美元（+59%），为增长最快核心板块，受益Splunk全面整合",
+        "产品组合覆盖Network Security、IAM、SASE及Threat Intelligence/Detection/Response（TIDR）全领域",
+        "Splunk安全分析平台与Cisco XDR深度融合，打造统一威胁检测与响应方案；推出AI Defense保护AI资产安全",
+        "Cisco Hypershield为AI数据中心提供云原生分布式安全方案，内嵌于网络设备硬件层"
+      ]
+    },
+    {
+      "name": "远程软件",
+      "reasons": [
+        "远程软件FY2025营收41.54亿美元（+1%），以Webex Suite为核心，AI能力全面嵌入提升生产力",
+        "产品涵盖Webex会议/消息、协作终端设备、Contact Center和CPaaS云通信平台，支持本地/云/混合部署",
+        "Contact Center和CPaaS为增长驱动，Webex Suite受AI增强功能推动用户体验持续升级"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "SNDK"
+    }
+  ],
+  "name": "闪迪",
+  "alias": [
+    "Sandisk"
+  ],
+  "description": "Sandisk Corporation，全球领先的NAND闪存和数据存储解决方案供应商，2025年2月从西部数据（WDC）分拆独立上市。核心产品涵盖NAND闪存晶圆（BiCS8 3D NAND）、固态硬盘（企业级SSD/客户端SSD/消费级Crucial品牌）、可移动存储产品（SD卡/microSD/USB闪存盘）等。FY2025（截至2025/6/27）营收73.55亿美元（+10%），毛利率30.1%。Cloud端市场营收9.6亿美元（+195%）为增长最快领域。Q4营收19.01亿美元（+12% QoQ），Non-GAAP EPS 0.29美元，指引Q1 FY2026营收21-22亿美元（+10-16% QoQ）。推出256TB NVMe企业级SSD（UltraQLC平台），HBF（High Bandwidth Flash）正定义AI推理存储新范式。与Kioxia合资Flash Ventures（持股49.9%）共同开发BiCS 3D NAND技术。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "存储芯片",
+      "reasons": [
+        "全球NAND Flash核心原厂之一，市占约13.9%（第四），与铠侠合资Flash Ventures共享3D NAND产能",
+        "FY2026 Q3营收59.5亿美元（+251%），NAND Flash ASP和出货量双增驱动业绩爆发",
+        "从晶圆制造到品牌SSD的全产业链存储IDM，与铠侠合资协议延至2034年保障产能"
+      ]
+    },
+    {
+      "name": "NAND Flash",
+      "reasons": [
+        "全球NAND Flash核心供应商，与Kioxia合资Flash Ventures（持股49.9%）共同开发行业领先的BiCS 3D NAND技术，已量产BiCS8代产品",
+        "FY2025营收73.55亿美元（+10%），bit出货量增长6%，ASP提升4%，供给端格局优化推动盈利能力持续改善",
+        "提供NAND晶圆和组件产品，覆盖从TLC到QLC全品类，AI数据中心对高容量NAND需求推动技术升级和产品价值提升"
+      ]
+    },
+    {
+      "name": "固态硬盘",
+      "reasons": [
+        "企业级SSD和数据中心存储解决方案为核心增长引擎，推出256TB NVMe eSSD（UltraQLC平台），针对AI训练/推理的大容量存储需求",
+        "Cloud端市场营收9.6亿美元（+195%），数据中心bit出货量占比超12%，与NVIDIA GB300等AI平台合作推进客户认证",
+        "客户端SSD覆盖消费级（Crucial品牌）和OEM市场，具备从NAND到SSD的全栈垂直整合能力"
+      ]
+    },
+    {
+      "name": "移动硬盘",
+      "reasons": [
+        "全球消费级可移动存储市场领导者，产品涵盖SD卡、microSD卡、USB闪存盘等，SanDisk品牌在全球消费电子领域认知度极高",
+        "FY2025消费级营收22.68亿美元，覆盖摄影、游戏、移动设备等广泛应用场景，品牌和渠道优势构建稳定营收底盘",
+        "持续推出高容量高性能消费级存储产品，1TB/2TB SD卡和USB闪存盘满足创作者和AI端侧设备的大容量存储需求"
+      ]
+    }
+  ]
+}

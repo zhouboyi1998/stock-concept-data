@@ -1,0 +1,56 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "MU"
+    }
+  ],
+  "name": "美光科技",
+  "alias": [
+    "Micron"
+  ],
+  "description": "Micron Technology Inc.，全球领先的半导体存储解决方案供应商，核心产品涵盖DRAM芯片（DDR5/LPDDR5/GDDR）、HBM高带宽内存（HBM3E/HBM4）、NAND闪存（G9 QLC/TLC/SSD）等。FY2025（截至2025/8/28）营收373.78亿美元（+49%），GAAP毛利率39.8%，GAAP净利85.39亿美元（+998%），GAAP EPS 7.59美元。DRAM营收285.78亿美元（+62%），NAND营收85.03亿美元（+18%）。HBM营收Q4近20亿美元（年化近80亿），HBM3E行业领先。数据中心业务占总营收56%，毛利率52%。云存储业务单元（CMBU）营收135.2亿美元（+257%）。获美国CHIPS法案64亿美元资助用于本土制造扩产。Q1 FY2026指引营收125亿美元（+43.5%），毛利率超50%。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "存储芯片",
+      "reasons": [
+        "全球三大存储芯片厂商之一，DRAM市占约22%、NAND市占约13%",
+        "FY2025存储相关营收373.78亿美元（+49%），DRAM+NAND+NVM全覆盖",
+        "唯一同时具备DRAM、NAND及HBM三大产品线量产能力的美国存储IDM"
+      ]
+    },
+    {
+      "name": "DRAM",
+      "reasons": [
+        "全球三大DRAM厂商之一，FY2025 DRAM营收285.78亿美元（+62%），占总营收79%，市场份额约25%",
+        "产品涵盖DDR5/DDR4、LPDDR5/LPDDR5X、GDDR6/GDDR7等全系列DRAM，广泛应用于数据中心、PC、手机、汽车等领域",
+        "1γ（1-gamma）制程DRAM技术领先，在功耗、密度和性能上持续迭代，DRAM bit出货量和ASP双增驱动增长"
+      ]
+    },
+    {
+      "name": "HBM",
+      "reasons": [
+        "HBM（High Bandwidth Memory）为AI GPU/HPC芯片关键配套内存，美光HBM3E为业界领先产品，通过TSV 3D堆叠技术实现超高带宽",
+        "FY2025 Q4 HBM季度营收近20亿美元（年化运行率近80亿），CMBU营收135.2亿美元（+257%），HBM为主要增长引擎",
+        "已与主要客户签署2026年绝大部分HBM3E供应定价协议，HBM4正在与客户积极讨论规格和用量，AI需求驱动供不应求"
+      ]
+    },
+    {
+      "name": "NAND Flash",
+      "reasons": [
+        "全球领先的NAND Flash供应商，FY2025营收85.03亿美元（+18%），采用业界领先的G8和G9代3D NAND制程",
+        "产品涵盖数据中心SSD、客户端SSD（Crucial品牌）、Managed NAND（手机存储）、QLC/TLC等全品类",
+        "G9 QLC NAND SSD已出货OEM客户，支持AI PC和AI智能手机的大容量存储需求，数据中心SSD营收和份额创纪录"
+      ]
+    },
+    {
+      "name": "NVIDIA供应链",
+      "reasons": [
+        "美光HBM3E已通过英伟达认证并量产供货，用于H200/B200等AI GPU",
+        "HBM4正在与英伟达积极讨论规格和用量，下一代GPU平台HBM验证推进中",
+        "作为全球三大HBM供应商之一，直接受益于英伟达AI GPU出货量爆发式增长"
+      ]
+    }
+  ]
+}

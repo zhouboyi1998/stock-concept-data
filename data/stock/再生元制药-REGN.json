@@ -1,0 +1,84 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "REGN"
+    }
+  ],
+  "name": "再生元制药",
+  "alias": [
+    "Regeneron"
+  ],
+  "description": "再生元制药是一家领先的生物技术公司，致力于为严重疾病患者研发、开发并商业化变革生命的创新药物。公司由兼具临床与科研背景的医师科学家创立并掌舵，核心业务涵盖眼科、免疫与炎症性疾病、肿瘤、心血管与代谢疾病及基因治疗等领域。公司拥有自主创新的VelociSuite®技术平台（包括VelocImmune®全人源抗体发现平台等）和Regeneron Genetics Center®基因研究中心，已推出多款全球重磅生物药，并与赛诺菲（Sanofi）、拜耳（Bayer）等建立了全球战略合作。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "创新药",
+      "reasons": [
+        "2025年研发投入58.50亿美元（占营收40.8%），2026年计划研发投入约66亿美元",
+        "拥有约45-50个临床阶段在研项目，覆盖眼科、免疫、肿瘤、心血管代谢、基因治疗、罕见病等领域",
+        "2025年获得1个新药获批及11个新增适应症/新人群批准",
+        "Regeneron Genetics Center®已完成超200万例全外显子测序，驱动新靶点发现",
+        "核心技术平台持续拓展至双特异性抗体、基因编辑、RNAi、细胞治疗等下一代治疗模态"
+      ]
+    },
+    {
+      "name": "生物制药",
+      "reasons": [
+        "所有已上市产品均为生物大分子药物：单克隆抗体（Dupixent、Libtayo、Praluent、Kevzara、Evkeeza等）、VEGF Trap融合蛋白（EYLEA）等",
+        "VelocImmune®是全球领先的全人源单克隆抗体发现平台，已产出多款FDA批准的全人源抗体",
+        "VelociSuite®技术平台涵盖VelociGene®、VelociMab®、VelociMouse®等全套抗体发现、优化和产业化技术",
+        "公司拥有大规模生物药GMP生产能力，持续扩建美国和爱尔兰生产基地"
+      ]
+    },
+    {
+      "name": "眼科药物",
+      "reasons": [
+        "EYLEA HD（阿柏西普8mg）和EYLEA（阿柏西普2mg）是VEGF抑制剂，用于湿性年龄相关性黄斑变性、糖尿病性黄斑水肿、糖尿病视网膜病变及视网膜静脉阻塞",
+        "EYLEA HD和EYLEA 2025年美国净销售额合计43.85亿美元，全球合计约78.91亿美元（含拜耳海外销售）",
+        "EYLEA HD已获批RVO适应症及所有获批适应症每4周给药方案，预充式注射器FDA预计2026年Q2决定",
+        "Cemdisiran联合Pozelimab（C5抑制剂）治疗地理萎缩（GA）III期临床试验推进中"
+      ]
+    },
+    {
+      "name": "免疫药物",
+      "reasons": [
+        "Dupixent（度普利尤单抗/IL-4Rα）2025年全球净销售额178.07亿美元，覆盖特应性皮炎、哮喘、慢性鼻窦炎伴鼻息肉、嗜酸粒细胞性COPD、结节性痒疹、慢性自发性荨麻疹等10余项适应症",
+        "Dupixent是再生元自主研发、与赛诺菲合作商业化的重磅炸弹药物，全球超140万患者正在接受治疗",
+        "Kevzara（sarilumab/IL-6R）用于类风湿关节炎，2025年全球净销售额5.75亿美元",
+        "Itepekimab（IL-33单抗）用于COPD（前吸烟者）III期临床推进中，CRSwNP III期数据预计2027年读出",
+        "猫毛过敏（FelD1）和桦树花粉过敏（BetV1）抗体疗法III期均取得阳性结果，注册性试验已启动"
+      ]
+    },
+    {
+      "name": "抗肿瘤药",
+      "reasons": [
+        "Libtayo（西米普利单抗/PD-1）2025年全球净销售额14.52亿美元（+19%），已获批皮肤鳞状细胞癌、基底细胞癌、非小细胞肺癌等适应症",
+        "Libtayo获美国FDA和欧盟批准用于高复发风险辅助治疗CSCC，为首个且唯一获批该适应症的免疫疗法",
+        "Fianlimab（LAG-3抑制剂）联合Libtayo一线转移性黑色素瘤III期数据预计2026年上半年读出",
+        "拥有CD28共刺激双特异性抗体平台、BCMAxCD3（Lynozyfic）、CD20xCD3（Odronextamab）等多款血液肿瘤双抗在研",
+        "Linvoseltamab（BCMAxCD3）用于多发性骨髓瘤已获欧盟批准，美国BLA重新递交"
+      ]
+    },
+    {
+      "name": "心血管药物",
+      "reasons": [
+        "Praluent（alirocumab/PCSK9抑制剂）2025年全球净销售额8.57亿美元，用于高胆固醇血症及动脉粥样硬化性心血管疾病",
+        "Evkeeza（evinacumab/ANGPTL3单抗）用于纯合子家族性高胆固醇血症（HoFH），2025年美国净销售额1.62亿美元（+29%）",
+        "REGN7508和REGN9933（Factor XI抗体）作为新一代抗凝药，III期临床推进中，目标降低出血风险",
+        "Olatorepatide（GIP/GLP-1双受体激动剂）用于肥胖伴或不伴2型糖尿病，III期临床将于2026年启动",
+        "Olatorepatide联合Praluent（PCSK9）降脂减重联合方案临床项目将于2026年启动"
+      ]
+    },
+    {
+      "name": "基因治疗",
+      "reasons": [
+        "DB-OTO是基于AAV的基因疗法，用于OTOF基因突变导致的儿童重度遗传性听力损失，BLA已递交美国FDA",
+        "Regeneron Genetic Medicines（RGM）平台整合siRNA、CRISPR/Cas9基因编辑、基因治疗等多种技术",
+        "Cemdisiran（RNAi疗法）联合Pozelimab治疗全身型重症肌无力NDA已递交，PNH III期数据预计2026年下半年读出",
+        "与Alnylam、Intellia等基因技术领先企业建立战略合作"
+      ]
+    }
+  ],
+  "related": []
+}

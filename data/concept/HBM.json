@@ -1,0 +1,32 @@
+{
+  "name": "HBM",
+  "alias": [
+    "High Bandwidth Memory",
+    "高带宽内存"
+  ],
+  "description": "HBM（High Bandwidth Memory，高带宽存储器）是AI算力芯片的核心配套存储器，通过3D TSV硅通孔和微凸块技术将多层DRAM die垂直堆叠，实现超高带宽（HBM3E带宽超1.6TB/s）和低功耗，已成为NVIDIA/AMD等AI GPU的标配显存。全球HBM市场高度集中于三大存储原厂，2026年全球HBM市场规模预计达346-546亿美元。A股暂无HBM原厂企业，核心标的集中在先进封测、前驱体材料、封装塑封料、半导体设备四大环节，深度受益于全球HBM产能扩张带来的配套需求增长。",
+  "remarks": [
+    "SK海力士：50%",
+    "三星电子：30%",
+    "美光科技：15%"
+  ],
+  "stocks": [
+    {
+      "name": "SK海力士",
+      "reasons": []
+    },
+    {
+      "name": "三星电子",
+      "reasons": []
+    },
+    {
+      "name": "美光科技",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "存储芯片",
+    "DRAM",
+    "GPU"
+  ]
+}

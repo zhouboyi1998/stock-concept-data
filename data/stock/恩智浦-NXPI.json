@@ -1,0 +1,32 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "NXPI"
+    }
+  ],
+  "name": "恩智浦",
+  "alias": [
+    "NXP Semiconductors"
+  ],
+  "description": "恩智浦半导体（NXP Semiconductors N.V.）是全球领先的嵌入式处理与安全连接解决方案提供商，总部位于荷兰埃因霍温，纳斯达克上市（NXPI）。全球MCU市占率第一（约19%），安全控制器芯片全球市场领导者。FY2025营收122.69亿美元（-3%），Non-GAAP毛利率56.8%。2026Q1营收31.81亿美元（+12%），Q2指引中值34.5亿美元（+18% YoY）。业务覆盖汽车（58%）、工业与IoT（19%）、移动（13%）、通信基础设施（10%）四大终端市场。核心产品线：MCU（S32K/i.MX RT/MCX系列）、应用处理器（i.MX系列）、安全控制器（ePassport/eID/支付卡）、无线连接（NFC/UWB/BLE/WiFi）、模拟与接口（77GHz雷达/CAN/LIN/DC-DC）、RF功率放大器。2025年完成Kinara（边缘AI）和Aviva Links（车载SerDes）收购，出售MEMS传感器业务（9亿美元）。联合台积电/博世/英飞凌投资德累斯顿合资晶圆厂（VSMC）。拥有业界最广泛的ARM处理器产品组合。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "MCU",
+      "reasons": [
+        "全球通用MCU市占率第一（约19%），40年以上MCU设计经验，产品覆盖8/16/32位全系列",
+        "S32K汽车MCU平台支持ASIL-D最高功能安全等级，i.MX RT跨界处理器融合MPU性能与MCU易用性",
+        "MCX系列新一代MCU内置机器学习NPU，在汽车/工控/消费等领域拥有庞大的存量客户和开发生态"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "拥有极为广泛的模拟与接口产品组合，在汽车模拟市场大部分应用领域占据市场第一",
+        "集成77GHz雷达方案用于ADAS，电池管理产品用于xEV电气化，CAN/LIN/以太网/SerDes用于车载网络",
+        "产品涵盖I²C/I³C/GPIO/LED驱动/实时时钟/信号开关/DC-DC/AC-DC/高性能RF放大器等多种品类"
+      ]
+    }
+  ]
+}

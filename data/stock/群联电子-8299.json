@@ -1,0 +1,34 @@
+{
+  "codes": [
+    {
+      "region": "TW",
+      "code": "8299"
+    }
+  ],
+  "name": "群联电子",
+  "alias": [
+    "Phison"
+  ],
+  "description": "群联电子（Phison Electronics）是全球NAND Flash控制芯片及存储解决方案领导厂商，总部位于台湾苗栗县竹南镇。公司采取「控制芯片+模组」双轮驱动模式，提供从主控芯片设计、系统整合、IP授权到全方案交钥匙（Turnkey）服务，产品覆盖SSD（PCIe/SATA）、eMMC、UFS、SD及USB全接口，应用涵盖消费、工控、车用及企业级市场。FY2025营收726.64亿新台币（+23.3%），EPS 41.98元。2026Q1营收409.67亿新台币（+196% YoY），EPS 68.80元，毛利率61.3%创历史新高。公司正从传统控制芯片及模组厂转型为AI存储基础设施暨边缘AI运算平台供应商（群联3.0），推出aiDAPTIV+方案将NAND Flash转化为AI延伸记忆体资源、Pascari企业级SSD产品线及AI Data Platform。旗下持有中国子公司宏芯宇约22%股权，预计2026下半年IPO。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "芯片设计",
+      "reasons": [
+        "全球NAND Flash控制芯片领导厂商，为SD协会（SDA）、ONFI、UFS协会董事会成员，参与行业标准制定",
+        "PCIe Gen5 SSD控制芯片E28/E37T量产供货，PCIe Gen7企业级控制器预计2026年7-8月交付样品",
+        "从消费级控制芯片延伸至企业级SSD控制芯片，完成从SATA到PCIe Gen7全世代覆盖",
+        "2026Q1控制芯片出货量季增30%，累计控制芯片出货量居全球前列"
+      ]
+    },
+    {
+      "name": "闪存主控芯片",
+      "reasons": [
+        "全球NAND控制芯片产业先驱，产品覆盖SSD/eMMC/UFS/SD/USB全接口控制芯片，市占率位居全球前三",
+        "PCIe Gen5消费级和企业级控制芯片量产，PCIe Gen7控制芯片研发进度领先",
+        "2026年2月PCIe SSD控制芯片出货量年增29%，Mobile Controller出货量年增47%",
+        "独立主控全球市占率超20%，为NAND原厂之外最大的第三方控制芯片供应商"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "ON"
+    }
+  ],
+  "name": "安森美半导体",
+  "alias": [
+    "ON Semiconductor",
+    "onsemi"
+  ],
+  "description": "安森美（ON Semiconductor，品牌名onsemi）是全球领先的智能电源和感知技术解决方案供应商，总部位于美国亚利桑那州斯科茨代尔，纳斯达克上市（ON）。1999年从摩托罗拉半导体分拆独立，通过一系列战略并购成长为功率半导体和传感器领域的重要力量。FY2025营收59.95亿美元（-15.3%），Non-GAAP毛利率38.4%，Non-GAAP EPS 2.35美元。2026Q1营收15.13亿美元（+5% YoY），Non-GAAP毛利率38.5%（连续三个季度扩张），Non-GAAP EPS 0.64美元，确认走出周期性底部。三大业务部门：Power Solutions Group（PSG，47%，SiC/MOSFET/IGBT/GaN/功率模块）、Analog and Mixed-Signal Group（AMG，38%，模拟混合信号/Treo平台/电源管理/连接/隔离）、Intelligent Sensing Group（ISG，15%，CMOS图像传感器/SPAD/SWIR）。终端市场：汽车（51%）、工业（28%）、其他含AI数据中心（21%）。核心产品包括：EliteSiC碳化硅MOSFET/JFET/模块（垂直整合衬底→外延→器件→封装→模块）、Hyperlux CMOS图像传感器（ADAS/机器视觉）、Treo模拟混合信号平台（设计漏斗超10亿美元）、垂直氮化镓vGaN（700V/1200V）、IGBT/MOSFET功率模块、SPAD/SiPM单光子探测器、SWIR短波红外传感器。2025年运营现金流17.6亿美元，自由现金流14.2亿美元（FCF利润率24%创历史纪录）。全球员工约26,000人。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "功率半导体",
+      "reasons": [
+        "PSG部门为第一大业务（FY2025营收28.05亿美元，占比47%），产品覆盖SiC MOSFET/JFET/模块、MOSFET、IGBT、功率模块、垂直GaN全品类",
+        "EliteSiC碳化硅产品线覆盖650V-1700V电压等级，M3S SiC MOSFET开关损耗较竞品低20%",
+        "深耕汽车电气化（EV牵引逆变器/OBC/电池管理）、AI数据中心电源、储能系统、工业驱动等主流功率场景"
+      ]
+    },
+    {
+      "name": "碳化硅",
+      "reasons": [
+        "全球少数实现SiC全产业链垂直整合（衬底→外延→器件→封装→模块）的供应商，EliteSiC为核心品牌",
+        "SiC MOSFET/JFET/Cascode JFET/Combo FET/SiC二极管及功率模块全方位产品组合，EV SiC方案在中国新款车型中市占约55%",
+        "AI数据中心SiC应用快速放量，SiC JFET面向下一代AI机架800V直流架构，储能系统SiC混合模块效率达99.5%"
+      ]
+    },
+    {
+      "name": "氮化镓",
+      "reasons": [
+        "自研垂直氮化镓（vGaN）技术700V/1200V器件已向首批客户送样，预计2026年末量产、2027年起贡献营收",
+        "与GlobalFoundries达成合作开发650V横向GaN器件，与英诺赛科探索200mm GaN-on-Silicon代工产能",
+        "整体GaN解决方案设计项目规模突破15亿美元，2026年下半年将新增20款GaN器件送样"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "AMG部门为第二大业务（FY2025营收22.62亿美元，占比38%），产品覆盖电源管理/信号链/连接/隔离/非易失存储等",
+        "Treo平台为行业领先的可扩展模拟混合信号技术平台，支持宽电压/高温/SoC架构，设计漏斗超10亿美元，毛利率60-70%",
+        "产品线包括多相控制器/栅极驱动器/DC-DC/AC-DC转换器/LDO/超声波AFE/单对以太网/隔离/逻辑等全品类"
+      ]
+    },
+    {
+      "name": "图像传感器",
+      "reasons": [
+        "ISG部门为第三大业务（FY2025营收9.28亿美元，占比15%），专注高性能CMOS图像传感器和光子检测技术",
+        "Hyperlux系列提供业界领先的高动态范围/低噪声成像，覆盖汽车ADAS/工业机器视觉/机器人/安防全场景",
+        "拥有SPAD单光子雪崩二极管/SiPM硅光电倍增管/SWIR短波红外等差异化光子检测技术，深度传感和3D成像领域布局领先"
+      ]
+    }
+  ]
+}

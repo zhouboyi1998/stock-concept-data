@@ -1,0 +1,30 @@
+{
+  "name": "CDMO",
+  "description": "合同研发生产组织（Contract Development and Manufacturing Organization），为制药企业提供从工艺开发到商业化生产的一站式外包服务，涵盖小分子化学药、生物药（单抗/双抗/ADC）、多肽/寡核苷酸等新分子类型。核心价值在于帮助药企降低研发生产成本、加速上市周期。",
+  "stocks": [
+    {
+      "name": "药明康德",
+      "reasons": []
+    },
+    {
+      "name": "凯莱英",
+      "reasons": []
+    },
+    {
+      "name": "康龙化成",
+      "reasons": []
+    },
+    {
+      "name": "普洛药业",
+      "reasons": []
+    },
+    {
+      "name": "皓元医药",
+      "reasons": []
+    },
+    {
+      "name": "九洲药业",
+      "reasons": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "NVDA"
+    }
+  ],
+  "name": "英伟达",
+  "alias": [
+    "NVIDIA"
+  ],
+  "description": "NVIDIA Corporation，全球AI计算和图形处理领域绝对领导者。核心产品涵盖GPU（数据中心AI加速器/游戏显卡）、AI芯片（Blackwell/Rubin架构）、自动驾驶芯片（DRIVE Thor/Orin）、网络芯片（NVLink/InfiniBand）等。2026财年（截至2026/1/25）营收2159.38亿美元（+65%），GAAP毛利率71.1%，GAAP净利1200.67亿美元（+65%），GAAP EPS 4.90美元（+67%）。数据中心业务营收1937亿美元（+68%，占89.7%），Blackwell架构贡献数据中心收入超60%。发布全新Rubin平台（6款新芯片），推理token成本较Blackwell降低10倍。Q4单季营收681亿美元（+73%），Q1 FY2027指引约780亿美元。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "GPU",
+      "reasons": [
+        "全球GPU绝对龙头，覆盖数据中心AI加速、游戏图形、专业可视化全场景，数据中心GPU占全球AI训练和推理市场超80%份额",
+        "2026财年数据中心业务营收1937亿美元（+68%），Blackwell架构GPU贡献超60%收入，GB200 NVL72整机柜方案ASP约300万美元",
+        "GeForce RTX 50系列游戏显卡全年营收160亿美元（+41%），DLSS 4.5等AI技术持续巩固图形领域统治地位"
+      ]
+    },
+    {
+      "name": "AI芯片",
+      "reasons": [
+        "全球AI训练/推理芯片的绝对标准制定者，Blackwell架构大规模量产爬坡，Hopper持续贡献，新一代Rubin平台（Vera Rubin/NVLink 6）已发布",
+        "2026财年Q4数据中心单季营收623亿美元（+75%），推理需求已占数据中心计算收入约40%，agentic AI成为下一波增长驱动力",
+        "CUDA生态拥有超过600万开发者，覆盖几乎所有AI框架和云平台，形成极高的软硬件协同壁垒"
+      ]
+    },
+    {
+      "name": "自动驾驶芯片",
+      "reasons": [
+        "2026财年汽车与机器人业务营收56亿美元（+229%），是增长最快的业务板块，DRIVE Thor/Orin芯片获全球主流车企采用",
+        "DRIVE Thor单芯片算力达2000 TOPS，支持L4/L5级自动驾驶，已获理想、小鹏、比亚迪、奔驰等头部车企量产定点",
+        "从DRIVE OS到Isaac机器人平台，构建完整的自动驾驶和具身智能软硬件生态体系"
+      ]
+    },
+    {
+      "name": "医学影像模型",
+      "reasons": [
+        "MONAI（Medical Open Network for AI）为全球领先的开源医学影像AI框架，下载量超450万次，被3,000+论文引用，为医学影像AI研究的行业标准框架",
+        "MONAI Multi-modal平台集成Radiology Agent Framework、Surgical Agent Framework等医疗AI智能体框架，推动多模态医学影像AI生态建设",
+        "与Mount Sinai联合开发RadViLLA 3D视觉语言模型（基于75,000例CT扫描和100万+问答对训练），为3D放射影像AI模型的前沿代表"
+      ]
+    },
+    {
+      "name": "空间模型",
+      "reasons": [
+        "Omniverse平台是基于OpenUSD的3D数字孪生与物理仿真平台，精确建模三维空间的物体、光照、材质和碰撞关系",
+        "Omniverse作为空间智能基础设施，为自动驾驶（DRIVE Sim）、机器人（Isaac Sim）、工业数字孪生等提供物理精确的仿真环境",
+        "Omniverse NuRec神经重建库可从手机拍摄图像在OpenUSD环境中重建真实世界的数字孪生，实现空间高保真重建",
+        "Omniverse与Cosmos形成'空间锚点+规模扩展'协同：Omniverse提供精确空间建模，Cosmos提供时序预测与多样性生成"
+      ]
+    },
+    {
+      "name": "世界模型",
+      "reasons": [
+        "发布Cosmos 3世界模型平台，集成HASH物理引擎实现高精度4D物理仿真，为自动驾驶和机器人训练提供大规模合成数据",
+        "构建从Omniverse到Cosmos的完整世界模型技术栈，采用'神经符号'方法融合神经辐射场与符号物理引擎",
+        "GTC 2026重点展示世界模型在自动驾驶和具身智能领域的应用，推理token中约40%来自物理AI和世界模型场景",
+        "Cosmos平台为开发者提供从仿真环境生成到模型训练的端到端工作流，确立全球世界模型基础设施标准"
+      ]
+    }
+  ]
+}

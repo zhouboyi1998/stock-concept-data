@@ -1,0 +1,38 @@
+{
+  "name": "CRO",
+  "description": "合同研究组织（Contract Research Organization），为制药企业提供新药研发全流程外包服务，涵盖靶点发现、化合物筛选、临床前安全性评价、临床试验（I-IV期）、数据管理与统计分析、注册申报等。核心价值在于帮助药企降低研发成本、缩短研发周期、控制失败风险。",
+  "stocks": [
+    {
+      "name": "药明康德",
+      "reasons": []
+    },
+    {
+      "name": "康龙化成",
+      "reasons": []
+    },
+    {
+      "name": "百奥赛图",
+      "reasons": []
+    },
+    {
+      "name": "泰格医药",
+      "reasons": []
+    },
+    {
+      "name": "昭衍新药",
+      "reasons": []
+    },
+    {
+      "name": "皓元医药",
+      "reasons": []
+    },
+    {
+      "name": "成都先导",
+      "reasons": []
+    },
+    {
+      "name": "美迪西",
+      "reasons": []
+    }
+  ]
+}

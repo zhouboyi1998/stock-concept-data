@@ -1,0 +1,50 @@
+{
+  "name": "NVIDIA供应链",
+  "alias": [
+    "英伟达供应链"
+  ],
+  "description": "英伟达（NVIDIA）是全球最大的AI芯片企业，主营AI训练/推理GPU（H100/B200/GB系列等），在AI算力芯片市场占据主导地位。英伟达AI服务器产业链带动高端PCB（高多层板、HDI板）、先进封装（2.5D/3D GPU封装）、HBM存储等需求爆发。",
+  "stocks": [
+    {
+      "name": "工业富联",
+      "reasons": []
+    },
+    {
+      "name": "SK海力士",
+      "reasons": []
+    },
+    {
+      "name": "三星电子",
+      "reasons": []
+    },
+    {
+      "name": "美光科技",
+      "reasons": []
+    },
+    {
+      "name": "铠侠",
+      "reasons": []
+    },
+    {
+      "name": "胜宏科技",
+      "reasons": []
+    },
+    {
+      "name": "景旺电子",
+      "reasons": []
+    },
+    {
+      "name": "麦捷科技",
+      "reasons": []
+    },
+    {
+      "name": "麦格米特",
+      "reasons": []
+    },
+    {
+      "name": "领益制造",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

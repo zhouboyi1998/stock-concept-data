@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "TW",
+      "code": "2344"
+    }
+  ],
+  "name": "华邦电子",
+  "alias": [
+    "Winbond"
+  ],
+  "description": "华邦电子（Winbond Electronics）是台湾利基型存储IC设计及制造大厂，全球NOR Flash市占第一（约23%）、SLC NAND市占第三（约15%），同时深耕利基型DRAM（DDR4/LPDDR4 20nm制程）。2026Q1营收新台币382.53亿元（+91.3%），税后净利101.18亿元（EPS 2.25元），毛利率53.4%，均创历史新高。受益于AI服务器需求爆发，DDR4/LPDDR4结构性供给缺口预计延续至2028年，NOR Flash及SLC NAND价格持续上行。高雄厂DRAM产能从15K扩至24K，Flash产能从40K扩至50K。CUBE（客制化超高带宽AI DRAM）预计2027年量产。产能利用率100%，客户长约交货周期拉长至52周以上。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "存储芯片",
+      "reasons": [
+        "全球利基型存储芯片IDM厂商，产品线覆盖DRAM+Flash全品类",
+        "2026Q1存储事业营收299.23亿元（+167%），毛利率56.6%，产能利用率100%",
+        "4月单月EPS 1.66元，已超过前三年度总和，存储超级周期核心受益标的"
+      ]
+    },
+    {
+      "name": "NOR Flash",
+      "reasons": [
+        "全球NOR Flash龙头（市占约23%），连续多年稳居第一",
+        "高容量NOR Flash在服务器BIOS、车用、AIoT等领域需求强劲，供给持续偏紧",
+        "2026年NOR Flash价格维持有利上行趋势，营收预计年增70%以上"
+      ]
+    },
+    {
+      "name": "NAND Flash",
+      "reasons": [
+        "全球SLC NAND第三（市占约15%），24nm SLC NAND 2026Q2起贡献显著营收",
+        "受3D NAND原厂退出2D NAND市场影响，供给缺口扩大推动价格持续上涨",
+        "SLC NAND毛利率优于NOR Flash，目标实现NOR+SLC NAND双料领先"
+      ]
+    },
+    {
+      "name": "DRAM",
+      "reasons": [
+        "利基型DRAM核心供应商，CMS业务（客制化内存）2026Q1营收占比47%",
+        "DDR4/LPDDR4受HBM排挤效应影响，结构性供给缺口预计延续至2028年后",
+        "20nm DRAM制程量产，高雄厂产能年底扩至24K，位元增长率约80%"
+      ]
+    }
+  ]
+}

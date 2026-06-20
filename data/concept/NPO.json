@@ -1,0 +1,34 @@
+{
+  "name": "NPO",
+  "alias": [
+    "近封装光学"
+  ],
+  "description": "NPO（Near-Packaged Optics，近封装光学）是介于传统可插拔光模块与CPO之间的过渡方案，将光引擎移至交换芯片封装基板附近但不共封装，通过短距离电互连实现高带宽、低功耗传输。NPO相比CPO工艺难度更低、维护性更好，有望率先在AI集群scale-up场景落地。NPO是AI数据中心光互连从可插拔向CPO演进的关键中间形态。",
+  "stocks": [
+    {
+      "name": "中际旭创",
+      "reasons": []
+    },
+    {
+      "name": "新易盛",
+      "reasons": []
+    },
+    {
+      "name": "光迅科技",
+      "reasons": []
+    },
+    {
+      "name": "联特科技",
+      "reasons": []
+    },
+    {
+      "name": "铭普光磁",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "光模块",
+    "LPO",
+    "CPO"
+  ]
+}

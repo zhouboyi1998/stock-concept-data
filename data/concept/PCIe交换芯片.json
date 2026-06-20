@@ -1,0 +1,55 @@
+{
+  "name": "PCIe交换芯片",
+  "alias": [
+    "PCIe Switch"
+  ],
+  "description": "PCIe交换芯片（PCIe Switch）是AI服务器和数据中心内部实现多设备高速互连的核心芯片，负责在CPU、GPU、SSD、网卡等设备之间进行PCIe通道的扩展和数据的交换路由。在AI服务器中，PCIe交换芯片解决了CPU与GPU之间、GPU与GPU之间的高效数据传输问题，是构建Scale-up超节点方案的基础部件。全球PCIe交换芯片市场由Broadcom（博通）主导（约70%份额），AI服务器单台平均配置约3颗PCIe交换芯片。据测算，2025年全球PCIe交换芯片市场规模突破69亿美元，2029年国内AI服务器领域市场规模有望达170亿元。PCIe交换芯片技术正从PCIe 5.0（32GT/s）向PCIe 6.0（64GT/s PAM4）和PCIe 7.0（128GT/s PAM4）持续迭代。",
+  "remarks": [
+    "博通：70%"
+  ],
+  "stocks": [
+    {
+      "name": "博通",
+      "reasons": []
+    },
+    {
+      "name": "微芯科技",
+      "reasons": []
+    },
+    {
+      "name": "迈威尔科技",
+      "reasons": []
+    },
+    {
+      "name": "万通发展",
+      "reasons": []
+    },
+    {
+      "name": "澜起科技",
+      "reasons": []
+    },
+    {
+      "name": "芯动科技",
+      "reasons": [
+        "未上市"
+      ]
+    },
+    {
+      "name": "青芯半导体",
+      "reasons": [
+        "未上市"
+      ]
+    },
+    {
+      "name": "井芯微电子",
+      "reasons": [
+        "未上市"
+      ]
+    }
+  ],
+  "related": [
+    "PCIe",
+    "PCIe信号重整芯片",
+    "闪存主控芯片"
+  ]
+}

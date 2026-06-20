@@ -1,0 +1,48 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "MSFT"
+    }
+  ],
+  "name": "微软",
+  "alias": [
+    "Microsoft"
+  ],
+  "description": "Microsoft Corporation，全球最大的软件公司和领先的云计算平台提供商，核心业务涵盖智能云（Azure/GitHub）、生产力与商业流程（Microsoft 365/LinkedIn/Dynamics）、个人计算（Windows/Xbox/Bing）三大板块。FY2025（截至2025/6/30）营收2817.24亿美元（+15%），GAAP运营利润1285.28亿美元（+17%），GAAP净利1018.32亿美元（+16%），GAAP EPS 13.64美元（+16%）。Intelligent Cloud营收1062.65亿美元（+21%），Azure营收首超750亿美元（+34%）。Productivity and Business Processes营收1208.10亿美元（+13%），Microsoft 365 Commercial云收入增长15%，Consumer订阅达8900万。More Personal Computing营收546.49亿美元（+7%），Gaming业务含Activision Blizzard完整贡献。Microsoft 365 Copilot AI助手和Azure AI服务全面嵌入业务线，资本支出大幅增长以支持AI基础设施建设。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "操作系统",
+      "reasons": [
+        "Windows为全球桌面操作系统绝对领导者，市场份额超70%，Windows OEM授权是More Personal Computing业务的核心收入来源之一",
+        "Windows 11持续迭代，AI PC时代Windows Copilot+PC引领端侧AI功能创新，推动PC换机周期",
+        "Windows Server在企业级服务器操作系统市场与Linux二分天下，Azure Hybrid Benefit策略连接云端与本地部署"
+      ]
+    },
+    {
+      "name": "云计算",
+      "reasons": [
+        "Azure为全球第二大公有云平台，FY2025 Intelligent Cloud营收1062.65亿美元（+21%），Azure营收首超750亿美元（+34%）",
+        "Azure AI服务（Azure OpenAI Service/AI Search/Copilot Runtime）为核心增长驱动力，企业AI工作负载迁移加速云消耗",
+        "GitHub、Visual Studio、企业级SaaS形成完整云开发生态，全球企业数字化转型和AI需求推动Azure持续高增长"
+      ]
+    },
+    {
+      "name": "办公软件",
+      "reasons": [
+        "Microsoft 365为全球最大生产力软件平台，FY2025营收1208.10亿美元（+13%），Commercial云收入增长15%，Consumer订阅达8900万用户",
+        "Microsoft 365 Copilot AI助手全面嵌入Word/Excel/PPT/Teams等核心办公应用，推动ARPU提升和用户付费意愿",
+        "LinkedIn（人才解决方案+广告+Premium）和Dynamics 365（ERP/CRM）构成企业级SaaS矩阵，Dynamics 365营收增长19%"
+      ]
+    },
+    {
+      "name": "游戏主机",
+      "reasons": [
+        "Xbox Series X/S为全球主流游戏主机平台之一，含Activision Blizzard King完整游戏生态（Call of Duty/Candy Crush/Diablo/Warcraft）",
+        "Xbox Game Pass订阅服务（Core/Core+Ultimate）覆盖主机+PC+云游戏多端，为游戏行业领先的订阅制模式",
+        "FY2025 Gaming业务在Activision Blizzard完整财年贡献下持续增长，Xbox Cloud Gaming拓展移动和智能电视等新场景"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "MRVL"
+    }
+  ],
+  "name": "迈威尔科技",
+  "alias": [
+    "Marvell",
+    "美满电子"
+  ],
+  "description": "迈威尔科技（Marvell Technology）是全球领先的数据基础设施半导体解决方案提供商，总部位于美国加州圣克拉拉。公司以存储控制芯片起家，经2018年起大规模战略转型，通过收购Cavium（计算）、Inphi（光互连）、Innovium（交换）、XConn（PCIe交换）、Celestial AI（光子互连）等完成从存储芯片商向AI基础设施互连平台商的蜕变。核心业务涵盖光互连DSP（PAM4/相干）、定制AI ASIC（XPU）、以太网交换芯片（Teralynx）、PCIe/CXL交换与重定时器、DPU（OCTEON 10）、安全处理器及存储控制器等。FY2026（截至2026年1月31日）营收81.95亿美元（+42% YoY）创历史新高，数据中心终端市场占比74%。FY2027 Q1营收24.18亿美元（+28% YoY），Non-GAAP EPS $0.80。2026年3月英伟达战略投资20亿美元并达成NVLink Fusion合作。公司在高速光DSP市场拥有约70%全球份额，定制ASIC在手18个XPU项目、生命周期收入漏斗750亿美元。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "芯片设计",
+      "reasons": [
+        "全球领先的数据基础设施半导体解决方案提供商，产品覆盖光互连DSP、定制ASIC、以太网交换、PCIe/CXL互联、DPU、安全处理器、存储控制器等全品类",
+        "推出全球首款3nm 102.4Tbps Teralynx T100 AI交换芯片、全球首款260通道PCIe 6.0交换芯片Structera S",
+        "1.6T PAM4 Ara DSP（3nm）和1.6T ZR/ZR+ COLORZ 1600（2nm Electra）均为行业首款",
+        "OCTEON 10 Fusion为业界首款5nm 5G基带DPU处理器，集成AI加速引擎"
+      ]
+    },
+    {
+      "name": "DSP芯片",
+      "reasons": [
+        "全球高速光DSP芯片龙头，PAM4 DSP全球市场份额约70%，在400G/800G/1.6T数据中心光模块中占据主导地位",
+        "3nm Ara 1.6T PAM4 DSP平台全球首款量产，2nm Electra相干DSP行业首款集成MACsec安全",
+        "全球首款1.6T ZR/ZR+ DCI模块COLORZ 1600，支持20km/120km/1,000km跨数据中心互连",
+        "光互连全栈布局覆盖PAM4 DSP、相干DSP、TIA/Driver、硅光子、CPO（Celestial AI Photonic Fabric），FY27增速指引超70%",
+        "收购Inphi（100亿美元）奠定光DSP龙头地位，收购Celestial AI（32.5亿美元）布局下一代CPO光子互连"
+      ]
+    },
+    {
+      "name": "闪存主控芯片",
+      "reasons": [
+        "Bravera系列SSD/HDD存储控制器覆盖企业级和数据中心市场，面向NVMe SSD和近线HDD应用",
+        "Bravera HDD控制器被全球三大HDD制造商（希捷、西部数据、东芝）采用，支持SATA和SAS双接口",
+        "企业级SSD控制器支持TLC和QLC NAND颗粒，受益AI数据中心对大容量高速存储需求",
+        "存储控制器与PCIe重定时器、CXL内存池化方案形成协同，完善数据中心存储基础设施布局"
+      ]
+    },
+    {
+      "name": "以太网交换芯片",
+      "reasons": [
+        "通过收购Innovium获得数据中心以太网交换芯片产品线Teralynx系列，为AI数据中心提供高速交换芯片方案",
+        "Teralynx 7（51.2T）为业界首款3nm制程以太网交换芯片，支持800G端口，面向超大规模AI数据中心",
+        "1.6T Teralynx 10已发布，持续追赶Broadcom Tomahawk系列的技术代差",
+        "以太网交换芯片与光互连DSP、PCIe Retimer/Switch、NVLink Fusion形成AI数据中心完整互连方案"
+      ]
+    },
+    {
+      "name": "PCIe信号重整芯片",
+      "reasons": [
+        "全球领先的数据基础设施半导体方案商，提供PCIe Retimer/Redriver完整高速互连信号调理芯片组合",
+        "推出全球首款260通道PCIe 6.0交换芯片Structera S，与Retimer协同覆盖AI数据中心高速互连需求",
+        "PCIe Retimer/Redriver芯片与存储控制器、CXL内存池化方案形成完整数据中心互联产品矩阵",
+        "高速SerDes技术积累深厚，覆盖PCIe、以太网、光互连等多协议信号调理场景"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "2026年3月推出全球首款260通道PCIe 6.0交换芯片Structera S，2026Q3开始送样，配套CXL 3.1控制器",
+        "通过收购XConn（PCIe交换初创公司）获得PCIe交换芯片核心技术，为AI集群高速互连关键器件",
+        "PCIe交换芯片与重定时器、CXL内存池化、NVLink Fusion形成完整数据中心互联产品矩阵",
+        "Structera S支持260通道，为业界最高密度的PCIe交换芯片，直接对标Broadcom PEX89000系列"
+      ]
+    }
+  ]
+}

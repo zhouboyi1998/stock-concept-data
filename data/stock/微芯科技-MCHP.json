@@ -1,0 +1,65 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "MCHP"
+    }
+  ],
+  "name": "微芯科技",
+  "alias": [
+    "Microchip Technology"
+  ],
+  "description": "微芯科技（Microchip Technology Inc.）是全球领先的嵌入式控制解决方案提供商，总部位于美国亚利桑那州钱德勒市，纳斯达克上市（MCHP）。全球MCU市占率第五（约13%），全球EEPROM市占率第一。FY2026（截至2026/3/31）净销售额47.13亿美元（+7.1%），Non-GAAP净利润9.34亿美元（+31.8%）。Q4 FY2026净销售额13.11亿美元（+35.1% YoY），Q1 FY2027指引14.56亿美元（+35.3%）。三大产品线：混合信号MCU（50%，PIC/AVR/SAM三大架构）、模拟产品（28%，电源管理/接口/混合信号）、其他（22%，FPGA/存储/数据中心连接）。核心产品包括：PIC/AVR/SAM MCU系列、PolarFire非易失FPGA（RISC-V架构）、串行EEPROM（全球第一）、Serial SRAM/Flash存储、Adaptec/Microsemi存储控制器、PCIe Gen6交换机/重定时器、CXL内存控制器、CryptoAuthentication安全芯片、mSiC碳化硅MOSFET。自有美国晶圆厂（内部制造占比35%），连续142个季度Non-GAAP盈利。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "存储芯片",
+      "reasons": [
+        "全球领先的嵌入式存储产品供应商，产品线覆盖串行/并行EEPROM、Serial Flash、Serial SRAM、NVSRAM、OTP EPROM全品类",
+        "EEPROM全球市占第一，Serial SRAM在嵌入式领域具有广泛的应用基础",
+        "推出业界首款商用串行内存控制器，面向高性能数据中心计算应用"
+      ]
+    },
+    {
+      "name": "EEPROM",
+      "reasons": [
+        "全球EEPROM市占第一，通过收购Atmel获得完整的串行EEPROM（24AA/24LC/AT24系列）产品线",
+        "EEPROM产品覆盖从1Kb到4Mb全容量系列，在工业/汽车/消费电子市场拥有最广泛的客户群",
+        "在汽车级AEC-Q100认证EEPROM领域具有先发优势和技术积累"
+      ]
+    },
+    {
+      "name": "FPGA",
+      "reasons": [
+        "全球独特的非易失Flash FPGA供应商，PolarFire系列功耗比等效SRAM FPGA低50%",
+        "PolarFire SoC FPGA集成RISC-V CPU集群，为业界首款确定性 coherent RISC-V SoC FPGA",
+        "在航天国防领域具有深厚积累，RT PolarFire抗辐射FPGA面向卫星和太空任务，符合QML Class Q/Mil Std 883"
+      ]
+    },
+    {
+      "name": "MCU",
+      "reasons": [
+        "全球通用MCU市占第五（约13%），拥有PIC（8/16位）、AVR（8/32位）、SAM（32位ARM Cortex）三大独立架构",
+        "MCU为第一大产品线（FY2026营收23.55亿美元，占比50%），从8位到64位PIC64 RISC-V全覆盖",
+        "MPLAB开发生态+免费XC编译器降低开发者门槛，在工业控制/消费电子/汽车嵌入式领域存量客户庞大"
+      ]
+    },
+    {
+      "name": "模拟芯片",
+      "reasons": [
+        "模拟产品为第二大产品线（FY2026营收13.29亿美元，占比28.2%，同比+14.9%），增速最快",
+        "产品覆盖电源管理（DC-DC/稳压器）、线性（运放/比较器）、热管理、MOSFET、RF、门驱动、USB/以太网接口等全品类",
+        "mSiC碳化硅MOSFET在800V高压e-Fuse参考设计中应用，面向电动汽车和AI数据中心电源场景"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "旗下Switchtec系列PCIe交换芯片为全球第二大供应商（仅次于Broadcom），在PCIe交换芯片市场占据重要份额",
+        "Switchtec PFX/PEF系列覆盖PCIe 3.0/4.0/5.0，支持灵活扇出、虚拟化、错误隔离等企业级功能",
+        "通过收购PMC Sierra和Microsemi获得PCIe交换芯片核心技术及存储/网络互连产品矩阵",
+        "在存储系统和工业服务器领域具有较强客户基础，提供PCIe交换芯片配套的存储主控和时钟方案"
+      ]
+    }
+  ]
+}

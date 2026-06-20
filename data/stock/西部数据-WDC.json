@@ -1,0 +1,40 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "WDC"
+    }
+  ],
+  "name": "西部数据",
+  "alias": [
+    "Western"
+  ],
+  "description": "Western Digital Corp，全球领先的机械硬盘（HDD）制造商，2025年2月完成闪存业务分拆（SanDisk独立上市）后成为纯HDD公司。核心产品涵盖企业级大容量HDD（Ultrastar系列/ePMR/UltraSMR技术）、消费级HDD（WD Blue/WD Black/WD Red Pro/WD Purple Pro系列）、个人存储设备（My Book/My Passport外置硬盘）等。FY2025（截至2025/6/27）持续经营营收95.20亿美元（+51%），GAAP毛利率38.8%（+1070bps），GAAP运营利润23.34亿美元（扭亏）。Cloud端市场占营收88%，前三大客户各占10%以上。Q4营收26.05亿美元（+30% YoY），Non-GAAP毛利率41.3%，Non-GAAP EPS 1.66美元。运营现金流7.46亿美元，自由现金流6.75亿美元。Q1 FY2026指引营收同比增长22%。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "机械硬盘",
+      "reasons": [
+        "全球两大HDD制造商之一，FY2025持续经营营收95.20亿美元（+51%），分拆SanDisk后成为纯HDD公司",
+        "掌握ePMR（能效辅助垂直磁记录）和UltraSMR（叠瓦式磁记录）等核心HDD技术，Ultrastar企业级HDD容量覆盖至30TB+",
+        "2025年Cloud端市场占营收88%，AI时代数据湖/冷存储对大容量HDD需求持续增长，HDD仍是大规模数据存储最经济的方案"
+      ]
+    },
+    {
+      "name": "企业级硬盘",
+      "reasons": [
+        "Ultrastar系列企业级HDD是Cloud数据中心和超大规模客户的存储基石，Cloud端营收FY2025约83.8亿美元（+65%），占公司营收88%",
+        "三大超大规模云客户合计占营收超30%，全球云基础设施投资持续扩大（CapEx增长47%）驱动企业级HDD需求",
+        "采用ePMR/UltraSMR/三阶执行器等先进技术持续提升面密度，单盘容量不断突破，满足AI数据湖对TCO最优存储介质的刚需"
+      ]
+    },
+    {
+      "name": "个人存储",
+      "reasons": [
+        "WD品牌覆盖消费级HDD全场景：WD Blue（桌面）、WD Black（游戏）、WD Red Pro（NAS）、WD Purple Pro（安防）、My Book/My Passport（外置备份）",
+        "FY2025 Client+Consumer营收约11.3亿美元，覆盖PC OEM、DIY装机、家庭NAS、视频监控等多元化市场",
+        "WD品牌在消费存储领域拥有极高认知度和渠道覆盖，持续迭代大容量消费级HDD满足个人创作者和家庭数据中心的存储需求"
+      ]
+    }
+  ]
+}

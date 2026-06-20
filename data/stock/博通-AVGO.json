@@ -1,0 +1,58 @@
+{
+  "codes": [
+    {
+      "region": "US",
+      "code": "AVGO"
+    }
+  ],
+  "name": "博通",
+  "alias": [
+    "Broadcom"
+  ],
+  "description": "Broadcom Inc.，全球领先的半导体和基础设施软件解决方案提供商，AI芯片+网络芯片+企业软件三大业务架构。核心产品涵盖定制AI加速器（XPU，为Google等超大规模客户定制Tomahawk/Ironwood TPU）、AI以太网交换机芯片（Tomahawk 5/Trident/Jericho系列）、企业软件（VMware Cloud Foundation虚拟化平台）等。FY2025（截至2025/11/2）营收638.87亿美元（+24%），Non-GAAP净利337.28亿美元（+42%），Non-GAAP EPS 6.82美元（+40%），Adjusted EBITDA 430亿美元（margin 67%），自由现金流269亿美元（+39%）。半导体解决方案营收368.58亿美元（+22%），其中AI半导体营收200亿美元（+65%）为最大增长引擎；基础设施软件营收270.29亿美元（+26%），VMware Cloud Foundation转型顺利。Q4单季营收180亿美元（+28%），AI半导体74%增速，AI订单积压730亿美元。Q1 FY2026指引AI半导体翻倍至82亿美元。",
+  "remarks": [],
+  "concepts": [
+    {
+      "name": "AI芯片",
+      "reasons": [
+        "定制AI加速器（XPU）为Google TPU等超大规模客户提供AI训练/推理芯片设计+制造，FY2025 AI半导体营收200亿美元（+65%）",
+        "Q4 AI半导体营收65亿美元（+74%），AI订单积压达730亿美元，近期获Anthropic 110亿美元XPU追加订单及第五家XPU客户10亿美元订单",
+        "拥有完整AI数据中心芯片组合：XPU AI加速器+以太网AI交换机+NIC网卡+光学PHY，AI收入占半导体业务54%"
+      ]
+    },
+    {
+      "name": "网络芯片",
+      "reasons": [
+        "全球数据中心以太网交换机芯片领导者，Tomahawk 5（51.2T）和Trident/Jericho系列服务AI集群Spine-Leaf架构组网",
+        "以太网AI交换机在超大规模数据中心部署持续加速，AI数据中心的GPU集群间互联对高速交换机需求呈指数级增长",
+        "拥有从交换机芯片（Ethernet Switch）、NIC网卡、PHY物理层芯片到光模块DSP的全系列网络连接半导体产品线"
+      ]
+    },
+    {
+      "name": "以太网交换芯片",
+      "reasons": [
+        "全球以太网交换芯片绝对龙头，Tomahawk/Trident/Jericho三大系列覆盖数据中心/企业网/运营商全场景，市占率约65-70%",
+        "Tomahawk 5（51.2T）为业界最高带宽交换芯片，大规模部署于AWS/Azure/GCP等全球主要云服务商AI数据中心",
+        "拥有从交换芯片到PHY（SerDes）、NIC网卡、光模块DSP、Optic VCSEL驱动器的完整数据中心互联芯片生态",
+        "交换芯片+PHY/NIC的软硬件生态壁垒极高，客户迁移成本巨大，构成Broadcom在数据通信芯片领域的长期护城河"
+      ]
+    },
+    {
+      "name": "PCIe交换芯片",
+      "reasons": [
+        "全球PCIe交换芯片龙头，市场份额约70%，PEX89000系列覆盖PCIe 5.0/6.0全代际交换芯片",
+        "PEX89000系列支持48-256通道灵活配置，为AI服务器和数据中心PCIe交换芯片行业标准",
+        "PCIe交换芯片与旗下AI XPU、以太网交换机、NIC网卡、光互连芯片形成完整数据中心平台生态",
+        "在PCIe交换芯片领域深耕十余年，拥有最完善的软件生态和客户兼容性认证体系"
+      ]
+    },
+    {
+      "name": "虚拟化软件",
+      "reasons": [
+        "VMware Cloud Foundation（VCF）提供计算虚拟化、网络、存储、管理和安全的全栈云基础设施平台，含vSphere/vSAN/NSX等核心产品",
+        "FY2025基础设施软件营收270.29亿美元（+26%），VMware从永久许可向订阅模式转型成功，客户持续向VCF迁移",
+        "VCF集成Kubernetes支持容器化和AI/ML工作负载，VMware Private AI为企业在本地运行生成式AI提供解决方案"
+      ]
+    }
+  ]
+}

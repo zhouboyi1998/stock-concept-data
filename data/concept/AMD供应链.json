@@ -1,0 +1,14 @@
+{
+  "name": "AMD供应链",
+  "alias": [
+    "超威半导体供应链"
+  ],
+  "description": "AMD（Advanced Micro Devices）是全球领先的CPU和GPU芯片设计企业，主营Ryzen（消费级CPU）、EPYC（服务器CPU）、Radeon/Instinct（GPU）等产品线。AMD是AI算力芯片市场英伟达的主要竞争对手，其AI营收有望在2027年达数百亿美元。",
+  "stocks": [
+    {
+      "name": "通富微电",
+      "reasons": []
+    }
+  ],
+  "related": []
+}

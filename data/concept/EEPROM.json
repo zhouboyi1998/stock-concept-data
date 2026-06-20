@@ -1,0 +1,45 @@
+{
+  "name": "EEPROM",
+  "alias": [
+    "电可擦除可编程只读存储器"
+  ],
+  "description": "EEPROM（Electrically Erasable Programmable Read-Only Memory）是一种可以按字节擦写且断电后数据不丢失的非易失性存储器，广泛应用于摄像头模组参数存储、手机屏幕校准数据、物联网设备配置信息、工业控制参数、汽车电子（OBD/ADAS校准/电池管理）、智能卡及金融IC卡等领域。相比NOR Flash，EEPROM支持更精细的字节级读写，在小容量（512bit-2Mb）参数存储场景中具有不可替代性。全球EEPROM市场规模约15-20亿美元，行业随物联网终端出货和汽车电子化程度提升而稳步增长。",
+  "remarks": [
+    "微芯科技：36%",
+    "聚辰股份：17%",
+    "意法半导体：17%",
+    "安森美半导体：9%",
+    "罗姆半导体：4%"
+  ],
+  "stocks": [
+    {
+      "name": "微芯科技",
+      "reasons": []
+    },
+    {
+      "name": "聚辰股份",
+      "reasons": []
+    },
+    {
+      "name": "意法半导体",
+      "reasons": []
+    },
+    {
+      "name": "安森美半导体",
+      "reasons": []
+    },
+    {
+      "name": "罗姆半导体",
+      "reasons": []
+    },
+    {
+      "name": "普冉股份",
+      "reasons": []
+    }
+  ],
+  "related": [
+    "存储芯片",
+    "NAND Flash",
+    "NOR Flash"
+  ]
+}
